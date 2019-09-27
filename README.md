@@ -1,6 +1,6 @@
 # Python Tutorials for NLP, ML, AI
 
-(C) 2016-2018 by [Damir Cavar]
+(C) 2016-2019 by [Damir Cavar]
 
 See the licensing details on the individual documents and in the [LICENSE] file in the code folder.
 
