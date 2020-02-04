@@ -2,6 +2,9 @@
 
 (C) 2016-2020 by [Damir Cavar]
 
+See also: [NLP-Lab](https://nlp-lab.org/) at Indiana University.
+
+
 See the licensing details on the individual documents and in the [LICENSE] file in the code folder.
 
 The files in this folder are Jupyter-based tutorials for NLP, ML, AI in Python for classes I teach in Computational Linguistics, Natural Language Processing (NLP), Machine Learning (ML), and Artificial Intelligence (AI) in the [Computational Linguistics Program] in the [Department of Linguistics] at [Indiana University].
