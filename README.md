@@ -1,6 +1,8 @@
 # Python Tutorials for NLP, ML, AI
 
-(C) 2016-2020 by [Damir Cavar]
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/dcavar/python-tutorial-notebooks/master)
+
+(C) 2016-2020 by [Damir Cavar] 
 
 See also: [NLP-Lab](https://nlp-lab.org/) at [Indiana University].
 
