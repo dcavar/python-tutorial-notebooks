@@ -1,6 +1,6 @@
 # Python Tutorials for NLP, ML, AI
 
-(C) 2016-2020 by [Damir Cavar]
+(C) 2016-2021 by [Damir Cavar]
 
 See also: [NLP-Lab](https://nlp-lab.org/) at [Indiana University].
 
@@ -14,6 +14,10 @@ If you find this material useful, please cite the author and source (that is [Da
 
 
 ## Introduction
+
+The instructions below are somewhat outdated. I use just [Jupyter-Lab](https://jupyter.org/) now. Follow [the instructions here](https://jupyter.org/install) to set it up on different machine types and operating systems.
+
+
 
 To run this material in [Jupyter] you need to have Python 3.x and [Jupyter] installed. You can save yourself some trouble by using the [Anaconda Python 3.x distribution].
 
