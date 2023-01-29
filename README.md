@@ -10,7 +10,7 @@ See the licensing details on the individual documents and in the [LICENSE] file 
 
 The files in this folder are [Jupyter]-based tutorials for NLP, ML, AI in Python for classes I teach in Computational Linguistics, Natural Language Processing (NLP), Machine Learning (ML), and Artificial Intelligence (AI) at [Indiana University].
 
-If you find this material useful, please cite the author and source (that is [Damir Cavar] and all the sources cited in the relevant notebooks). Please let me know, if you have some suggestions how to correct the notebooks, improve them, or add some material and explanations.
+If you find this material useful, please cite the author and source (that is [Damir Cavar] and all the sources cited in the relevant notebooks). Please let me know if you have some suggestions on how to correct the notebooks, improve them, or add some material and explanations.
 
 
 ## Introduction

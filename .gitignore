@@ -3,7 +3,7 @@ __pycache__/
 *.py[cod]
 *$py.class
 *.pt
-models/
+**/models/
 Class_9_7_20.ipynb
 jupyterhub.sqlite
 jupyterhub_cookie_secret
