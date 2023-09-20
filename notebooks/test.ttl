@@ -1,0 +1,27 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix iu: <http://www.iu.edu/kg/ontology/Example#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix time: <http://www.w3.org/2006/time#> .
+@prefix vaem: <http://www.linkedmodel.org/schema/vaem#> .
+
+<http://www.iu.edu/kg/ontology/> a owl:Ontology ;
+    rdfs:label "Beispielontology"@de,
+        "Example Ontology"@en ;
+    dc:creator "Damir Cavar" ;
+    vaem:acronym "EO" ;
+    vaem:hasOwner "Natural Language Processing Lab"@en ;
+    vaem:hasSteward "Natural Language Processing Lab" ;
+    vaem:publishedDate "2023-09-19T22:59:15Z" ;
+    skos:prefLabel "Example Ontology" ;
+    time:year "2023" .
+
+iu:ExampleConcept rdfs:label "Beispielkonzept"@de,
+        "Example Concept"@en ;
+    vaem:abbreviation "ExCo" ;
+    vaem:acronym "EC" .
+
+iu:TestConcept rdfs:label "Testkonzept"@de,
+        "Test Concept"@en .
+

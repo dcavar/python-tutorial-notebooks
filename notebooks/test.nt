@@ -1,0 +1,16 @@
+<http://www.iu.edu/kg/ontology/Example#ExampleConcept> <http://www.w3.org/2000/01/rdf-schema#label> "Example Concept"@en .
+<http://www.iu.edu/kg/ontology/Example#TestConcept> <http://www.w3.org/2000/01/rdf-schema#label> "Test Concept"@en .
+<http://www.iu.edu/kg/ontology/Example#ExampleConcept> <http://www.w3.org/2000/01/rdf-schema#label> "Beispielkonzept"@de .
+<http://www.iu.edu/kg/ontology/> <http://www.w3.org/2000/01/rdf-schema#label> "Example Ontology"@en .
+<http://www.iu.edu/kg/ontology/> <http://www.linkedmodel.org/schema/vaem#publishedDate> "2023-09-19T22:59:15Z" .
+<http://www.iu.edu/kg/ontology/> <http://www.linkedmodel.org/schema/vaem#hasOwner> "Natural Language Processing Lab"@en .
+<http://www.iu.edu/kg/ontology/> <http://www.w3.org/2006/time#year> "2023" .
+<http://www.iu.edu/kg/ontology/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Ontology> .
+<http://www.iu.edu/kg/ontology/Example#ExampleConcept> <http://www.linkedmodel.org/schema/vaem#abbreviation> "ExCo" .
+<http://www.iu.edu/kg/ontology/Example#ExampleConcept> <http://www.linkedmodel.org/schema/vaem#acronym> "EC" .
+<http://www.iu.edu/kg/ontology/> <http://purl.org/dc/elements/1.1/creator> "Damir Cavar" .
+<http://www.iu.edu/kg/ontology/Example#TestConcept> <http://www.w3.org/2000/01/rdf-schema#label> "Testkonzept"@de .
+<http://www.iu.edu/kg/ontology/> <http://www.linkedmodel.org/schema/vaem#acronym> "EO" .
+<http://www.iu.edu/kg/ontology/> <http://www.w3.org/2000/01/rdf-schema#label> "Beispielontology"@de .
+<http://www.iu.edu/kg/ontology/> <http://www.linkedmodel.org/schema/vaem#hasSteward> "Natural Language Processing Lab" .
+<http://www.iu.edu/kg/ontology/> <http://www.w3.org/2004/02/skos/core#prefLabel> "Example Ontology" .
