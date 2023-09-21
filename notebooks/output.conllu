@@ -1,80 +1,14 @@
-# text = What's so important to underline is that Metz worked for both Northrop and Lockheed Martin in New York City and is not known for hyperbole.
+# text = John loves to read books and Mary newspapers.
 # sent_id = 0
-# constituency = (ROOT (S (SBAR (WHNP (WP What)) (S (VP (VBZ 's) (ADJP (RB so) (JJ important) (SBAR (S (VP (TO to) (VP (VB underline))))))))) (VP (VBZ is) (SBAR (IN that) (S (NP (NNP Metz)) (VP (VP (VBD worked) (PP (IN for) (NP (NP (CC both) (NP (NNP Northrop)) (CC and) (NP (NNP Lockheed) (NNP Martin))) (PP (IN in) (NP (NML (NNP New) (NNP York)) (NNP City)))))) (CC and) (VP (VBZ is) (RB not) (VP (VBN known) (PP (IN for) (NP (NN hyperbole))))))))) (. .)))
-# sentiment = 2
-1	What	what	PRON	WP	PronType=Int	4	nsubj	_	start_char=0|end_char=4|ner=O
-2	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=4|end_char=6|ner=O
-3	so	so	ADV	RB	_	4	advmod	_	start_char=7|end_char=9|ner=O
-4	important	important	ADJ	JJ	Degree=Pos	10	csubj:outer	_	start_char=10|end_char=19|ner=O
-5	to	to	PART	TO	_	6	mark	_	start_char=20|end_char=22|ner=O
-6	underline	underline	VERB	VB	VerbForm=Inf	4	xcomp	_	start_char=23|end_char=32|ner=O
-7	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	cop	_	start_char=33|end_char=35|ner=O
-8	that	that	SCONJ	IN	_	10	mark	_	start_char=36|end_char=40|ner=O
-9	Metz	Metz	PROPN	NNP	Number=Sing	10	nsubj	_	start_char=41|end_char=45|ner=S-ORG
-10	worked	work	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	start_char=46|end_char=52|ner=O
-11	for	for	ADP	IN	_	13	case	_	start_char=53|end_char=56|ner=O
-12	both	both	CCONJ	CC	_	13	cc:preconj	_	start_char=57|end_char=61|ner=O
-13	Northrop	Northrop	PROPN	NNP	Number=Sing	10	obl	_	start_char=62|end_char=70|ner=S-ORG
-14	and	and	CCONJ	CC	_	15	cc	_	start_char=71|end_char=74|ner=O
-15	Lockheed	Lockheed	PROPN	NNP	Number=Sing	13	conj	_	start_char=75|end_char=83|ner=B-ORG
-16	Martin	Martin	PROPN	NNP	Number=Sing	13	conj	_	start_char=84|end_char=90|ner=E-ORG
-17	in	in	ADP	IN	_	20	case	_	start_char=91|end_char=93|ner=O
-18	New	New	ADJ	NNP	Degree=Pos	19	amod	_	start_char=94|end_char=97|ner=B-GPE
-19	York	York	PROPN	NNP	Number=Sing	20	compound	_	start_char=98|end_char=102|ner=I-GPE
-20	City	City	PROPN	NNP	Number=Sing	10	obl	_	start_char=103|end_char=107|ner=E-GPE
-21	and	and	CCONJ	CC	_	24	cc	_	start_char=108|end_char=111|ner=O
-22	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	24	aux:pass	_	start_char=112|end_char=114|ner=O
-23	not	not	PART	RB	_	24	advmod	_	start_char=115|end_char=118|ner=O
-24	known	know	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	10	conj	_	start_char=119|end_char=124|ner=O
-25	for	for	ADP	IN	_	26	case	_	start_char=125|end_char=128|ner=O
-26	hyperbole	hyperbole	NOUN	NN	Number=Sing	24	obl	_	start_char=129|end_char=138|ner=O
-27	.	.	PUNCT	.	_	10	punct	_	start_char=138|end_char=139|ner=O
-
-# text = Yet even after flying the pre-production F-22, a far more mature machine than the YF-23 ever was, he makes it quite clear that Northrop's offering was on par with Lockheed's, if not superior.
-# sent_id = 1
-# constituency = (ROOT (S (CC Yet) (PP (ADVP (RB even)) (IN after) (S (VP (VBG flying) (NP (NP (NP (DT the) (NN pre-production)) (NP (NNP F) (HYPH -) (CD 22))) (, ,) (SBAR (NP (NP (NP (DT a) (ADJP (ADVP (RB far) (RBR more)) (JJ mature)) (NN machine)) (PP (IN than) (NP (DT the) (NNP YF) (HYPH -) (CD 23)))) (ADVP (RB ever)) (VP (VBD was)))))))) (, ,) (NP (PRP he)) (VP (VBZ makes) (S (NP (NP (PRP it))) (ADJP (RB quite) (JJ clear)) (SBAR (IN that) (S (NP (NP (NNP Northrop) (POS 's)) (NN offering)) (VP (VBD was) (PP (IN on) (NP (NN par))) (PP (IN with) (NP (NP (NNP Lockheed) (POS 's)) (, ,) (CONJP (IN if) (RB not) (JJ superior))))))))) (. .)))
-# sentiment = 0
-1	Yet	yet	CCONJ	CC	_	25	cc	_	start_char=140|end_char=143|ner=O
-2	even	even	ADV	RB	_	4	advmod	_	start_char=144|end_char=148|ner=O
-3	after	after	SCONJ	IN	_	4	mark	_	start_char=149|end_char=154|ner=O
-4	flying	fly	VERB	VBG	VerbForm=Ger	25	advcl	_	start_char=155|end_char=161|ner=O
-5	the	the	DET	DT	Definite=Def|PronType=Art	6	det	_	start_char=162|end_char=165|ner=O
-6	pre-production	pre-production	NOUN	NN	Number=Sing	4	obj	_	start_char=166|end_char=180|ner=O
-7	F	F	PROPN	NNP	Number=Sing	4	obj	_	start_char=181|end_char=182|ner=B-PRODUCT
-8	-	-	PUNCT	HYPH	_	9	punct	_	start_char=182|end_char=183|ner=I-PRODUCT
-9	22	22	NUM	CD	NumForm=Digit|NumType=Card	7	dep	_	start_char=183|end_char=185|ner=E-PRODUCT
-10	,	,	PUNCT	,	_	15	punct	_	start_char=185|end_char=186|ner=O
-11	a	a	DET	DT	Definite=Ind|PronType=Art	15	det	_	start_char=187|end_char=188|ner=O
-12	far	far	ADV	RB	Degree=Pos	13	advmod	_	start_char=189|end_char=192|ner=O
-13	more	more	ADV	RBR	Degree=Cmp	14	advmod	_	start_char=193|end_char=197|ner=O
-14	mature	mature	ADJ	JJ	Degree=Pos	15	amod	_	start_char=198|end_char=204|ner=O
-15	machine	machine	NOUN	NN	Number=Sing	6	appos	_	start_char=205|end_char=212|ner=O
-16	than	than	ADP	IN	_	18	case	_	start_char=213|end_char=217|ner=O
-17	the	the	DET	DT	Definite=Def|PronType=Art	18	det	_	start_char=218|end_char=221|ner=B-PRODUCT
-18	YF	YF	PROPN	NNP	Number=Sing	15	nmod	_	start_char=222|end_char=224|ner=I-PRODUCT
-19	-	-	PUNCT	HYPH	_	20	punct	_	start_char=224|end_char=225|ner=I-PRODUCT
-20	23	23	NUM	CD	NumForm=Digit|NumType=Card	18	nummod	_	start_char=225|end_char=227|ner=E-PRODUCT
-21	ever	ever	ADV	RB	_	22	advmod	_	start_char=228|end_char=232|ner=O
-22	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	25	cop	_	start_char=233|end_char=236|ner=O
-23	,	,	PUNCT	,	_	25	punct	_	start_char=236|end_char=237|ner=O
-24	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	25	nsubj	_	start_char=238|end_char=240|ner=O
-25	makes	make	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=241|end_char=246|ner=O
-26	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	25	expl	_	start_char=247|end_char=249|ner=O
-27	quite	quite	ADV	RB	_	28	advmod	_	start_char=250|end_char=255|ner=O
-28	clear	clear	ADJ	JJ	Degree=Pos	25	xcomp	_	start_char=256|end_char=261|ner=O
-29	that	that	SCONJ	IN	_	35	mark	_	start_char=262|end_char=266|ner=O
-30	Northrop	Northrop	PROPN	NNP	Number=Sing	32	nmod:poss	_	start_char=267|end_char=275|ner=S-ORG
-31	's	's	PART	POS	_	30	case	_	start_char=275|end_char=277|ner=O
-32	offering	offering	NOUN	NN	Number=Sing	35	nsubj	_	start_char=278|end_char=286|ner=O
-33	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	35	cop	_	start_char=287|end_char=290|ner=O
-34	on	on	ADP	IN	_	35	case	_	start_char=291|end_char=293|ner=O
-35	par	par	NOUN	NN	Number=Sing	28	ccomp	_	start_char=294|end_char=297|ner=O
-36	with	with	ADP	IN	_	37	case	_	start_char=298|end_char=302|ner=O
-37	Lockheed	Lockheed	PROPN	NNP	Number=Sing	35	nmod	_	start_char=303|end_char=311|ner=S-ORG
-38	's	's	PART	POS	_	37	case	_	start_char=311|end_char=313|ner=O
-39	,	,	PUNCT	,	_	42	punct	_	start_char=313|end_char=314|ner=O
-40	if	if	SCONJ	IN	_	42	mark	_	start_char=315|end_char=317|ner=O
-41	not	not	PART	RB	_	42	advmod	_	start_char=318|end_char=321|ner=O
-42	superior	superior	ADJ	JJ	Degree=Pos	35	advcl	_	start_char=322|end_char=330|ner=O
-43	.	.	PUNCT	.	_	25	punct	_	start_char=330|end_char=331|ner=O
+# constituency = (ROOT (S (NP (NNP John)) (VP (VBZ loves) (S (VP (TO to) (VP (VB read) (NP (NP (NNS books)) (CC and) (NP (NNP Mary) (NNS newspapers))))))) (. .)))
+# sentiment = 1
+1	John	John	PROPN	NNP	Number=Sing	2	nsubj	_	start_char=0|end_char=4|ner=S-PERSON
+2	loves	love	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=5|end_char=10|ner=O
+3	to	to	PART	TO	_	4	mark	_	start_char=11|end_char=13|ner=O
+4	read	read	VERB	VB	VerbForm=Inf	2	xcomp	_	start_char=14|end_char=18|ner=O
+5	books	book	NOUN	NNS	Number=Plur	4	obj	_	start_char=19|end_char=24|ner=O
+6	and	and	CCONJ	CC	_	7	cc	_	start_char=25|end_char=28|ner=O
+7	Mary	Mary	PROPN	NNP	Number=Sing	5	conj	_	start_char=29|end_char=33|ner=S-PERSON
+8	newspapers	newspaper	NOUN	NNS	Number=Plur	5	conj	_	start_char=34|end_char=44|ner=O
+9	.	.	PUNCT	.	_	2	punct	_	start_char=44|end_char=45|ner=O
 
