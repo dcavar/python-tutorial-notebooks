@@ -1,0 +1,129 @@
+PART 1—ABOUT TITLE 2 OF THE CODE OF FEDERAL REGULATIONS AND SUBTITLE A
+
+Authority:31 U.S.C. 503; 31 U.S.C. 1111; 41 U.S.C. 405; Reorganization Plan No. 2 of 1970; E.O. 11541, 35 FR 10737, 3 CFR, 1966–1970, p. 939.
+
+Source:69 FR 26280, May 11, 2004, unless otherwise noted.
+
+Subpart A—Introduction to Title 2 of the CFR
+
+§ 1.100 Content of this title.
+
+This title contains— 
+
+(a) Office of Management and Budget (OMB) guidance to Federal agencies on government-wide policies and procedures for the award and administration of grants and agreements; and 
+
+(b) Federal agency regulations implementing that OMB guidance. 
+
+§ 1.105 Organization and subtitle content.
+
+(a) This title is organized into two subtitles. 
+
+(b) The OMB guidance described in § 1.100(a) is published in subtitle A. Publication of the OMB guidance in the CFR does not change its nature—it is guidance and not regulation. 
+
+(c) Each Federal agency that publishes regulations implementing the OMB guidance has a chapter in subtitle B in which it issues those regulations. The Federal agency regulations in subtitle B differ in nature from the OMB guidance in subtitle A because the OMB guidance is not regulatory (Federal agency regulations in subtitle B may give regulatory effect to the OMB guidance, to the extent that the agency regulations require compliance with all or portions of the guidance). 
+
+§ 1.110 Issuing authorities.
+
+OMB issues this subtitle. Each Federal agency that has a chapter in subtitle B of this title issues that chapter. 
+
+Subpart B—Introduction to Subtitle A
+
+§ 1.200 Purpose of chapters I and II.
+
+(a) Chapters I and II of subtitle A provide OMB guidance to Federal agencies that helps ensure consistent and uniform government-wide policies and procedures for management of the agencies' grants and agreements. 
+
+(b) There are two chapters for publication of the guidance because portions of it may be revised as a result of ongoing efforts to streamline and simplify requirements for the award and administration of grants and other financial assistance (and thereby implement the Federal Financial Assistance Management Improvement Act of 1999, Pub. L. 106–107). 
+
+(c) The OMB guidance in its initial form—before completion of revisions described in paragraph (b) of this section—is published in chapter II of this subtitle. When revisions to a part of the guidance are finalized, that part is published in chapter I and removed from chapter II. 
+
+§ 1.205 Applicability to grants and other funding instruments.
+
+The types of instruments that are subject to the guidance in this subtitle vary from one portion of the guidance to another (note that each part identifies the types of instruments to which it applies). All portions of the guidance apply to grants and cooperative agreements, some portions also apply to other types of financial assistance or nonprocurement instruments, and some portions also apply to procurement contracts. For example, the: 
+
+(a) Guidance on debarment and suspension in part 180 of this subtitle applies broadly to all financial assistance and other nonprocurement transactions, and not just to grants and cooperative agreements. 
+
+(b) Cost principles in parts 220, 225 and 230 of this subtitle apply to procurement contracts, as well as to financial assistance, although those principles are implemented for procurement contracts through the Federal Acquisition Regulation in title 48 of the CFR, rather than through Federal agency regulations on grants and agreements in this title. 
+
+[70 FR 51863, Aug. 31, 2005]
+
+§ 1.210 Applicability to Federal agencies and others.
+
+(a) This subtitle contains guidance that directly applies only to Federal agencies. 
+
+(b) The guidance in this subtitle may affect others through each Federal agency's implementation of the guidance, portions of which may apply to— 
+
+(1) The agency's awarding or administering officials; 
+
+(2) Non-Federal entities that receive or apply for the agency's grants or agreements or receive subawards under those grants or agreements; or 
+
+(3) Any other entities involved in agency transactions subject to the guidance in this chapter. 
+
+§ 1.215 Relationship to previous issuances.
+
+Although some of the guidance was organized differently within OMB circulars or other documents, much of the guidance in this subtitle existed prior to the establishment of title 2 of the CFR. Specifically: 
+
+Guidance
+
+in * * *
+
+On
+
+* * *
+
+Previously
+
+was in * * *
+
+(a) Chapter I, part 180
+
+Nonprocurement debarment and suspension
+
+OMB guidance that conforms with the government-wide common rule (see 60 FR 33036, June 26, 1995).
+
+(b) Chapter I, part 182
+
+Drug-free workplace requirements
+
+OMB guidance (54 FR 4946, January 31, 1989) and a government-wide common rule (as amended at 68 FR 66534, November 26, 2003).
+
+(c) Chapter II, part 200
+
+Uniform administrative requirements, cost principles, and audit requirements for federal awards
+
+OMB Circulars A–21, “Cost Principles for Educational Institutions” (Chapter II, part 225); A–87, “Cost Principles for State, Local and Indian Tribal Governments” (Chapter II, part 225); A–89, “Federal Domestic Assistance Program Information”; ”; A–102 and a government-wide common rule (53 FR 8034, March 11, 1988); A–110, “Uniform Administrative Requirements for Awards and Other Agreements with Institutions of Higher Education, Hospitals, and Other Nonprofit Organizations” (Chapter II, part 215); A–122, “Cost Principles for Non-Profit Organizations” (Chapter II, part 230); and A–133 “Audits of States, Local Governments and Non-Profit Organizations”.
+
+[79 FR 75878, Dec. 19, 2014]
+
+§ 1.220 Federal agency implementation of this subtitle.
+
+A Federal agency that awards grants and agreements subject to the guidance in this subtitle implements the guidance in agency regulations in subtitle B of this title and/or in policy and procedural issuances, such as internal instructions to the agency's awarding and administering officials. An applicant or recipient would see the effect of that implementation in the organization and content of the agency's announcements of funding opportunities and in its award terms and conditions. 
+
+§ 1.230 Maintenance of this subtitle.
+
+OMB issues guidance in this subtitle after publication in the Federal Register. Any portion of the guidance that has a potential impact on the public is published with an opportunity for public comment. 
+
+Subpart C—Responsibilities of OMB and Federal Agencies
+
+§ 1.300 OMB responsibilities.
+
+OMB is responsible for: 
+
+(a) Issuing and maintaining the guidance in this subtitle, as described in § 1.230. 
+
+(b) Interpreting the policy requirements in this subtitle. 
+
+(c) Reviewing Federal agency regulations implementing the requirements of this subtitle, as required by Executive Order 12866. 
+
+(d) Conducting broad oversight of government-wide compliance with the guidance in this subtitle. 
+
+(e) Performing other OMB functions specified in this subtitle. 
+
+§ 1.305 Federal agency responsibilities.
+
+The head of each Federal agency that awards and administers grants and agreements subject to the guidance in this subtitle is responsible for: 
+
+(a) Implementing the guidance in this subtitle. 
+
+(b) Ensuring that the agency's components and subcomponents comply with the agency's implementation of the guidance. 
+
+(c) Performing other functions specified in this subtitle. 

@@ -1,0 +1,25 @@
+MEDLINE: Overview
+
+MEDLINE is the National Library of Medicine’s (NLM) premier bibliographic database that contains more than 29 million references to journal articles in life sciences with a concentration on biomedicine. A distinctive feature of MEDLINE is that the records are indexed with NLM Medical Subject Headings (MeSH).
+
+MEDLINE is the primary component of PubMed, a literature database developed and maintained by the NLM National Center for Biotechnology Information (NCBI). MEDLINE is the online counterpart to the MEDical Literature Analysis and Retrieval System (MEDLARS) that originated in 1964 (see MEDLINE history).
+
+The majority of journals are selected for MEDLINE based on the recommendation of the Literature Selection Technical Review Committee (LSTRC), an NIH-chartered advisory committee of external experts.
+
+Time coverage: MEDLINE includes literature published from 1966 to present, and selected coverage of literature prior to that period. For details about pre-1966 citations see OLDMEDLINE Data.
+
+Source: Currently, citations from more than 5,200 worldwide journals in about 40 languages.
+
+Updates: Citations are added to PubMed 7 days a week.
+
+Broad subject coverage: In line with the Collection and Preservation Policy of the NLM, the subject scope of MEDLINE is biomedicine and health, broadly defined to encompass those areas of the life sciences, behavioral sciences, chemical sciences, and bioengineering needed by health professionals and others engaged in basic research and clinical care, public health, health policy development, or related educational activities. MEDLINE also covers life sciences vital to biomedical practitioners, researchers, and educators, including aspects of biology, environmental science, marine biology, plant and animal science as well as biophysics and chemistry.
+
+The majority of the publications in MEDLINE are scholarly journals; however, a small number of newspapers, magazines, and newsletters considered useful to particular segments of the NLM broad user community are also included.
+
+Availability: Searching MEDLINE via PubMed results in a list of citations (including authors, title, source, and often an abstract) to journal articles and an indication of free electronic full-text availability. Searching is free of charge and does not require registration.
+
+A growing number of MEDLINE citations in PubMed contain a link to the free full-text of the article archived in PubMed Central. Some MEDLINE citations also have publisher-provided links to the full-text of the article at the journal website; exact details depend on the publisher's access requirements.
+
+NLM also supports access to MEDLINE data via download with documentation available at MEDLINE/PubMed Data Documentation – additional access to various MEDLINE services is often available from medical libraries, many public libraries, and commercial sources.
+
+MedlinePlus is a consumer-oriented health information resource from the NLM. It contains carefully selected links to online resources with authoritative health information on a broad range of health topics. MedlinePlus has more information on the difference between MedlinePlus and MEDLINE. Health consumers are encouraged to discuss search results with their health care provider.
