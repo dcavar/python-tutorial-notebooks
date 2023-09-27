@@ -1,6 +1,8 @@
 Plant Cells vs. Animal Cells
 green plant cells
 
+Author: John Smith
+
 The presence of chlorophyll (green pigment) is one of the features that set a plant cell from an animal cell.
 
 Table of Contents
