@@ -1,0 +1,301 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix iusec: <http://www.iu.edu/kg/sec/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix vaem: <http://www.linkedmodel.org/schema/vaem#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+iusec:SEC a owl:Ontology ;
+    dc:creator "Damir Cavar" ;
+    vaem:hasOwner "Indiana University, NLP-Lab, Course L715" ;
+    vaem:hasSteward "Damir Cavar" ;
+    vaem:publishedDate "2023-10-09T10:04:20Z" ;
+    vaem:releaseDate "2023-10-09T10:04:20Z" ;
+    owl:imports dc:,
+        dcterms: ;
+    owl:versionInfo "Created using automatic conversion scripts by Damir Cavar" .
+
+iusec:abbvie_inc rdfs:label "AbbVie Inc." ;
+    iusec:category "Large accelerated filer" ;
+    iusec:description "" ;
+    iusec:entityType "operating" ;
+    iusec:exchange "NYSE" ;
+    iusec:fiscalYearEnd "1231" ;
+    iusec:flags "" ;
+    iusec:hasCIK "1551152" ;
+    iusec:hasEIN "320375147" ;
+    iusec:hasSIC "2834" ;
+    iusec:hasSICDescription "Pharmaceutical Preparations" ;
+    iusec:insiderTransactionForIssuerExists 1 ;
+    iusec:insiderTransactionForOwnerExists 1 ;
+    iusec:investorWebsite "" ;
+    iusec:phone "(847) 932-7900" ;
+    iusec:stateOfIncorporation "DE" ;
+    iusec:stateOfIncorporationDescription "DE" ;
+    iusec:website "" ;
+    rdfs:subClassOf iusec:Corporation .
+
+iusec:aerojet_rocketdyne_holdings_inc rdfs:label "AEROJET ROCKETDYNE HOLDINGS, INC." ;
+    iusec:category "Large accelerated filer" ;
+    iusec:description "" ;
+    iusec:entityType "operating" ;
+    iusec:fiscalYearEnd "1231" ;
+    iusec:flags "" ;
+    iusec:hasCIK "40888" ;
+    iusec:hasEIN "340244000" ;
+    iusec:hasSIC "3760" ;
+    iusec:hasSICDescription "Guided Missiles & Space Vehicles & Parts" ;
+    iusec:insiderTransactionForIssuerExists 1 ;
+    iusec:insiderTransactionForOwnerExists 0 ;
+    iusec:investorWebsite "" ;
+    iusec:phone "(310) 252-8100" ;
+    iusec:stateOfIncorporation "DE" ;
+    iusec:stateOfIncorporationDescription "DE" ;
+    iusec:website "" ;
+    rdfs:subClassOf iusec:Corporation .
+
+iusec:amgen_inc rdfs:label "AMGEN INC" ;
+    iusec:category "Large accelerated filer" ;
+    iusec:description "" ;
+    iusec:entityType "operating" ;
+    iusec:exchange "Nasdaq" ;
+    iusec:fiscalYearEnd "1231" ;
+    iusec:flags "" ;
+    iusec:hasCIK "318154" ;
+    iusec:hasEIN "None" ;
+    iusec:hasSIC "2836" ;
+    iusec:hasSICDescription "Biological Products, (No Diagnostic Substances)" ;
+    iusec:insiderTransactionForIssuerExists 1 ;
+    iusec:insiderTransactionForOwnerExists 1 ;
+    iusec:investorWebsite "" ;
+    iusec:phone "(805)447-1000" ;
+    iusec:stateOfIncorporation "DE" ;
+    iusec:stateOfIncorporationDescription "DE" ;
+    iusec:website "" ;
+    rdfs:subClassOf iusec:Corporation .
+
+iusec:apple_inc rdfs:label "Apple Inc." ;
+    iusec:category "Large accelerated filer" ;
+    iusec:description "" ;
+    iusec:entityType "operating" ;
+    iusec:exchange "Nasdaq" ;
+    iusec:fiscalYearEnd "0930" ;
+    iusec:flags "" ;
+    iusec:hasCIK "320193" ;
+    iusec:hasEIN "942404110" ;
+    iusec:hasSIC "3571" ;
+    iusec:hasSICDescription "Electronic Computers" ;
+    iusec:insiderTransactionForIssuerExists 1 ;
+    iusec:insiderTransactionForOwnerExists 0 ;
+    iusec:investorWebsite "" ;
+    iusec:phone "(408) 996-1010" ;
+    iusec:stateOfIncorporation "CA" ;
+    iusec:stateOfIncorporationDescription "CA" ;
+    iusec:website "" ;
+    rdfs:subClassOf iusec:Corporation .
+
+iusec:bristol_myers_squibb_co rdfs:label "BRISTOL MYERS SQUIBB CO" ;
+    iusec:category "Large accelerated filer" ;
+    iusec:description "" ;
+    iusec:entityType "operating" ;
+    iusec:exchange "NYSE",
+        "OTC" ;
+    iusec:fiscalYearEnd "1231" ;
+    iusec:flags "" ;
+    iusec:hasCIK "14272" ;
+    iusec:hasEIN "220790350" ;
+    iusec:hasSIC "2834" ;
+    iusec:hasSICDescription "Pharmaceutical Preparations" ;
+    iusec:insiderTransactionForIssuerExists 1 ;
+    iusec:insiderTransactionForOwnerExists 1 ;
+    iusec:investorWebsite "" ;
+    iusec:phone "6092524621" ;
+    iusec:stateOfIncorporation "DE" ;
+    iusec:stateOfIncorporationDescription "DE" ;
+    iusec:website "" ;
+    rdfs:subClassOf iusec:Corporation .
+
+iusec:eli_lilly_co rdfs:label "ELI LILLY & Co" ;
+    iusec:category "Large accelerated filer" ;
+    iusec:description "" ;
+    iusec:entityType "operating" ;
+    iusec:exchange "NYSE" ;
+    iusec:fiscalYearEnd "1231" ;
+    iusec:flags "" ;
+    iusec:hasCIK "59478" ;
+    iusec:hasEIN "350470950" ;
+    iusec:hasSIC "2834" ;
+    iusec:hasSICDescription "Pharmaceutical Preparations" ;
+    iusec:insiderTransactionForIssuerExists 1 ;
+    iusec:insiderTransactionForOwnerExists 1 ;
+    iusec:investorWebsite "" ;
+    iusec:phone "3172762000" ;
+    iusec:stateOfIncorporation "IN" ;
+    iusec:stateOfIncorporationDescription "IN" ;
+    iusec:website "" ;
+    rdfs:subClassOf iusec:Corporation .
+
+iusec:gilead_sciences_inc rdfs:label "GILEAD SCIENCES, INC." ;
+    iusec:category "Large accelerated filer" ;
+    iusec:description "" ;
+    iusec:entityType "operating" ;
+    iusec:exchange "Nasdaq" ;
+    iusec:fiscalYearEnd "1231" ;
+    iusec:flags "" ;
+    iusec:hasCIK "882095" ;
+    iusec:hasEIN "943047598" ;
+    iusec:hasSIC "2836" ;
+    iusec:hasSICDescription "Biological Products, (No Diagnostic Substances)" ;
+    iusec:insiderTransactionForIssuerExists 1 ;
+    iusec:insiderTransactionForOwnerExists 1 ;
+    iusec:investorWebsite "" ;
+    iusec:phone "6505743000" ;
+    iusec:stateOfIncorporation "DE" ;
+    iusec:stateOfIncorporationDescription "DE" ;
+    iusec:website "" ;
+    rdfs:subClassOf iusec:Corporation .
+
+iusec:johnson_johnson rdfs:label "JOHNSON & JOHNSON" ;
+    iusec:category "Large accelerated filer" ;
+    iusec:description "" ;
+    iusec:entityType "operating" ;
+    iusec:exchange "NYSE" ;
+    iusec:fiscalYearEnd "1231" ;
+    iusec:flags "" ;
+    iusec:hasCIK "200406" ;
+    iusec:hasEIN "221024240" ;
+    iusec:hasSIC "2834" ;
+    iusec:hasSICDescription "Pharmaceutical Preparations" ;
+    iusec:insiderTransactionForIssuerExists 1 ;
+    iusec:insiderTransactionForOwnerExists 1 ;
+    iusec:investorWebsite "" ;
+    iusec:phone "732-524-2455" ;
+    iusec:stateOfIncorporation "NJ" ;
+    iusec:stateOfIncorporationDescription "NJ" ;
+    iusec:website "" ;
+    rdfs:subClassOf iusec:Corporation .
+
+iusec:leidos_holdings_inc rdfs:label "Leidos Holdings, Inc." ;
+    iusec:category "Large accelerated filer" ;
+    iusec:description "" ;
+    iusec:entityType "operating" ;
+    iusec:exchange "NYSE" ;
+    iusec:fiscalYearEnd "1229" ;
+    iusec:flags "" ;
+    iusec:hasCIK "1336920" ;
+    iusec:hasEIN "203562868" ;
+    iusec:hasSIC "7373" ;
+    iusec:hasSICDescription "Services-Computer Integrated Systems Design" ;
+    iusec:insiderTransactionForIssuerExists 1 ;
+    iusec:insiderTransactionForOwnerExists 1 ;
+    iusec:investorWebsite "" ;
+    iusec:phone "571-526-6000" ;
+    iusec:stateOfIncorporation "" ;
+    iusec:stateOfIncorporationDescription "" ;
+    iusec:website "" ;
+    rdfs:subClassOf iusec:Corporation .
+
+iusec:lockheed_martin_corp rdfs:label "LOCKHEED MARTIN CORP" ;
+    iusec:category "Large accelerated filer" ;
+    iusec:description "" ;
+    iusec:entityType "operating" ;
+    iusec:exchange "NYSE" ;
+    iusec:fiscalYearEnd "1231" ;
+    iusec:flags "" ;
+    iusec:hasCIK "936468" ;
+    iusec:hasEIN "521893632" ;
+    iusec:hasSIC "3760" ;
+    iusec:hasSICDescription "Guided Missiles & Space Vehicles & Parts" ;
+    iusec:insiderTransactionForIssuerExists 1 ;
+    iusec:insiderTransactionForOwnerExists 1 ;
+    iusec:investorWebsite "" ;
+    iusec:phone "3018976000" ;
+    iusec:stateOfIncorporation "MD" ;
+    iusec:stateOfIncorporationDescription "MD" ;
+    iusec:website "" ;
+    rdfs:subClassOf iusec:Corporation .
+
+iusec:merck_co_inc rdfs:label "Merck & Co., Inc." ;
+    iusec:category "Large accelerated filer" ;
+    iusec:description "" ;
+    iusec:entityType "operating" ;
+    iusec:exchange "NYSE" ;
+    iusec:fiscalYearEnd "1231" ;
+    iusec:flags "" ;
+    iusec:hasCIK "310158" ;
+    iusec:hasEIN "221918501" ;
+    iusec:hasSIC "2834" ;
+    iusec:hasSICDescription "Pharmaceutical Preparations" ;
+    iusec:insiderTransactionForIssuerExists 1 ;
+    iusec:insiderTransactionForOwnerExists 1 ;
+    iusec:investorWebsite "" ;
+    iusec:phone "908-740-4000" ;
+    iusec:stateOfIncorporation "NJ" ;
+    iusec:stateOfIncorporationDescription "NJ" ;
+    iusec:website "" ;
+    rdfs:subClassOf iusec:Corporation .
+
+iusec:pfizer_inc rdfs:label "PFIZER INC" ;
+    iusec:category "Large accelerated filer" ;
+    iusec:description "" ;
+    iusec:entityType "operating" ;
+    iusec:exchange "NYSE" ;
+    iusec:fiscalYearEnd "1231" ;
+    iusec:flags "" ;
+    iusec:hasCIK "78003" ;
+    iusec:hasEIN "135315170" ;
+    iusec:hasSIC "2834" ;
+    iusec:hasSICDescription "Pharmaceutical Preparations" ;
+    iusec:insiderTransactionForIssuerExists 1 ;
+    iusec:insiderTransactionForOwnerExists 1 ;
+    iusec:investorWebsite "" ;
+    iusec:phone "2127332323" ;
+    iusec:stateOfIncorporation "DE" ;
+    iusec:stateOfIncorporationDescription "DE" ;
+    iusec:website "" ;
+    rdfs:subClassOf iusec:Corporation .
+
+iusec:rocket_lab_usa_inc rdfs:label "Rocket Lab USA, Inc." ;
+    iusec:category "Large accelerated filer" ;
+    iusec:description "" ;
+    iusec:entityType "operating" ;
+    iusec:exchange "Nasdaq" ;
+    iusec:fiscalYearEnd "1231" ;
+    iusec:flags "" ;
+    iusec:hasCIK "1819994" ;
+    iusec:hasEIN "000000000" ;
+    iusec:hasSIC "3760" ;
+    iusec:hasSICDescription "Guided Missiles & Space Vehicles & Parts" ;
+    iusec:insiderTransactionForIssuerExists 1 ;
+    iusec:insiderTransactionForOwnerExists 0 ;
+    iusec:investorWebsite "" ;
+    iusec:phone "714-465-5737" ;
+    iusec:stateOfIncorporation "DE" ;
+    iusec:stateOfIncorporationDescription "DE" ;
+    iusec:website "" ;
+    rdfs:subClassOf iusec:Corporation .
+
+iusec:virgin_galactic_holdings_inc rdfs:label "Virgin Galactic Holdings, Inc" ;
+    iusec:category "Large accelerated filer" ;
+    iusec:description "" ;
+    iusec:entityType "operating" ;
+    iusec:exchange "NYSE" ;
+    iusec:fiscalYearEnd "1231" ;
+    iusec:flags "" ;
+    iusec:hasCIK "1706946" ;
+    iusec:hasEIN "853608069" ;
+    iusec:hasSIC "4700" ;
+    iusec:hasSICDescription "Transportation Services" ;
+    iusec:insiderTransactionForIssuerExists 1 ;
+    iusec:insiderTransactionForOwnerExists 0 ;
+    iusec:investorWebsite "" ;
+    iusec:phone "(575) 424-2100" ;
+    iusec:stateOfIncorporation "" ;
+    iusec:stateOfIncorporationDescription "" ;
+    iusec:website "" ;
+    rdfs:subClassOf iusec:Corporation .
+
+iusec:Corporation a owl:Class ;
+    rdfs:subClassOf owl:Thing .
+

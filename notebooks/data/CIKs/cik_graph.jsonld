@@ -1,0 +1,1427 @@
+[
+  {
+    "@id": "http://www.iu.edu/kg/sec/johnson_johnson",
+    "http://www.iu.edu/kg/sec/category": [
+      {
+        "@value": "Large accelerated filer"
+      }
+    ],
+    "http://www.iu.edu/kg/sec/description": [
+      {
+        "@value": ""
+      }
+    ],
+    "http://www.iu.edu/kg/sec/entityType": [
+      {
+        "@value": "operating"
+      }
+    ],
+    "http://www.iu.edu/kg/sec/exchange": [
+      {
+        "@value": "NYSE"
+      }
+    ],
+    "http://www.iu.edu/kg/sec/fiscalYearEnd": [
+      {
+        "@value": "1231"
+      }
+    ],
+    "http://www.iu.edu/kg/sec/flags": [
+      {
+        "@value": ""
+      }
+    ],
+    "http://www.iu.edu/kg/sec/hasCIK": [
+      {
+        "@value": "200406"
+      }
+    ],
+    "http://www.iu.edu/kg/sec/hasEIN": [
+      {
+        "@value": "221024240"
+      }
+    ],
+    "http://www.iu.edu/kg/sec/hasSIC": [
+      {
+        "@value": "2834"
+      }
+    ],
+    "http://www.iu.edu/kg/sec/hasSICDescription": [
+      {
+        "@value": "Pharmaceutical Preparations"
+      }
+    ],
+    "http://www.iu.edu/kg/sec/insiderTransactionForIssuerExists": [
+      {
+        "@value": 1
+      }
+    ],
+    "http://www.iu.edu/kg/sec/insiderTransactionForOwnerExists": [
+      {
+        "@value": 1
+      }
+    ],
+    "http://www.iu.edu/kg/sec/investorWebsite": [
+      {
+        "@value": ""
+      }
+    ],
+    "http://www.iu.edu/kg/sec/phone": [
+      {
+        "@value": "732-524-2455"
+      }
+    ],
+    "http://www.iu.edu/kg/sec/stateOfIncorporation": [
+      {
+        "@value": "NJ"
+      }
+    ],
+    "http://www.iu.edu/kg/sec/stateOfIncorporationDescription": [
+      {
+        "@value": "NJ"
+      }
+    ],
+    "http://www.iu.edu/kg/sec/website": [
+      {
+        "@value": ""
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "JOHNSON & JOHNSON"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#subClassOf": [
+      {
+        "@id": "http://www.iu.edu/kg/sec/Corporation"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.iu.edu/kg/sec/amgen_inc",
+    "http://www.iu.edu/kg/sec/category": [
+      {
+        "@value": "Large accelerated filer"
+      }
+    ],
+    "http://www.iu.edu/kg/sec/description": [
+      {
+        "@value": ""
+      }
+    ],
+    "http://www.iu.edu/kg/sec/entityType": [
+      {
+        "@value": "operating"
+      }
+    ],
+    "http://www.iu.edu/kg/sec/exchange": [
+      {
+        "@value": "Nasdaq"
+      }
+    ],
+    "http://www.iu.edu/kg/sec/fiscalYearEnd": [
+      {
+        "@value": "1231"
+      }
+    ],
+    "http://www.iu.edu/kg/sec/flags": [
+      {
+        "@value": ""
+      }
+    ],
+    "http://www.iu.edu/kg/sec/hasCIK": [
+      {
+        "@value": "318154"
+      }
+    ],
+    "http://www.iu.edu/kg/sec/hasEIN": [
+      {
+        "@value": "None"
+      }
+    ],
+    "http://www.iu.edu/kg/sec/hasSIC": [
+      {
+        "@value": "2836"
+      }
+    ],
+    "http://www.iu.edu/kg/sec/hasSICDescription": [
+      {
+        "@value": "Biological Products, (No Diagnostic Substances)"
+      }
+    ],
+    "http://www.iu.edu/kg/sec/insiderTransactionForIssuerExists": [
+      {
+        "@value": 1
+      }
+    ],
+    "http://www.iu.edu/kg/sec/insiderTransactionForOwnerExists": [
+      {
+        "@value": 1
+      }
+    ],
+    "http://www.iu.edu/kg/sec/investorWebsite": [
+      {
+        "@value": ""
+      }
+    ],
+    "http://www.iu.edu/kg/sec/phone": [
+      {
+        "@value": "(805)447-1000"
+      }
+    ],
+    "http://www.iu.edu/kg/sec/stateOfIncorporation": [
+      {
+        "@value": "DE"
+      }
+    ],
+    "http://www.iu.edu/kg/sec/stateOfIncorporationDescription": [
+      {
+        "@value": "DE"
+      }
+    ],
+    "http://www.iu.edu/kg/sec/website": [
+      {
+        "@value": ""
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "AMGEN INC"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#subClassOf": [
+      {
+        "@id": "http://www.iu.edu/kg/sec/Corporation"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.iu.edu/kg/sec/bristol_myers_squibb_co",
+    "http://www.iu.edu/kg/sec/category": [
+      {
+        "@value": "Large accelerated filer"
+      }
+    ],
+    "http://www.iu.edu/kg/sec/description": [
+      {
+        "@value": ""
+      }
+    ],
+    "http://www.iu.edu/kg/sec/entityType": [
+      {
+        "@value": "operating"
+      }
+    ],
+    "http://www.iu.edu/kg/sec/exchange": [
+      {
+        "@value": "NYSE"
+      },
+      {
+        "@value": "OTC"
+      }
+    ],
+    "http://www.iu.edu/kg/sec/fiscalYearEnd": [
+      {
+        "@value": "1231"
+      }
+    ],
+    "http://www.iu.edu/kg/sec/flags": [
+      {
+        "@value": ""
+      }
+    ],
+    "http://www.iu.edu/kg/sec/hasCIK": [
+      {
+        "@value": "14272"
+      }
+    ],
+    "http://www.iu.edu/kg/sec/hasEIN": [
+      {
+        "@value": "220790350"
+      }
+    ],
+    "http://www.iu.edu/kg/sec/hasSIC": [
+      {
+        "@value": "2834"
+      }
+    ],
+    "http://www.iu.edu/kg/sec/hasSICDescription": [
+      {
+        "@value": "Pharmaceutical Preparations"
+      }
+    ],
+    "http://www.iu.edu/kg/sec/insiderTransactionForIssuerExists": [
+      {
+        "@value": 1
+      }
+    ],
+    "http://www.iu.edu/kg/sec/insiderTransactionForOwnerExists": [
+      {
+        "@value": 1
+      }
+    ],
+    "http://www.iu.edu/kg/sec/investorWebsite": [
+      {
+        "@value": ""
+      }
+    ],
+    "http://www.iu.edu/kg/sec/phone": [
+      {
+        "@value": "6092524621"
+      }
+    ],
+    "http://www.iu.edu/kg/sec/stateOfIncorporation": [
+      {
+        "@value": "DE"
+      }
+    ],
+    "http://www.iu.edu/kg/sec/stateOfIncorporationDescription": [
+      {
+        "@value": "DE"
+      }
+    ],
+    "http://www.iu.edu/kg/sec/website": [
+      {
+        "@value": ""
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "BRISTOL MYERS SQUIBB CO"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#subClassOf": [
+      {
+        "@id": "http://www.iu.edu/kg/sec/Corporation"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.iu.edu/kg/sec/apple_inc",
+    "http://www.iu.edu/kg/sec/category": [
+      {
+        "@value": "Large accelerated filer"
+      }
+    ],
+    "http://www.iu.edu/kg/sec/description": [
+      {
+        "@value": ""
+      }
+    ],
+    "http://www.iu.edu/kg/sec/entityType": [
+      {
+        "@value": "operating"
+      }
+    ],
+    "http://www.iu.edu/kg/sec/exchange": [
+      {
+        "@value": "Nasdaq"
+      }
+    ],
+    "http://www.iu.edu/kg/sec/fiscalYearEnd": [
+      {
+        "@value": "0930"
+      }
+    ],
+    "http://www.iu.edu/kg/sec/flags": [
+      {
+        "@value": ""
+      }
+    ],
+    "http://www.iu.edu/kg/sec/hasCIK": [
+      {
+        "@value": "320193"
+      }
+    ],
+    "http://www.iu.edu/kg/sec/hasEIN": [
+      {
+        "@value": "942404110"
+      }
+    ],
+    "http://www.iu.edu/kg/sec/hasSIC": [
+      {
+        "@value": "3571"
+      }
+    ],
+    "http://www.iu.edu/kg/sec/hasSICDescription": [
+      {
+        "@value": "Electronic Computers"
+      }
+    ],
+    "http://www.iu.edu/kg/sec/insiderTransactionForIssuerExists": [
+      {
+        "@value": 1
+      }
+    ],
+    "http://www.iu.edu/kg/sec/insiderTransactionForOwnerExists": [
+      {
+        "@value": 0
+      }
+    ],
+    "http://www.iu.edu/kg/sec/investorWebsite": [
+      {
+        "@value": ""
+      }
+    ],
+    "http://www.iu.edu/kg/sec/phone": [
+      {
+        "@value": "(408) 996-1010"
+      }
+    ],
+    "http://www.iu.edu/kg/sec/stateOfIncorporation": [
+      {
+        "@value": "CA"
+      }
+    ],
+    "http://www.iu.edu/kg/sec/stateOfIncorporationDescription": [
+      {
+        "@value": "CA"
+      }
+    ],
+    "http://www.iu.edu/kg/sec/website": [
+      {
+        "@value": ""
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Apple Inc."
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#subClassOf": [
+      {
+        "@id": "http://www.iu.edu/kg/sec/Corporation"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.iu.edu/kg/sec/aerojet_rocketdyne_holdings_inc",
+    "http://www.iu.edu/kg/sec/category": [
+      {
+        "@value": "Large accelerated filer"
+      }
+    ],
+    "http://www.iu.edu/kg/sec/description": [
+      {
+        "@value": ""
+      }
+    ],
+    "http://www.iu.edu/kg/sec/entityType": [
+      {
+        "@value": "operating"
+      }
+    ],
+    "http://www.iu.edu/kg/sec/fiscalYearEnd": [
+      {
+        "@value": "1231"
+      }
+    ],
+    "http://www.iu.edu/kg/sec/flags": [
+      {
+        "@value": ""
+      }
+    ],
+    "http://www.iu.edu/kg/sec/hasCIK": [
+      {
+        "@value": "40888"
+      }
+    ],
+    "http://www.iu.edu/kg/sec/hasEIN": [
+      {
+        "@value": "340244000"
+      }
+    ],
+    "http://www.iu.edu/kg/sec/hasSIC": [
+      {
+        "@value": "3760"
+      }
+    ],
+    "http://www.iu.edu/kg/sec/hasSICDescription": [
+      {
+        "@value": "Guided Missiles & Space Vehicles & Parts"
+      }
+    ],
+    "http://www.iu.edu/kg/sec/insiderTransactionForIssuerExists": [
+      {
+        "@value": 1
+      }
+    ],
+    "http://www.iu.edu/kg/sec/insiderTransactionForOwnerExists": [
+      {
+        "@value": 0
+      }
+    ],
+    "http://www.iu.edu/kg/sec/investorWebsite": [
+      {
+        "@value": ""
+      }
+    ],
+    "http://www.iu.edu/kg/sec/phone": [
+      {
+        "@value": "(310) 252-8100"
+      }
+    ],
+    "http://www.iu.edu/kg/sec/stateOfIncorporation": [
+      {
+        "@value": "DE"
+      }
+    ],
+    "http://www.iu.edu/kg/sec/stateOfIncorporationDescription": [
+      {
+        "@value": "DE"
+      }
+    ],
+    "http://www.iu.edu/kg/sec/website": [
+      {
+        "@value": ""
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "AEROJET ROCKETDYNE HOLDINGS, INC."
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#subClassOf": [
+      {
+        "@id": "http://www.iu.edu/kg/sec/Corporation"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.iu.edu/kg/sec/Corporation",
+    "@type": [
+      "http://www.w3.org/2002/07/owl#Class"
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#subClassOf": [
+      {
+        "@id": "http://www.w3.org/2002/07/owl#Thing"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.iu.edu/kg/sec/rocket_lab_usa_inc",
+    "http://www.iu.edu/kg/sec/category": [
+      {
+        "@value": "Large accelerated filer"
+      }
+    ],
+    "http://www.iu.edu/kg/sec/description": [
+      {
+        "@value": ""
+      }
+    ],
+    "http://www.iu.edu/kg/sec/entityType": [
+      {
+        "@value": "operating"
+      }
+    ],
+    "http://www.iu.edu/kg/sec/exchange": [
+      {
+        "@value": "Nasdaq"
+      }
+    ],
+    "http://www.iu.edu/kg/sec/fiscalYearEnd": [
+      {
+        "@value": "1231"
+      }
+    ],
+    "http://www.iu.edu/kg/sec/flags": [
+      {
+        "@value": ""
+      }
+    ],
+    "http://www.iu.edu/kg/sec/hasCIK": [
+      {
+        "@value": "1819994"
+      }
+    ],
+    "http://www.iu.edu/kg/sec/hasEIN": [
+      {
+        "@value": "000000000"
+      }
+    ],
+    "http://www.iu.edu/kg/sec/hasSIC": [
+      {
+        "@value": "3760"
+      }
+    ],
+    "http://www.iu.edu/kg/sec/hasSICDescription": [
+      {
+        "@value": "Guided Missiles & Space Vehicles & Parts"
+      }
+    ],
+    "http://www.iu.edu/kg/sec/insiderTransactionForIssuerExists": [
+      {
+        "@value": 1
+      }
+    ],
+    "http://www.iu.edu/kg/sec/insiderTransactionForOwnerExists": [
+      {
+        "@value": 0
+      }
+    ],
+    "http://www.iu.edu/kg/sec/investorWebsite": [
+      {
+        "@value": ""
+      }
+    ],
+    "http://www.iu.edu/kg/sec/phone": [
+      {
+        "@value": "714-465-5737"
+      }
+    ],
+    "http://www.iu.edu/kg/sec/stateOfIncorporation": [
+      {
+        "@value": "DE"
+      }
+    ],
+    "http://www.iu.edu/kg/sec/stateOfIncorporationDescription": [
+      {
+        "@value": "DE"
+      }
+    ],
+    "http://www.iu.edu/kg/sec/website": [
+      {
+        "@value": ""
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Rocket Lab USA, Inc."
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#subClassOf": [
+      {
+        "@id": "http://www.iu.edu/kg/sec/Corporation"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.iu.edu/kg/sec/abbvie_inc",
+    "http://www.iu.edu/kg/sec/category": [
+      {
+        "@value": "Large accelerated filer"
+      }
+    ],
+    "http://www.iu.edu/kg/sec/description": [
+      {
+        "@value": ""
+      }
+    ],
+    "http://www.iu.edu/kg/sec/entityType": [
+      {
+        "@value": "operating"
+      }
+    ],
+    "http://www.iu.edu/kg/sec/exchange": [
+      {
+        "@value": "NYSE"
+      }
+    ],
+    "http://www.iu.edu/kg/sec/fiscalYearEnd": [
+      {
+        "@value": "1231"
+      }
+    ],
+    "http://www.iu.edu/kg/sec/flags": [
+      {
+        "@value": ""
+      }
+    ],
+    "http://www.iu.edu/kg/sec/hasCIK": [
+      {
+        "@value": "1551152"
+      }
+    ],
+    "http://www.iu.edu/kg/sec/hasEIN": [
+      {
+        "@value": "320375147"
+      }
+    ],
+    "http://www.iu.edu/kg/sec/hasSIC": [
+      {
+        "@value": "2834"
+      }
+    ],
+    "http://www.iu.edu/kg/sec/hasSICDescription": [
+      {
+        "@value": "Pharmaceutical Preparations"
+      }
+    ],
+    "http://www.iu.edu/kg/sec/insiderTransactionForIssuerExists": [
+      {
+        "@value": 1
+      }
+    ],
+    "http://www.iu.edu/kg/sec/insiderTransactionForOwnerExists": [
+      {
+        "@value": 1
+      }
+    ],
+    "http://www.iu.edu/kg/sec/investorWebsite": [
+      {
+        "@value": ""
+      }
+    ],
+    "http://www.iu.edu/kg/sec/phone": [
+      {
+        "@value": "(847) 932-7900"
+      }
+    ],
+    "http://www.iu.edu/kg/sec/stateOfIncorporation": [
+      {
+        "@value": "DE"
+      }
+    ],
+    "http://www.iu.edu/kg/sec/stateOfIncorporationDescription": [
+      {
+        "@value": "DE"
+      }
+    ],
+    "http://www.iu.edu/kg/sec/website": [
+      {
+        "@value": ""
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "AbbVie Inc."
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#subClassOf": [
+      {
+        "@id": "http://www.iu.edu/kg/sec/Corporation"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.iu.edu/kg/sec/leidos_holdings_inc",
+    "http://www.iu.edu/kg/sec/category": [
+      {
+        "@value": "Large accelerated filer"
+      }
+    ],
+    "http://www.iu.edu/kg/sec/description": [
+      {
+        "@value": ""
+      }
+    ],
+    "http://www.iu.edu/kg/sec/entityType": [
+      {
+        "@value": "operating"
+      }
+    ],
+    "http://www.iu.edu/kg/sec/exchange": [
+      {
+        "@value": "NYSE"
+      }
+    ],
+    "http://www.iu.edu/kg/sec/fiscalYearEnd": [
+      {
+        "@value": "1229"
+      }
+    ],
+    "http://www.iu.edu/kg/sec/flags": [
+      {
+        "@value": ""
+      }
+    ],
+    "http://www.iu.edu/kg/sec/hasCIK": [
+      {
+        "@value": "1336920"
+      }
+    ],
+    "http://www.iu.edu/kg/sec/hasEIN": [
+      {
+        "@value": "203562868"
+      }
+    ],
+    "http://www.iu.edu/kg/sec/hasSIC": [
+      {
+        "@value": "7373"
+      }
+    ],
+    "http://www.iu.edu/kg/sec/hasSICDescription": [
+      {
+        "@value": "Services-Computer Integrated Systems Design"
+      }
+    ],
+    "http://www.iu.edu/kg/sec/insiderTransactionForIssuerExists": [
+      {
+        "@value": 1
+      }
+    ],
+    "http://www.iu.edu/kg/sec/insiderTransactionForOwnerExists": [
+      {
+        "@value": 1
+      }
+    ],
+    "http://www.iu.edu/kg/sec/investorWebsite": [
+      {
+        "@value": ""
+      }
+    ],
+    "http://www.iu.edu/kg/sec/phone": [
+      {
+        "@value": "571-526-6000"
+      }
+    ],
+    "http://www.iu.edu/kg/sec/stateOfIncorporation": [
+      {
+        "@value": ""
+      }
+    ],
+    "http://www.iu.edu/kg/sec/stateOfIncorporationDescription": [
+      {
+        "@value": ""
+      }
+    ],
+    "http://www.iu.edu/kg/sec/website": [
+      {
+        "@value": ""
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Leidos Holdings, Inc."
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#subClassOf": [
+      {
+        "@id": "http://www.iu.edu/kg/sec/Corporation"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.iu.edu/kg/sec/SEC",
+    "@type": [
+      "http://www.w3.org/2002/07/owl#Ontology"
+    ],
+    "http://purl.org/dc/elements/1.1/creator": [
+      {
+        "@value": "Damir Cavar"
+      }
+    ],
+    "http://www.linkedmodel.org/schema/vaem#hasOwner": [
+      {
+        "@value": "Indiana University, NLP-Lab, Course L715"
+      }
+    ],
+    "http://www.linkedmodel.org/schema/vaem#hasSteward": [
+      {
+        "@value": "Damir Cavar"
+      }
+    ],
+    "http://www.linkedmodel.org/schema/vaem#publishedDate": [
+      {
+        "@value": "2023-10-09T10:04:20Z"
+      }
+    ],
+    "http://www.linkedmodel.org/schema/vaem#releaseDate": [
+      {
+        "@value": "2023-10-09T10:04:20Z"
+      }
+    ],
+    "http://www.w3.org/2002/07/owl#imports": [
+      {
+        "@id": "http://purl.org/dc/elements/1.1/"
+      },
+      {
+        "@id": "http://purl.org/dc/terms/"
+      }
+    ],
+    "http://www.w3.org/2002/07/owl#versionInfo": [
+      {
+        "@value": "Created using automatic conversion scripts by Damir Cavar"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.iu.edu/kg/sec/pfizer_inc",
+    "http://www.iu.edu/kg/sec/category": [
+      {
+        "@value": "Large accelerated filer"
+      }
+    ],
+    "http://www.iu.edu/kg/sec/description": [
+      {
+        "@value": ""
+      }
+    ],
+    "http://www.iu.edu/kg/sec/entityType": [
+      {
+        "@value": "operating"
+      }
+    ],
+    "http://www.iu.edu/kg/sec/exchange": [
+      {
+        "@value": "NYSE"
+      }
+    ],
+    "http://www.iu.edu/kg/sec/fiscalYearEnd": [
+      {
+        "@value": "1231"
+      }
+    ],
+    "http://www.iu.edu/kg/sec/flags": [
+      {
+        "@value": ""
+      }
+    ],
+    "http://www.iu.edu/kg/sec/hasCIK": [
+      {
+        "@value": "78003"
+      }
+    ],
+    "http://www.iu.edu/kg/sec/hasEIN": [
+      {
+        "@value": "135315170"
+      }
+    ],
+    "http://www.iu.edu/kg/sec/hasSIC": [
+      {
+        "@value": "2834"
+      }
+    ],
+    "http://www.iu.edu/kg/sec/hasSICDescription": [
+      {
+        "@value": "Pharmaceutical Preparations"
+      }
+    ],
+    "http://www.iu.edu/kg/sec/insiderTransactionForIssuerExists": [
+      {
+        "@value": 1
+      }
+    ],
+    "http://www.iu.edu/kg/sec/insiderTransactionForOwnerExists": [
+      {
+        "@value": 1
+      }
+    ],
+    "http://www.iu.edu/kg/sec/investorWebsite": [
+      {
+        "@value": ""
+      }
+    ],
+    "http://www.iu.edu/kg/sec/phone": [
+      {
+        "@value": "2127332323"
+      }
+    ],
+    "http://www.iu.edu/kg/sec/stateOfIncorporation": [
+      {
+        "@value": "DE"
+      }
+    ],
+    "http://www.iu.edu/kg/sec/stateOfIncorporationDescription": [
+      {
+        "@value": "DE"
+      }
+    ],
+    "http://www.iu.edu/kg/sec/website": [
+      {
+        "@value": ""
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "PFIZER INC"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#subClassOf": [
+      {
+        "@id": "http://www.iu.edu/kg/sec/Corporation"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.iu.edu/kg/sec/merck_co_inc",
+    "http://www.iu.edu/kg/sec/category": [
+      {
+        "@value": "Large accelerated filer"
+      }
+    ],
+    "http://www.iu.edu/kg/sec/description": [
+      {
+        "@value": ""
+      }
+    ],
+    "http://www.iu.edu/kg/sec/entityType": [
+      {
+        "@value": "operating"
+      }
+    ],
+    "http://www.iu.edu/kg/sec/exchange": [
+      {
+        "@value": "NYSE"
+      }
+    ],
+    "http://www.iu.edu/kg/sec/fiscalYearEnd": [
+      {
+        "@value": "1231"
+      }
+    ],
+    "http://www.iu.edu/kg/sec/flags": [
+      {
+        "@value": ""
+      }
+    ],
+    "http://www.iu.edu/kg/sec/hasCIK": [
+      {
+        "@value": "310158"
+      }
+    ],
+    "http://www.iu.edu/kg/sec/hasEIN": [
+      {
+        "@value": "221918501"
+      }
+    ],
+    "http://www.iu.edu/kg/sec/hasSIC": [
+      {
+        "@value": "2834"
+      }
+    ],
+    "http://www.iu.edu/kg/sec/hasSICDescription": [
+      {
+        "@value": "Pharmaceutical Preparations"
+      }
+    ],
+    "http://www.iu.edu/kg/sec/insiderTransactionForIssuerExists": [
+      {
+        "@value": 1
+      }
+    ],
+    "http://www.iu.edu/kg/sec/insiderTransactionForOwnerExists": [
+      {
+        "@value": 1
+      }
+    ],
+    "http://www.iu.edu/kg/sec/investorWebsite": [
+      {
+        "@value": ""
+      }
+    ],
+    "http://www.iu.edu/kg/sec/phone": [
+      {
+        "@value": "908-740-4000"
+      }
+    ],
+    "http://www.iu.edu/kg/sec/stateOfIncorporation": [
+      {
+        "@value": "NJ"
+      }
+    ],
+    "http://www.iu.edu/kg/sec/stateOfIncorporationDescription": [
+      {
+        "@value": "NJ"
+      }
+    ],
+    "http://www.iu.edu/kg/sec/website": [
+      {
+        "@value": ""
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Merck & Co., Inc."
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#subClassOf": [
+      {
+        "@id": "http://www.iu.edu/kg/sec/Corporation"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.iu.edu/kg/sec/virgin_galactic_holdings_inc",
+    "http://www.iu.edu/kg/sec/category": [
+      {
+        "@value": "Large accelerated filer"
+      }
+    ],
+    "http://www.iu.edu/kg/sec/description": [
+      {
+        "@value": ""
+      }
+    ],
+    "http://www.iu.edu/kg/sec/entityType": [
+      {
+        "@value": "operating"
+      }
+    ],
+    "http://www.iu.edu/kg/sec/exchange": [
+      {
+        "@value": "NYSE"
+      }
+    ],
+    "http://www.iu.edu/kg/sec/fiscalYearEnd": [
+      {
+        "@value": "1231"
+      }
+    ],
+    "http://www.iu.edu/kg/sec/flags": [
+      {
+        "@value": ""
+      }
+    ],
+    "http://www.iu.edu/kg/sec/hasCIK": [
+      {
+        "@value": "1706946"
+      }
+    ],
+    "http://www.iu.edu/kg/sec/hasEIN": [
+      {
+        "@value": "853608069"
+      }
+    ],
+    "http://www.iu.edu/kg/sec/hasSIC": [
+      {
+        "@value": "4700"
+      }
+    ],
+    "http://www.iu.edu/kg/sec/hasSICDescription": [
+      {
+        "@value": "Transportation Services"
+      }
+    ],
+    "http://www.iu.edu/kg/sec/insiderTransactionForIssuerExists": [
+      {
+        "@value": 1
+      }
+    ],
+    "http://www.iu.edu/kg/sec/insiderTransactionForOwnerExists": [
+      {
+        "@value": 0
+      }
+    ],
+    "http://www.iu.edu/kg/sec/investorWebsite": [
+      {
+        "@value": ""
+      }
+    ],
+    "http://www.iu.edu/kg/sec/phone": [
+      {
+        "@value": "(575) 424-2100"
+      }
+    ],
+    "http://www.iu.edu/kg/sec/stateOfIncorporation": [
+      {
+        "@value": ""
+      }
+    ],
+    "http://www.iu.edu/kg/sec/stateOfIncorporationDescription": [
+      {
+        "@value": ""
+      }
+    ],
+    "http://www.iu.edu/kg/sec/website": [
+      {
+        "@value": ""
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Virgin Galactic Holdings, Inc"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#subClassOf": [
+      {
+        "@id": "http://www.iu.edu/kg/sec/Corporation"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.iu.edu/kg/sec/eli_lilly_co",
+    "http://www.iu.edu/kg/sec/category": [
+      {
+        "@value": "Large accelerated filer"
+      }
+    ],
+    "http://www.iu.edu/kg/sec/description": [
+      {
+        "@value": ""
+      }
+    ],
+    "http://www.iu.edu/kg/sec/entityType": [
+      {
+        "@value": "operating"
+      }
+    ],
+    "http://www.iu.edu/kg/sec/exchange": [
+      {
+        "@value": "NYSE"
+      }
+    ],
+    "http://www.iu.edu/kg/sec/fiscalYearEnd": [
+      {
+        "@value": "1231"
+      }
+    ],
+    "http://www.iu.edu/kg/sec/flags": [
+      {
+        "@value": ""
+      }
+    ],
+    "http://www.iu.edu/kg/sec/hasCIK": [
+      {
+        "@value": "59478"
+      }
+    ],
+    "http://www.iu.edu/kg/sec/hasEIN": [
+      {
+        "@value": "350470950"
+      }
+    ],
+    "http://www.iu.edu/kg/sec/hasSIC": [
+      {
+        "@value": "2834"
+      }
+    ],
+    "http://www.iu.edu/kg/sec/hasSICDescription": [
+      {
+        "@value": "Pharmaceutical Preparations"
+      }
+    ],
+    "http://www.iu.edu/kg/sec/insiderTransactionForIssuerExists": [
+      {
+        "@value": 1
+      }
+    ],
+    "http://www.iu.edu/kg/sec/insiderTransactionForOwnerExists": [
+      {
+        "@value": 1
+      }
+    ],
+    "http://www.iu.edu/kg/sec/investorWebsite": [
+      {
+        "@value": ""
+      }
+    ],
+    "http://www.iu.edu/kg/sec/phone": [
+      {
+        "@value": "3172762000"
+      }
+    ],
+    "http://www.iu.edu/kg/sec/stateOfIncorporation": [
+      {
+        "@value": "IN"
+      }
+    ],
+    "http://www.iu.edu/kg/sec/stateOfIncorporationDescription": [
+      {
+        "@value": "IN"
+      }
+    ],
+    "http://www.iu.edu/kg/sec/website": [
+      {
+        "@value": ""
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "ELI LILLY & Co"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#subClassOf": [
+      {
+        "@id": "http://www.iu.edu/kg/sec/Corporation"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.iu.edu/kg/sec/lockheed_martin_corp",
+    "http://www.iu.edu/kg/sec/category": [
+      {
+        "@value": "Large accelerated filer"
+      }
+    ],
+    "http://www.iu.edu/kg/sec/description": [
+      {
+        "@value": ""
+      }
+    ],
+    "http://www.iu.edu/kg/sec/entityType": [
+      {
+        "@value": "operating"
+      }
+    ],
+    "http://www.iu.edu/kg/sec/exchange": [
+      {
+        "@value": "NYSE"
+      }
+    ],
+    "http://www.iu.edu/kg/sec/fiscalYearEnd": [
+      {
+        "@value": "1231"
+      }
+    ],
+    "http://www.iu.edu/kg/sec/flags": [
+      {
+        "@value": ""
+      }
+    ],
+    "http://www.iu.edu/kg/sec/hasCIK": [
+      {
+        "@value": "936468"
+      }
+    ],
+    "http://www.iu.edu/kg/sec/hasEIN": [
+      {
+        "@value": "521893632"
+      }
+    ],
+    "http://www.iu.edu/kg/sec/hasSIC": [
+      {
+        "@value": "3760"
+      }
+    ],
+    "http://www.iu.edu/kg/sec/hasSICDescription": [
+      {
+        "@value": "Guided Missiles & Space Vehicles & Parts"
+      }
+    ],
+    "http://www.iu.edu/kg/sec/insiderTransactionForIssuerExists": [
+      {
+        "@value": 1
+      }
+    ],
+    "http://www.iu.edu/kg/sec/insiderTransactionForOwnerExists": [
+      {
+        "@value": 1
+      }
+    ],
+    "http://www.iu.edu/kg/sec/investorWebsite": [
+      {
+        "@value": ""
+      }
+    ],
+    "http://www.iu.edu/kg/sec/phone": [
+      {
+        "@value": "3018976000"
+      }
+    ],
+    "http://www.iu.edu/kg/sec/stateOfIncorporation": [
+      {
+        "@value": "MD"
+      }
+    ],
+    "http://www.iu.edu/kg/sec/stateOfIncorporationDescription": [
+      {
+        "@value": "MD"
+      }
+    ],
+    "http://www.iu.edu/kg/sec/website": [
+      {
+        "@value": ""
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "LOCKHEED MARTIN CORP"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#subClassOf": [
+      {
+        "@id": "http://www.iu.edu/kg/sec/Corporation"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.iu.edu/kg/sec/gilead_sciences_inc",
+    "http://www.iu.edu/kg/sec/category": [
+      {
+        "@value": "Large accelerated filer"
+      }
+    ],
+    "http://www.iu.edu/kg/sec/description": [
+      {
+        "@value": ""
+      }
+    ],
+    "http://www.iu.edu/kg/sec/entityType": [
+      {
+        "@value": "operating"
+      }
+    ],
+    "http://www.iu.edu/kg/sec/exchange": [
+      {
+        "@value": "Nasdaq"
+      }
+    ],
+    "http://www.iu.edu/kg/sec/fiscalYearEnd": [
+      {
+        "@value": "1231"
+      }
+    ],
+    "http://www.iu.edu/kg/sec/flags": [
+      {
+        "@value": ""
+      }
+    ],
+    "http://www.iu.edu/kg/sec/hasCIK": [
+      {
+        "@value": "882095"
+      }
+    ],
+    "http://www.iu.edu/kg/sec/hasEIN": [
+      {
+        "@value": "943047598"
+      }
+    ],
+    "http://www.iu.edu/kg/sec/hasSIC": [
+      {
+        "@value": "2836"
+      }
+    ],
+    "http://www.iu.edu/kg/sec/hasSICDescription": [
+      {
+        "@value": "Biological Products, (No Diagnostic Substances)"
+      }
+    ],
+    "http://www.iu.edu/kg/sec/insiderTransactionForIssuerExists": [
+      {
+        "@value": 1
+      }
+    ],
+    "http://www.iu.edu/kg/sec/insiderTransactionForOwnerExists": [
+      {
+        "@value": 1
+      }
+    ],
+    "http://www.iu.edu/kg/sec/investorWebsite": [
+      {
+        "@value": ""
+      }
+    ],
+    "http://www.iu.edu/kg/sec/phone": [
+      {
+        "@value": "6505743000"
+      }
+    ],
+    "http://www.iu.edu/kg/sec/stateOfIncorporation": [
+      {
+        "@value": "DE"
+      }
+    ],
+    "http://www.iu.edu/kg/sec/stateOfIncorporationDescription": [
+      {
+        "@value": "DE"
+      }
+    ],
+    "http://www.iu.edu/kg/sec/website": [
+      {
+        "@value": ""
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "GILEAD SCIENCES, INC."
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#subClassOf": [
+      {
+        "@id": "http://www.iu.edu/kg/sec/Corporation"
+      }
+    ]
+  }
+]
