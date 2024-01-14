@@ -1,6 +1,6 @@
 # Python Tutorials for NLP, ML, AI
 
-(C) 2016-2023 by [Damir Cavar]
+(C) 2016-2024 by [Damir Cavar]
 
 See also: [NLP-Lab](https://nlp-lab.org/) at [Indiana University].
 
