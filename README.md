@@ -2,15 +2,7 @@
 
 (C) 2016-2024 by [Damir Cavar]
 
-See also: [NLP-Lab](https://nlp-lab.org/) at [Indiana University].
-
-
-See the licensing details on the individual documents and in the [LICENSE] file in the code folder.
-
-
-The files in this folder are [Jupyter]-based tutorials for NLP, ML, AI in Python for classes I teach in Computational Linguistics, Natural Language Processing (NLP), Machine Learning (ML), and Artificial Intelligence (AI) at [Indiana University].
-
-If you find this material useful, please cite the author and source (that is [Damir Cavar] and all the sources cited in the relevant notebooks). Please let me know if you have some suggestions on how to correct the notebooks, improve them, or add some material and explanations.
+[NLP-Lab](https://nlp-lab.org/) at [Indiana University].
 
 
 ## Notebooks
@@ -66,8 +58,14 @@ If you find this material useful, please cite the author and source (that is [Da
 - [Linear Algebra and Embeddings - spaCy](https://github.com/dcavar/python-tutorial-notebooks/blob/master/notebooks/Embeddings_and_Vectors.ipynb)
 
 
+See the licensing details on the individual documents and in the [LICENSE] file in the code folder.
+
 
 ## Introduction
+
+The files in this folder are [Jupyter]-based tutorials for NLP, ML, AI in Python for classes I teach in Computational Linguistics, Natural Language Processing (NLP), Machine Learning (ML), and Artificial Intelligence (AI) at [Indiana University].
+
+If you find this material useful, please cite the author and source (that is [Damir Cavar] and all the sources cited in the relevant notebooks). Please let me know if you have some suggestions on how to correct the notebooks, improve them, or add some material and explanations.
 
 The instructions below are somewhat outdated. I use just [Jupyter-Lab](https://jupyter.org/) now. Follow [the instructions here](https://jupyter.org/install) to set it up on different machine types and operating systems.
 
