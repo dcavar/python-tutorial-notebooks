@@ -22,7 +22,7 @@ If you find this material useful, please cite the author and source (that is [Da
 
 ### NLTK Notebooks
 
-- [Categorial Grammar Parsing in NLTK](notebooks/Combinatory Categorial Grammar Parsing with NLTK.ipynb)
+- [Categorial Grammar Parsing in NLTK](https://github.com/dcavar/python-tutorial-notebooks/blob/master/notebooks/Combinatory%20Categorial%20Grammar%20Parsing%20with%20NLTK.ipynb)
 
 
 
