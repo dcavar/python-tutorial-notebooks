@@ -15,9 +15,9 @@ If you find this material useful, please cite the author and source (that is [Da
 
 ## Notebooks
 
-- Claude 3 Interaction using the Anthropic API
-- GPT-4 interaction using the OpenAI API
-- Stanza Tutorial
+- [Claude 3 Interaction using the Anthropic API](notebooks/claude3_test.ipynb)
+- [GPT-4 interaction using the OpenAI API](notebooks/gpt4_test.ipynb)
+- [Stanza Tutorial](notebooks/Stanza_tutorial.ipynb)
 
 
 
