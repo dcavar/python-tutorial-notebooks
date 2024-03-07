@@ -13,6 +13,14 @@ The files in this folder are [Jupyter]-based tutorials for NLP, ML, AI in Python
 If you find this material useful, please cite the author and source (that is [Damir Cavar] and all the sources cited in the relevant notebooks). Please let me know if you have some suggestions on how to correct the notebooks, improve them, or add some material and explanations.
 
 
+## Notebooks
+
+- Claude 3 Interaction using the Anthropic API
+- GPT-4 interaction using the OpenAI API
+- Stanza Tutorial
+
+
+
 ## Introduction
 
 The instructions below are somewhat outdated. I use just [Jupyter-Lab](https://jupyter.org/) now. Follow [the instructions here](https://jupyter.org/install) to set it up on different machine types and operating systems.
