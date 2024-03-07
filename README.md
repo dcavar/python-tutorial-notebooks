@@ -18,6 +18,11 @@ If you find this material useful, please cite the author and source (that is [Da
 - [Claude 3 Interaction using the Anthropic API](notebooks/claude3_test.ipynb)
 - [GPT-4 interaction using the OpenAI API](notebooks/gpt4_test.ipynb)
 - [Stanza Tutorial](notebooks/Stanza_tutorial.ipynb)
+- [Converting SEC CIKs to Knowledge Graph](notebooks/CIK_to_Graph.ipynb)
+
+### NLTK Notebooks
+
+- [Categorial Grammar Parsing in NLTK](notebooks/Combinatory Categorial Grammar Parsing with NLTK.ipynb)
 
 
 
