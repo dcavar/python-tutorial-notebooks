@@ -32,6 +32,8 @@
 - [Python examples and notes for Machine Learning for Computational Linguistics](https://github.com/dcavar/python-tutorial-notebooks/blob/master/notebooks/Python%20examples%20and%20notes%20for%20Machine%20Learning%20for%20Computational%20Linguistics.ipynb)
 - [RDFlib Graphs](https://github.com/dcavar/python-tutorial-notebooks/blob/master/notebooks/RDFlib_example.ipynb)
 - [Scikit-learn Logistic Regression](https://github.com/dcavar/python-tutorial-notebooks/blob/master/notebooks/Scikitlearn_logistic_regression.ipynb)
+- [Convert the Stanford Sentiment Treebank Data to CSV](https://github.com/dcavar/python-tutorial-notebooks/blob/master/notebooks/Stanford_Sentiment_Treebank_Converter.ipynb)
+- [TextRank Example](https://github.com/dcavar/python-tutorial-notebooks/blob/master/notebooks/textrank_example.ipynb)
 
 
 ### NLTK Notebooks
@@ -43,6 +45,7 @@
 - [Dependency Grammar in NLTK](https://github.com/dcavar/python-tutorial-notebooks/blob/master/notebooks/Dependency%20Grammar%20in%20NLTK.ipynb)
 - [Document Classification Tutorial 1 - Amazon Reviews](https://github.com/dcavar/python-tutorial-notebooks/blob/master/notebooks/Document%20Classification%20Tutorial.ipynb)
 - [WordNet using NLTK](https://github.com/dcavar/python-tutorial-notebooks/blob/master/notebooks/Python%20WordNet%20using%20NLTK.ipynb)
+- [WordNet and NLTK](https://github.com/dcavar/python-tutorial-notebooks/blob/master/notebooks/WordNet%20and%20NLTK.ipynb)
 - [Framenet in NLTK](https://github.com/dcavar/python-tutorial-notebooks/blob/master/notebooks/NLTK_Framenet.ipynb)
 - [FrameNet Examples using NLTK](https://github.com/dcavar/python-tutorial-notebooks/blob/master/notebooks/FrameNet%20Examples%20using%20NLTK.ipynb)
 - [PropBank in NLTK](https://github.com/dcavar/python-tutorial-notebooks/blob/master/notebooks/NLTK_Propbank.ipynb)
@@ -55,6 +58,8 @@
 
 ### spaCy Notebooks
 
+- [spaCy Tutorial](https://github.com/dcavar/python-tutorial-notebooks/blob/master/notebooks/spaCy%20Tutorial.ipynb)
+- [spaCy 3.x Tutorial: Transformers Spanish](https://github.com/dcavar/python-tutorial-notebooks/blob/master/notebooks/spaCy%203.x%20Tutorial%20Transformers%20Spanish.ipynb)
 - [Linear Algebra and Embeddings - spaCy](https://github.com/dcavar/python-tutorial-notebooks/blob/master/notebooks/Embeddings_and_Vectors.ipynb)
 
 
