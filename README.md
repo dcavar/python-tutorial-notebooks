@@ -10,7 +10,7 @@
 - [Claude 3 Interaction using the Anthropic API](notebooks/claude3_test.ipynb)
 - [GPT-4 interaction using the OpenAI API](notebooks/gpt4_test.ipynb)
 - [Stanza Tutorial](notebooks/Stanza_tutorial.ipynb)
-- [Converting SEC CIKs to Knowledge Graph](notebooks/CIK_to_Graph.ipynb)
+- [Converting SEC CIKs to a Knowledge Graph](notebooks/CIK_to_Graph.ipynb)
 - [Allegro Graph example](https://github.com/dcavar/python-tutorial-notebooks/blob/master/notebooks/AllegroGraph_example.ipynb)
 - [Extracting Abbreviations](https://github.com/dcavar/python-tutorial-notebooks/blob/master/notebooks/Abbreviations_extraction.ipynb)
 - [Bayesian Classification for Machine Learning for Computational Linguistics](https://github.com/dcavar/python-tutorial-notebooks/blob/master/notebooks/Bayesian%20Classifier.ipynb)
