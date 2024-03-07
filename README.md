@@ -19,10 +19,51 @@ If you find this material useful, please cite the author and source (that is [Da
 - [GPT-4 interaction using the OpenAI API](notebooks/gpt4_test.ipynb)
 - [Stanza Tutorial](notebooks/Stanza_tutorial.ipynb)
 - [Converting SEC CIKs to Knowledge Graph](notebooks/CIK_to_Graph.ipynb)
+- [Allegro Graph example](https://github.com/dcavar/python-tutorial-notebooks/blob/master/notebooks/AllegroGraph_example.ipynb)
+- [Extracting Abbreviations](https://github.com/dcavar/python-tutorial-notebooks/blob/master/notebooks/Abbreviations_extraction.ipynb)
+- [Bayesian Classification for Machine Learning for Computational Linguistics](https://github.com/dcavar/python-tutorial-notebooks/blob/master/notebooks/Bayesian%20Classifier.ipynb)
+- [Python Tutorial 1: Part-of-Speech Tagging 1](notebooks/Python%20Tutorial%20PoS%20Tagging.ipynb)
+- [Lexical Clustering](https://github.com/dcavar/python-tutorial-notebooks/blob/master/notebooks/Lexical%20Clustering.ipynb)
+- [Linear Algebra](https://github.com/dcavar/python-tutorial-notebooks/blob/master/notebooks/Linear%20Algebra.ipynb)
+- [Neural Network Example with Keras](https://github.com/dcavar/python-tutorial-notebooks/blob/master/notebooks/Neural%20Network%20Example%20with%20Keras.ipynb)
+- [Computing Finite State Automata](https://github.com/dcavar/python-tutorial-notebooks/blob/master/notebooks/Non-Deterministic%20Automaton%20Computing.ipynb)
+- [Parallel Processing on Multiple Threads](https://github.com/dcavar/python-tutorial-notebooks/blob/master/notebooks/Parallelization_Example.ipynb)
+- [Perceptron Learning in Python](https://github.com/dcavar/python-tutorial-notebooks/blob/master/notebooks/Perceptron%20Learning%20in%20Python.ipynb)
+- [Clustering with Scikit-learn](https://github.com/dcavar/python-tutorial-notebooks/blob/master/notebooks/Python%20Clustering%20with%20Scikit-learn.ipynb)
+- [Simple Language ID with N-grams](https://github.com/dcavar/python-tutorial-notebooks/blob/master/notebooks/Python%20Language%20ID.ipynb)
+- [Support Vector Machine (SVM) Classifier Example](https://github.com/dcavar/python-tutorial-notebooks/blob/master/notebooks/Python%20SVM%20Classifier%20Example.ipynb)
+- [Scikit-Learn for Computational Linguists](https://github.com/dcavar/python-tutorial-notebooks/blob/master/notebooks/Python%20Scikit-Learn%20for%20Computational%20Linguists.ipynb)
+- [Tutorial: Tokens and N-grams](https://github.com/dcavar/python-tutorial-notebooks/blob/master/notebooks/Python%20Tokens%20and%20N-grams.ipynb)
+- [Tutorial 1: Part-of-Speech Tagging 1](https://github.com/dcavar/python-tutorial-notebooks/blob/master/notebooks/Python%20Tutorial%20PoS%20Tagging.ipynb)
+- [Tutorial 2: Hidden Markov Models](https://github.com/dcavar/python-tutorial-notebooks/blob/master/notebooks/Python%20Tutorial%20HMM.ipynb)
+- [Word Sense Disambiguation](https://github.com/dcavar/python-tutorial-notebooks/blob/master/notebooks/Python%20Word%20Sense%20Disambiguation.ipynb)
+- [Python examples and notes for Machine Learning for Computational Linguistics](https://github.com/dcavar/python-tutorial-notebooks/blob/master/notebooks/Python%20examples%20and%20notes%20for%20Machine%20Learning%20for%20Computational%20Linguistics.ipynb)
+- [RDFlib Graphs](https://github.com/dcavar/python-tutorial-notebooks/blob/master/notebooks/RDFlib_example.ipynb)
+- [Scikit-learn Logistic Regression](https://github.com/dcavar/python-tutorial-notebooks/blob/master/notebooks/Scikitlearn_logistic_regression.ipynb)
+
 
 ### NLTK Notebooks
 
+- [NLTK: Texts and Frequencies - N-gram models and frequency profiles](https://github.com/dcavar/python-tutorial-notebooks/blob/master/notebooks/Python%20NLTK%20-%20Texts%20and%20Frequencies.ipynb)
+- [Parsing with NLTK](https://github.com/dcavar/python-tutorial-notebooks/blob/master/notebooks/Python%20Parsing%20with%20NLTK.ipynb)
+- [Parsing with NLTK and Foma](https://github.com/dcavar/python-tutorial-notebooks/blob/master/notebooks/Python%20Parsing%20with%20NLTK%20and%20Foma.ipynb)
 - [Categorial Grammar Parsing in NLTK](https://github.com/dcavar/python-tutorial-notebooks/blob/master/notebooks/Combinatory%20Categorial%20Grammar%20Parsing%20with%20NLTK.ipynb)
+- [Dependency Grammar in NLTK](https://github.com/dcavar/python-tutorial-notebooks/blob/master/notebooks/Dependency%20Grammar%20in%20NLTK.ipynb)
+- [Document Classification Tutorial 1 - Amazon Reviews](https://github.com/dcavar/python-tutorial-notebooks/blob/master/notebooks/Document%20Classification%20Tutorial.ipynb)
+- [WordNet using NLTK](https://github.com/dcavar/python-tutorial-notebooks/blob/master/notebooks/Python%20WordNet%20using%20NLTK.ipynb)
+- [Framenet in NLTK](https://github.com/dcavar/python-tutorial-notebooks/blob/master/notebooks/NLTK_Framenet.ipynb)
+- [FrameNet Examples using NLTK](https://github.com/dcavar/python-tutorial-notebooks/blob/master/notebooks/FrameNet%20Examples%20using%20NLTK.ipynb)
+- [PropBank in NLTK](https://github.com/dcavar/python-tutorial-notebooks/blob/master/notebooks/NLTK_Propbank.ipynb)
+- [Machine Translation in Python 3 with NLTK](https://github.com/dcavar/python-tutorial-notebooks/blob/master/notebooks/Machine%20Translation%20in%20Python%203%20with%20NLTK.ipynb)
+- [N-gram Models from Text for Language Models](https://github.com/dcavar/python-tutorial-notebooks/blob/master/notebooks/N-gram%20Models%20for%20Language%20Models.ipynb)
+- [Probabilistic Context-free Grammar (PCFG) Parsing using NLTK](https://github.com/dcavar/python-tutorial-notebooks/blob/master/notebooks/PCFG%20Parsing%20with%20NLTK.ipynb)
+- [Python for Text Similarities 1](https://github.com/dcavar/python-tutorial-notebooks/blob/master/notebooks/Python%20for%20Text%20Similarities.ipynb)
+
+
+
+### spaCy Notebooks
+
+- [Linear Algebra and Embeddings - spaCy](https://github.com/dcavar/python-tutorial-notebooks/blob/master/notebooks/Embeddings_and_Vectors.ipynb)
 
 
 
