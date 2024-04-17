@@ -8,6 +8,11 @@ Class_9_7_20.ipynb
 jupyterhub.sqlite
 jupyterhub_cookie_secret
 **/secret.py
+notebooks/Marathi/config.cfg
+notebooks/Marathi/dev.spacy/
+notebooks/Marathi/train.spacy/
+notebooks/Marathi/output/
+
 
 # C extensions
 *.so

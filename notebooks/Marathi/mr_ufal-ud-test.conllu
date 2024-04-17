@@ -1,0 +1,636 @@
+# sent_id = 391
+# text = ते विकणे त्याच्या जिवावर येत होते.
+# translit = te vikaṇe tyācyā jivāvara yeta hote.
+1	ते	तो	PRON	_	Deixis=Remt|Gender=Neut|Number=Sing|Person=3|PronType=Dem	2	obj	_	Translit=te|LTranslit=to
+2	विकणे	विकणे	VERB	_	Case=Nom|InfForm=Dict|VerbForm=Inf	7	csubj	_	Translit=vikaṇe|LTranslit=vikaṇe
+3-4	त्याच्या	_	_	_	_	_	_	_	Translit=tyācyā
+3	त्या	तो	PRON	_	Deixis=Remt|Gender=Masc|Number=Sing|Person=3|PronType=Dem	5	nmod:poss	_	Translit=tyā|LTranslit=to
+4	च्या	चा	ADP	_	Case=Abs	3	case	_	Translit=cyā|LTranslit=cā
+5-6	जिवावर	_	_	_	_	_	_	_	Translit=jivāvara
+5	जिवा	जिवा	NOUN	_	Case=Abs|Gender=Masc|Number=Sing	7	obl	_	Translit=jivā|LTranslit=jivā
+6	वर	वर	ADP	_	_	5	case	_	Translit=vara|LTranslit=vara
+7	येत	येणे	VERB	_	Aspect=Imp|VerbForm=Part	0	root	_	Translit=yeta|LTranslit=yeṇe
+8	होते	असणे	AUX	_	Gender=Neut|Number=Sing|Person=3|Polarity=Pos|Tense=Past|VerbForm=Fin	7	aux	_	SpaceAfter=No|Translit=hote|LTranslit=asaṇe
+9	.	.	PUNCT	_	_	7	punct	_	Translit=.|LTranslit=.
+
+# sent_id = 393
+# text = सावकारी पाशात सारे शेतकरी सापडले.
+# translit = sāvakārī pāśāta sāre śetakarī sāpaḍale.
+1	सावकारी	सावकारी	ADJ	_	Case=Abs	2	amod	_	Translit=sāvakārī|LTranslit=sāvakārī
+2	पाशात	पाशा	NOUN	_	Case=Loc|Gender=Masc|Number=Sing	5	obl	_	Translit=pāśāta|LTranslit=pāśā
+3	सारे	सारा	ADJ	_	Case=Nom|Gender=Masc|Number=Plur	4	amod	_	Translit=sāre|LTranslit=sārā
+4	शेतकरी	शेतकरी	NOUN	_	Case=Abs|Gender=Masc|Number=Plur	5	obj	_	Translit=śetakarī|LTranslit=śetakarī
+5	सापडले	सापडणे	VERB	_	Aspect=Perf|Gender=Masc|Number=Plur|Person=3|VerbForm=Fin	0	root	_	SpaceAfter=No|Translit=sāpaḍale|LTranslit=sāpaḍaṇe
+6	.	.	PUNCT	_	_	5	punct	_	Translit=.|LTranslit=.
+
+# sent_id = 395
+# text = शेताचे मूळचे मालक मजूर झाले.
+# translit = śetāce mūḷace mālaka majūra jhāle.
+1-2	शेताचे	_	_	_	_	_	_	_	Translit=śetāce
+1	शेता	शेत	NOUN	_	Case=Abs|Gender=Neut|Number=Sing	4	nmod:poss	_	Translit=śetā|LTranslit=śeta
+2	चे	चा	ADP	_	Gender=Masc|Number=Plur	1	case	_	Translit=ce|LTranslit=cā
+3	मूळचे	मूळचा	ADJ	_	Case=Nom|Gender=Masc|Number=Plur	4	amod	_	Translit=mūḷace|LTranslit=mūḷacā
+4	मालक	मालक	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	6	nsubj	_	Translit=mālaka|LTranslit=mālaka
+5	मजूर	मजूर	ADJ	_	Case=Nom	6	xcomp	_	Translit=majūra|LTranslit=majūra
+6	झाले	होणे	VERB	_	Aspect=Perf|Gender=Masc|Number=Plur|Person=3|VerbForm=Fin	0	root	_	SpaceAfter=No|Translit=jhāle|LTranslit=hoṇe
+7	.	.	PUNCT	_	_	6	punct	_	Translit=.|LTranslit=.
+
+# sent_id = 397
+# text = केशवचंद्रांना ते सहन होत नव्हते.
+# translit = keśavacaṁdrāṁnā te sahana hota navhate.
+1	केशवचंद्रांना	केशवचंद्र	PROPN	_	Case=Dat|Gender=Masc|Number=Plur	3	nsubj	_	Translit=keśavacaṁdrāṁnā|LTranslit=keśavacaṁdra
+2	ते	तो	PRON	_	Case=Acc|Deixis=Remt|Gender=Neut|Number=Sing|Person=3|PronType=Dem	3	obj	_	Translit=te|LTranslit=to
+3	सहन	सहन	ADV	_	_	4	compound:lvc	_	Translit=sahana|LTranslit=sahana
+4	होत	होणे	VERB	_	Aspect=Imp|VerbForm=Part	0	root	_	Translit=hota|LTranslit=hoṇe
+5	नव्हते	असणे	AUX	_	Gender=Neut|Number=Sing|Person=3|Polarity=Neg|Tense=Past|VerbForm=Fin	4	aux	_	SpaceAfter=No|Translit=navhate|LTranslit=asaṇe
+6	.	.	PUNCT	_	_	4	punct	_	Translit=.|LTranslit=.
+
+# sent_id = 399
+# text = आज सकाळी ती शेवटची बाचाबाची झाली.
+# translit = āja sakāḷī tī śevaṭacī bācābācī jhālī.
+1	आज	आज	ADV	_	_	2	advmod	_	Translit=āja|LTranslit=āja
+2	सकाळी	सकाळी	ADV	_	_	7	advmod	_	Translit=sakāḷī|LTranslit=sakāḷī
+3	ती	तो	DET	_	Deixis=Remt|Gender=Fem|Number=Sing|PronType=Dem	6	det	_	Translit=tī|LTranslit=to
+4-5	शेवटची	_	_	_	_	_	_	_	Translit=śevaṭacī
+4	शेवट	शेवट	NOUN	_	Case=Abs|Gender=Masc|Number=Sing	6	nmod:poss	_	Translit=śevaṭa|LTranslit=śevaṭa
+5	ची	चा	ADP	_	Gender=Fem|Number=Sing	4	case	_	Translit=cī|LTranslit=cā
+6	बाचाबाची	बाचाबाची	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	7	nsubj	_	Translit=bācābācī|LTranslit=bācābācī
+7	झाली	होणे	VERB	_	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|VerbForm=Fin	0	root	_	SpaceAfter=No|Translit=jhālī|LTranslit=hoṇe
+8	.	.	PUNCT	_	_	7	punct	_	Translit=.|LTranslit=.
+
+# sent_id = 400
+# text = सावकार का ही जमीन लाटणार?
+# translit = sāvakāra kā hī jamīna lāṭaṇāra?
+1	सावकार	सावकार	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	5	nsubj	_	Translit=sāvakāra|LTranslit=sāvakāra
+2	का	का	ADV	_	_	5	advmod	_	Translit=kā|LTranslit=kā
+3	ही	हा	DET	_	Deixis=Prox|Gender=Fem|Number=Sing|PronType=Dem	4	det	_	Translit=hī|LTranslit=hā
+4	जमीन	जमीन	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	5	obj	_	Translit=jamīna|LTranslit=jamīna
+5	लाटणार	लाटणे	VERB	_	Aspect=Prosp|VerbForm=Fin	0	root	_	SpaceAfter=No|Translit=lāṭaṇāra|LTranslit=lāṭaṇe
+6	?	?	PUNCT	_	_	5	punct	_	Translit=?|LTranslit=?
+
+# sent_id = 401
+# text = या जमिनीचा मी मालक.
+# translit = yā jaminīcā mī mālaka.
+1	या	हा	DET	_	Case=Abs|Deixis=Prox|PronType=Dem	2	det	_	Translit=yā|LTranslit=hā
+2-3	जमिनीचा	_	_	_	_	_	_	_	Translit=jaminīcā
+2	जमिनी	जमिन	NOUN	_	Case=Abs|Gender=Fem|Number=Sing	5	nmod:poss	_	Translit=jaminī|LTranslit=jamina
+3	चा	चा	ADP	_	Gender=Masc|Number=Sing	2	case	_	Translit=cā|LTranslit=cā
+4	मी	मी	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	nsubj	_	Translit=mī|LTranslit=mī
+5	मालक	मालक	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No|Translit=mālaka|LTranslit=mālaka
+6	.	.	PUNCT	_	_	5	punct	_	Translit=.|LTranslit=.
+
+# sent_id = 402
+# text = उद्या मला येथे मजूर म्हणून का कामासाठी यावे लागेल?
+# translit = udyā malā yethe majūra mhaṇūna kā kāmāsāṭhī yāve lāgela?
+1	उद्या	उद्या	ADV	_	_	10	advmod	_	Translit=udyā|LTranslit=udyā
+2	मला	मी	PRON	_	Case=Dat|Number=Sing|Person=1|PronType=Prs	10	nsubj	_	Translit=malā|LTranslit=mī
+3	येथे	येथे	ADV	_	_	10	advmod	_	Translit=yethe|LTranslit=yethe
+4	मजूर	मजूर	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	5	obj	_	Translit=majūra|LTranslit=majūra
+5	म्हणून	म्हणून	SCONJ	_	_	10	advcl	_	Translit=mhaṇūna|LTranslit=mhaṇūna
+6	का	का	ADV	_	_	10	advmod	_	Translit=kā|LTranslit=kā
+7-8	कामासाठी	_	_	_	_	_	_	_	Translit=kāmāsāṭhī
+7	कामा	काम	NOUN	_	Case=Abs|Gender=Neut|Number=Sing	10	obl	_	Translit=kāmā|LTranslit=kāma
+8	साठी	साठी	ADP	_	_	7	case	_	Translit=sāṭhī|LTranslit=sāṭhī
+9	यावे	येणे	VERB	_	Gender=Neut|Mood=Sub|Number=Sing|Person=3|VerbForm=Fin	10	xcomp	_	Translit=yāve|LTranslit=yeṇe
+10	लागेल	लागणे	VERB	_	Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	SpaceAfter=No|Translit=lāgela|LTranslit=lāgaṇe
+11	?	?	PUNCT	_	_	10	punct	_	Translit=?|LTranslit=?
+
+# sent_id = 403
+# text = भीमा विहिरीच्या काठी बसून विचार करीत होता.
+# translit = bhīmā vihirīcyā kāṭhī basūna vicāra karīta hotā.
+1	भीमा	भीमा	PROPN	_	Gender=Masc|Number=Sing	6	nsubj	_	Translit=bhīmā|LTranslit=bhīmā
+2-3	विहिरीच्या	_	_	_	_	_	_	_	Translit=vihirīcyā
+2	विहिरी	विहिर	NOUN	_	Case=Abs|Gender=Fem|Number=Sing	4	nmod:poss	_	Translit=vihirī|LTranslit=vihira
+3	च्या	चा	ADP	_	Case=Abs	2	case	_	Translit=cyā|LTranslit=cā
+4	काठी	काठी	NOUN	_	Case=Loc|Gender=Fem|Number=Sing	5	obl	_	Translit=kāṭhī|LTranslit=kāṭhī
+5	बसून	बसणे	VERB	_	Aspect=Perf|VerbForm=Conv	6	advcl	_	Translit=basūna|LTranslit=basaṇe
+6	विचार	विचार	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	7	compound:lvc	_	Translit=vicāra|LTranslit=vicāra
+7	करीत	करणे	VERB	_	Aspect=Imp|VerbForm=Part	0	root	_	Translit=karīta|LTranslit=karaṇe
+8	होता	असणे	AUX	_	Gender=Masc|Number=Sing|Person=3|Polarity=Pos|Tense=Past|VerbForm=Fin	7	aux	_	SpaceAfter=No|Translit=hotā|LTranslit=asaṇe
+9	.	.	PUNCT	_	_	7	punct	_	Translit=.|LTranslit=.
+
+# sent_id = 404
+# text = त्याचे तोंड चिंतेने जरा काळवंडले.
+# translit = tyāce toṁḍa ciṁtene jarā kāḷavaṁḍale.
+1-2	त्याचे	_	_	_	_	_	_	_	Translit=tyāce
+1	त्या	तो	PRON	_	Deixis=Remt|Gender=Masc|Number=Sing|Person=3|PronType=Dem	3	nmod:poss	_	Translit=tyā|LTranslit=to
+2	चे	चा	ADP	_	Gender=Neut|Number=Sing	1	case	_	Translit=ce|LTranslit=cā
+3	तोंड	तोंड	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	6	nsubj	_	Translit=toṁḍa|LTranslit=toṁḍa
+4	चिंतेने	चिंता	NOUN	_	Case=Ins|Gender=Fem|Number=Sing	6	obl	_	Translit=ciṁtene|LTranslit=ciṁtā
+5	जरा	जरा	ADV	_	_	6	advmod	_	Translit=jarā|LTranslit=jarā
+6	काळवंडले	काळवंडणे	VERB	_	Aspect=Perf|Gender=Neut|Number=Sing|Person=3|VerbForm=Fin	0	root	_	SpaceAfter=No|Translit=kāḷavaṁḍale|LTranslit=kāḷavaṁḍaṇe
+7	.	.	PUNCT	_	_	6	punct	_	Translit=.|LTranslit=.
+
+# sent_id = 405
+# text = इतक्यात त्याची वडील मुलगी भीमी लहान भावंडाला घेऊन आली.
+# translit = itakyāta tyācī vaḍīla mulagī bhīmī lahāna bhāvaṁḍālā gheūna ālī.
+1	इतक्यात	इतक्यात	ADV	_	_	10	advmod	_	Translit=itakyāta|LTranslit=itakyāta
+2-3	त्याची	_	_	_	_	_	_	_	Translit=tyācī
+2	त्या	तो	PRON	_	Deixis=Remt|Gender=Neut|Number=Sing|Person=3|PronType=Dem	4	nmod:poss	_	Translit=tyā|LTranslit=to
+3	ची	चा	ADP	_	Gender=Fem|Number=Sing	2	case	_	Translit=cī|LTranslit=cā
+4	वडील	वडील	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	10	nsubj	_	Translit=vaḍīla|LTranslit=vaḍīla
+5	मुलगी	मुलगी	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	4	flat	_	Translit=mulagī|LTranslit=mulagī
+6	भीमी	भीमी	PROPN	_	Case=Nom|Gender=Fem|Number=Sing	4	appos	_	Translit=bhīmī|LTranslit=bhīmī
+7	लहान	लहान	ADJ	_	Case=Abs	8	amod	_	Translit=lahāna|LTranslit=lahāna
+8	भावंडाला	भावंड	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	9	obj	_	Translit=bhāvaṁḍālā|LTranslit=bhāvaṁḍa
+9	घेऊन	घेणे	VERB	_	Aspect=Perf|VerbForm=Conv	10	advcl	_	Translit=gheūna|LTranslit=gheṇe
+10	आली	येणे	VERB	_	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|VerbForm=Fin	0	root	_	SpaceAfter=No|Translit=ālī|LTranslit=yeṇe
+11	.	.	PUNCT	_	_	10	punct	_	Translit=.|LTranslit=.
+
+# sent_id = 406
+# text = "बाबा, आईने घरी बोलावले आहे." ती म्हणाली.
+# translit = "bābā, āīne gharī bolāvale āhe." tī mhaṇālī.
+1	"	"	PUNCT	_	_	6	punct	_	SpaceAfter=No|Translit="|LTranslit="
+2	बाबा	बाबा	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	6	vocative	_	SpaceAfter=No|Translit=bābā|LTranslit=bābā
+3	,	,	PUNCT	_	_	2	punct	_	Translit=,|LTranslit=,
+4	आईने	आई	NOUN	_	Case=Erg|Gender=Fem|Number=Sing	6	nsubj	_	Translit=āīne|LTranslit=āī
+5	घरी	घरी	ADV	_	_	6	obl	_	Translit=gharī|LTranslit=gharī
+6	बोलावले	बोलावणे	VERB	_	Aspect=Perf|Gender=Neut|Number=Sing|Person=3|VerbForm=Fin	0	root	_	Translit=bolāvale|LTranslit=bolāvaṇe
+7	आहे	असणे	AUX	_	Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	6	aux	_	SpaceAfter=No|Translit=āhe|LTranslit=asaṇe
+8	.	.	PUNCT	_	_	6	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
+9	"	"	PUNCT	_	_	6	punct	_	Translit="|LTranslit="
+10	ती	तो	PRON	_	Case=Nom|Deixis=Remt|Gender=Fem|Number=Sing|Person=3|PronType=Dem	11	nsubj	_	Translit=tī|LTranslit=to
+11	म्हणाली	म्हणणे	VERB	_	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|VerbForm=Fin	6	parataxis	_	SpaceAfter=No|Translit=mhaṇālī|LTranslit=mhaṇaṇe
+12	.	.	PUNCT	_	_	11	punct	_	Translit=.|LTranslit=.
+
+# sent_id = 407
+# text = "कशाला ग, पोरी?"
+# translit = "kaśālā ga, porī?"
+1	"	"	PUNCT	_	_	2	punct	_	SpaceAfter=No|Translit="|LTranslit="
+2	कशाला	कशाला	ADV	_	_	0	root	_	Translit=kaśālā|LTranslit=kaśālā
+3	ग	ग	INTJ	_	_	2	vocative	_	SpaceAfter=No|Translit=ga|LTranslit=ga
+4	,	,	PUNCT	_	_	5	punct	_	Translit=,|LTranslit=,
+5	पोरी	पोरगी	NOUN	_	Case=Voc|Gender=Fem|Number=Sing	2	vocative	_	SpaceAfter=No|Translit=porī|LTranslit=poragī
+6	?	?	PUNCT	_	_	2	punct	_	SpaceAfter=No|Translit=?|LTranslit=?
+7	"	"	PUNCT	_	_	2	punct	_	Translit="|LTranslit="
+
+# sent_id = 408
+# text = "सावकार आला आहे घरी."
+# translit = "sāvakāra ālā āhe gharī."
+1	"	"	PUNCT	_	_	3	punct	_	SpaceAfter=No|Translit="|LTranslit="
+2	सावकार	सावकार	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	Translit=sāvakāra|LTranslit=sāvakāra
+3	आला	येणे	VERB	_	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|VerbForm=Fin	0	root	_	Translit=ālā|LTranslit=yeṇe
+4	आहे	असणे	AUX	_	Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	3	aux	_	Translit=āhe|LTranslit=asaṇe
+5	घरी	घरी	ADV	_	_	3	obl	_	SpaceAfter=No|Translit=gharī|LTranslit=gharī
+6	.	.	PUNCT	_	_	3	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
+7	"	"	PUNCT	_	_	3	punct	_	Translit="|LTranslit="
+
+# sent_id = 409
+# text = "काय म्हणतो तो?"
+# translit = "kāya mhaṇato to?"
+1	"	"	PUNCT	_	_	3	punct	_	SpaceAfter=No|Translit="|LTranslit="
+2	काय	काय	PRON	_	Case=Acc|PronType=Int	3	obj	_	Translit=kāya|LTranslit=kāya
+3	म्हणतो	म्हणणे	VERB	_	Aspect=Imp|Gender=Masc|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Translit=mhaṇato|LTranslit=mhaṇaṇe
+4	तो	तो	PRON	_	Case=Nom|Deixis=Remt|Gender=Masc|Number=Sing|Person=3|PronType=Dem	3	nsubj	_	SpaceAfter=No|Translit=to|LTranslit=to
+5	?	?	PUNCT	_	_	3	punct	_	SpaceAfter=No|Translit=?|LTranslit=?
+6	"	"	PUNCT	_	_	3	punct	_	Translit="|LTranslit="
+
+# sent_id = 410
+# text = "आईला म्हणाला, 'हजार रुपये घ्या व शेत द्या!' आणि मला म्हणाला, 'तुझ्या बापाला काही कळत नाही.'
+# translit = "āīlā mhaṇālā, 'hajāra rupaye ghyā va śeta dyā!' āṇi malā mhaṇālā, 'tujhyā bāpālā kāhī kaḷata nāhī.'
+1	"	"	PUNCT	_	_	3	punct	_	SpaceAfter=No|Translit="|LTranslit="
+2	आईला	आई	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	3	obj	_	Translit=āīlā|LTranslit=āī
+3	म्हणाला	म्हणणे	VERB	_	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|VerbForm=Fin	0	root	_	SpaceAfter=No|Translit=mhaṇālā|LTranslit=mhaṇaṇe
+4	,	,	PUNCT	_	_	8	punct	_	Translit=,|LTranslit=,
+5	'	'	PUNCT	_	_	8	punct	_	SpaceAfter=No|Translit='|LTranslit='
+6	हजार	हजार	NUM	_	_	7	nummod	_	Translit=hajāra|LTranslit=hajāra
+7	रुपये	रुपय	NOUN	_	Case=Acc|Gender=Neut|Number=Plur	8	obj	_	Translit=rupaye|LTranslit=rupaya
+8	घ्या	घेणे	VERB	_	Mood=Imp|Number=Plur|Person=2|VerbForm=Fin	3	parataxis	_	Translit=ghyā|LTranslit=gheṇe
+9	व	व	CCONJ	_	_	11	cc	_	Translit=va|LTranslit=va
+10	शेत	शेत	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	11	obj	_	Translit=śeta|LTranslit=śeta
+11	द्या	देणे	VERB	_	Mood=Imp|Number=Plur|Person=2|VerbForm=Fin	8	conj	_	SpaceAfter=No|Translit=dyā|LTranslit=deṇe
+12	!	!	PUNCT	_	_	11	punct	_	SpaceAfter=No|Translit=!|LTranslit=!
+13	'	'	PUNCT	_	_	8	punct	_	Translit='|LTranslit='
+14	आणि	आणि	CCONJ	_	_	16	cc	_	Translit=āṇi|LTranslit=āṇi
+15	मला	मी	PRON	_	Case=Dat|Number=Sing|Person=1|PronType=Prs	16	obj	_	Translit=malā|LTranslit=mī
+16	म्हणाला	म्हणणे	VERB	_	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|VerbForm=Fin	3	conj	_	SpaceAfter=No|Translit=mhaṇālā|LTranslit=mhaṇaṇe
+17	,	,	PUNCT	_	_	23	punct	_	Translit=,|LTranslit=,
+18	'	'	PUNCT	_	_	23	punct	_	SpaceAfter=No|Translit='|LTranslit='
+19-20	तुझ्या	_	_	_	_	_	_	_	Translit=tujhyā
+19	तुझ	तू	PRON	_	Number=Sing|Person=2|PronType=Prs	21	nmod:poss	_	Translit=tujha|LTranslit=tū
+20	च्या	चा	ADP	_	Case=Abs	19	case	_	Translit=cyā|LTranslit=cā
+21	बापाला	बाप	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	23	nsubj	_	Translit=bāpālā|LTranslit=bāpa
+22	काही	काही	PRON	_	Number=Sing|Person=3|PronType=Dem	23	obj	_	Translit=kāhī|LTranslit=kāhī
+23	कळत	कळणे	VERB	_	Aspect=Imp|VerbForm=Part	16	parataxis	_	Translit=kaḷata|LTranslit=kaḷaṇe
+24	नाही	असणे	AUX	_	Number=Sing|Person=3|Polarity=Neg|VerbForm=Fin	23	aux	_	SpaceAfter=No|Translit=nāhī|LTranslit=asaṇe
+25	.	.	PUNCT	_	_	23	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
+26	'	'	PUNCT	_	_	23	punct	_	Translit='|LTranslit='
+
+# sent_id = 411
+# text = "बाबा, शेत का तुम्ही विकणार?"
+# translit = "bābā, śeta kā tumhī vikaṇāra?"
+1	"	"	PUNCT	_	_	7	punct	_	SpaceAfter=No|Translit="|LTranslit="
+2	बाबा	बाबा	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	7	vocative	_	SpaceAfter=No|Translit=bābā|LTranslit=bābā
+3	,	,	PUNCT	_	_	2	punct	_	Translit=,|LTranslit=,
+4	शेत	शेत	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	7	obj	_	Translit=śeta|LTranslit=śeta
+5	का	का	ADV	_	_	7	discourse	_	Translit=kā|LTranslit=kā
+6	तुम्ही	तू	PRON	_	Case=Nom|Number=Plur|Person=2|PronType=Prs	7	nsubj	_	Translit=tumhī|LTranslit=tū
+7	विकणार	विकणे	VERB	_	Aspect=Prosp|VerbForm=Fin	0	root	_	SpaceAfter=No|Translit=vikaṇāra|LTranslit=vikaṇe
+8	?	?	PUNCT	_	_	7	punct	_	SpaceAfter=No|Translit=?|LTranslit=?
+9	"	"	PUNCT	_	_	7	punct	_	Translit="|LTranslit="
+
+# sent_id = 412
+# text = "प्राण गेला तरी विकणार नाही."
+# translit = "prāṇa gelā tarī vikaṇāra nāhī."
+1	"	"	PUNCT	_	_	5	punct	_	SpaceAfter=No|Translit="|LTranslit="
+2	प्राण	प्राण	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	Translit=prāṇa|LTranslit=prāṇa
+3	गेला	जाणे	VERB	_	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|VerbForm=Fin	5	advcl	_	Translit=gelā|LTranslit=jāṇe
+4	तरी	तरी	SCONJ	_	_	3	mark	_	Translit=tarī|LTranslit=tarī
+5	विकणार	विकणे	VERB	_	Aspect=Prosp|VerbForm=Fin	0	root	_	Translit=vikaṇāra|LTranslit=vikaṇe
+6	नाही	असणे	AUX	_	Number=Sing|Person=1|Polarity=Neg|VerbForm=Fin	5	aux	_	SpaceAfter=No|Translit=nāhī|LTranslit=asaṇe
+7	.	.	PUNCT	_	_	5	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
+8	"	"	PUNCT	_	_	5	punct	_	Translit="|LTranslit="
+
+# sent_id = 413
+# text = "तुझी आई काय म्हणाली?"
+# translit = "tujhī āī kāya mhaṇālī?"
+1	"	"	PUNCT	_	_	6	punct	_	SpaceAfter=No|Translit="|LTranslit="
+2-3	तुझी	_	_	_	_	_	_	_	Translit=tujhī
+2	तुझ	तू	PRON	_	Number=Sing|Person=2|PronType=Prs	4	nmod:poss	_	Translit=tujha|LTranslit=tū
+3	ची	चा	ADP	_	Gender=Fem|Number=Sing	2	case	_	Translit=cī|LTranslit=cā
+4	आई	आई	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	6	nsubj	_	Translit=āī|LTranslit=āī
+5	काय	काय	PRON	_	Case=Acc|PronType=Int	6	obj	_	Translit=kāya|LTranslit=kāya
+6	म्हणाली	म्हणणे	VERB	_	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|VerbForm=Fin	0	root	_	SpaceAfter=No|Translit=mhaṇālī|LTranslit=mhaṇaṇe
+7	?	?	PUNCT	_	_	6	punct	_	SpaceAfter=No|Translit=?|LTranslit=?
+8	"	"	PUNCT	_	_	6	punct	_	Translit="|LTranslit="
+
+# sent_id = 414
+# text = "ती म्हणाली, 'त्यांना विचारा.'"
+# translit = "tī mhaṇālī, 'tyāṁnā vicārā.'"
+1	"	"	PUNCT	_	_	3	punct	_	SpaceAfter=No|Translit="|LTranslit="
+2	ती	तो	PRON	_	Case=Nom|Deixis=Remt|Gender=Fem|Number=Sing|Person=3|PronType=Dem	3	nsubj	_	Translit=tī|LTranslit=to
+3	म्हणाली	म्हणणे	VERB	_	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|VerbForm=Fin	0	root	_	SpaceAfter=No|Translit=mhaṇālī|LTranslit=mhaṇaṇe
+4	,	,	PUNCT	_	_	7	punct	_	Translit=,|LTranslit=,
+5	'	'	PUNCT	_	_	7	punct	_	SpaceAfter=No|Translit='|LTranslit='
+6	त्यांना	तो	PRON	_	Case=Dat|Deixis=Remt|Gender=Masc|Number=Plur|Person=3|PronType=Dem	7	obj	_	Translit=tyāṁnā|LTranslit=to
+7	विचारा	विचारणे	VERB	_	Mood=Imp|Number=Plur|Person=2|VerbForm=Fin	3	parataxis	_	SpaceAfter=No|Translit=vicārā|LTranslit=vicāraṇe
+8	.	.	PUNCT	_	_	7	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
+9	'	'	PUNCT	_	_	7	punct	_	SpaceAfter=No|Translit='|LTranslit='
+10	"	"	PUNCT	_	_	3	punct	_	Translit="|LTranslit="
+
+# sent_id = 415
+# text = आणखी आई त्यांना म्हणाली, 'पैसे काय, आज आहेत उद्या नाहीत, जमीन कायमची सत्तेची.'"
+# translit = āṇakhī āī tyāṁnā mhaṇālī, 'paise kāya, āja āheta udyā nāhīta, jamīna kāyamacī sattecī.'"
+1	आणखी	आणखी	CCONJ	_	_	4	advmod	_	Translit=āṇakhī|LTranslit=āṇakhī
+2	आई	आई	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	4	nsubj	_	Translit=āī|LTranslit=āī
+3	त्यांना	तो	PRON	_	Case=Dat|Deixis=Remt|Gender=Masc|Number=Plur|Person=3|PronType=Dem	4	obj	_	Translit=tyāṁnā|LTranslit=to
+4	म्हणाली	म्हणणे	VERB	_	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|VerbForm=Fin	0	root	_	SpaceAfter=No|Translit=mhaṇālī|LTranslit=mhaṇaṇe
+5	,	,	PUNCT	_	_	10	punct	_	Translit=,|LTranslit=,
+6	'	'	PUNCT	_	_	10	punct	_	SpaceAfter=No|Translit='|LTranslit='
+7	पैसे	पैसा	NOUN	_	Case=Abs|Gender=Masc|Number=Plur	10	nsubj	_	Translit=paise|LTranslit=paisā
+8	काय	काय	PRON	_	Case=Nom|PronType=Int	7	discourse	_	SpaceAfter=No|Translit=kāya|LTranslit=kāya
+9	,	,	PUNCT	_	_	7	punct	_	Translit=,|LTranslit=,
+10	आज	आज	ADV	_	_	4	parataxis	_	Translit=āja|LTranslit=āja
+11	आहेत	असणे	AUX	_	Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	10	cop	_	Translit=āheta|LTranslit=asaṇe
+12	उद्या	उद्या	ADV	_	_	10	conj	_	Translit=udyā|LTranslit=udyā
+13	नाहीत	असणे	AUX	_	Number=Plur|Person=3|Polarity=Neg|VerbForm=Fin	12	cop	_	SpaceAfter=No|Translit=nāhīta|LTranslit=asaṇe
+14	,	,	PUNCT	_	_	16	punct	_	Translit=,|LTranslit=,
+15	जमीन	जमीन	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	16	nsubj	_	Translit=jamīna|LTranslit=jamīna
+16	कायमची	कायमचा	ADJ	_	Case=Nom|Gender=Fem|Number=Sing	10	parataxis	_	Translit=kāyamacī|LTranslit=kāyamacā
+17	सत्तेची	सत्तेचा	ADJ	_	Case=Nom|Gender=Fem|Number=Sing	16	conj	_	SpaceAfter=No|Translit=sattecī|LTranslit=sattecā
+18	.	.	PUNCT	_	_	16	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
+19	'	'	PUNCT	_	_	16	punct	_	SpaceAfter=No|Translit='|LTranslit='
+20	"	"	PUNCT	_	_	16	punct	_	Translit="|LTranslit="
+
+# sent_id = 416
+# text = ती विकून कुठे जायचे?
+# translit = tī vikūna kuṭhe jāyace?
+1	ती	तो	PRON	_	Case=Acc|Deixis=Remt|Gender=Fem|Number=Sing|Person=3|PronType=Dem	2	obj	_	Translit=tī|LTranslit=to
+2	विकून	विकणे	VERB	_	Aspect=Perf|VerbForm=Conv	4	advcl	_	Translit=vikūna|LTranslit=vikaṇe
+3	कुठे	कुठे	ADV	_	_	4	advmod	_	Translit=kuṭhe|LTranslit=kuṭhe
+4	जायचे	जाणे	VERB	_	Gender=Neut|Mood=Des|Number=Sing|Person=3|VerbForm=Part	0	root	_	SpaceAfter=No|Translit=jāyace|LTranslit=jāṇe
+5	?	?	PUNCT	_	_	4	punct	_	Translit=?|LTranslit=?
+
+# sent_id = 417
+# text = शहाणी आहे तुझी आई!
+# translit = śahāṇī āhe tujhī āī!
+1	शहाणी	शहाणा	ADJ	_	Case=Nom|Gender=Fem|Number=Sing	0	root	_	Translit=śahāṇī|LTranslit=śahāṇā
+2	आहे	असणे	AUX	_	Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	1	cop	_	Translit=āhe|LTranslit=asaṇe
+3-4	तुझी	_	_	_	_	_	_	_	Translit=tujhī
+3	तुझ	तू	PRON	_	Number=Sing|Person=2|PronType=Prs	5	nmod:poss	_	Translit=tujha|LTranslit=tū
+4	ची	चा	ADP	_	Gender=Fem|Number=Sing	3	case	_	Translit=cī|LTranslit=cā
+5	आई	आई	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	1	nsubj	_	SpaceAfter=No|Translit=āī|LTranslit=āī
+6	!	!	PUNCT	_	_	1	punct	_	Translit=!|LTranslit=!
+
+# sent_id = 418
+# text = भीमा मुलीबरोबर घरी आला.
+# translit = bhīmā mulībarobara gharī ālā.
+1	भीमा	भीमा	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	5	nsubj	_	Translit=bhīmā|LTranslit=bhīmā
+2-3	मुलीबरोबर	_	_	_	_	_	_	_	Translit=mulībarobara
+2	मुली	मुलगी	NOUN	_	Case=Abs|Gender=Fem|Number=Sing	5	obl	_	Translit=mulī|LTranslit=mulagī
+3	बरोबर	बरोबर	ADP	_	_	2	case	_	Translit=barobara|LTranslit=barobara
+4	घरी	घरी	ADV	_	_	5	obl	_	Translit=gharī|LTranslit=gharī
+5	आला	येणे	VERB	_	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|VerbForm=Fin	0	root	_	SpaceAfter=No|Translit=ālā|LTranslit=yeṇe
+6	.	.	PUNCT	_	_	5	punct	_	Translit=.|LTranslit=.
+
+# sent_id = 419
+# text = सावकार निघून गेला होता.
+# translit = sāvakāra nighūna gelā hotā.
+1	सावकार	सावकार	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	Translit=sāvakāra|LTranslit=sāvakāra
+2	निघून	निघने	VERB	_	Aspect=Perf|VerbForm=Conv	0	root	_	Translit=nighūna|LTranslit=nighane
+3	गेला	जाणे	VERB	_	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|VerbForm=Fin	2	compound:svc	_	Translit=gelā|LTranslit=jāṇe
+4	होता	असणे	AUX	_	Gender=Masc|Number=Sing|Person=3|Polarity=Pos|Tense=Past|VerbForm=Fin	2	aux	_	SpaceAfter=No|Translit=hotā|LTranslit=asaṇe
+5	.	.	PUNCT	_	_	2	punct	_	Translit=.|LTranslit=.
+
+# sent_id = 420
+# text = बायकोने सारी बोलणी भीमाच्या कानावर घातली.
+# translit = bāyakone sārī bolaṇī bhīmācyā kānāvara ghātalī.
+1	बायकोने	बायको	NOUN	_	Case=Erg|Gender=Fem|Number=Sing	8	nsubj	_	Translit=bāyakone|LTranslit=bāyako
+2	सारी	सारी	ADJ	_	Case=Nom|Gender=Fem|Number=Sing	3	amod	_	Translit=sārī|LTranslit=sārī
+3	बोलणी	बोलणी	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	8	obj	_	Translit=bolaṇī|LTranslit=bolaṇī
+4-5	भीमाच्या	_	_	_	_	_	_	_	Translit=bhīmācyā
+4	भीमा	भीमा	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	6	nmod:poss	_	Translit=bhīmā|LTranslit=bhīmā
+5	च्या	चा	ADP	_	Case=Abs	4	case	_	Translit=cyā|LTranslit=cā
+6-7	कानावर	_	_	_	_	_	_	_	Translit=kānāvara
+6	काना	कान	NOUN	_	Case=Abs|Gender=Masc|Number=Sing	8	obl	_	Translit=kānā|LTranslit=kāna
+7	वर	वर	ADP	_	_	6	case	_	Translit=vara|LTranslit=vara
+8	घातली	घालणे	VERB	_	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|VerbForm=Fin	0	root	_	SpaceAfter=No|Translit=ghātalī|LTranslit=ghālaṇe
+9	.	.	PUNCT	_	_	8	punct	_	Translit=.|LTranslit=.
+
+# sent_id = 421
+# text = "साप आहे तो मेला!
+# translit = "sāpa āhe to melā!
+1	"	"	PUNCT	_	_	2	punct	_	SpaceAfter=No|Translit="|LTranslit="
+2	साप	साप	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	0	root	_	Translit=sāpa|LTranslit=sāpa
+3	आहे	असणे	AUX	_	Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	2	cop	_	Translit=āhe|LTranslit=asaṇe
+4	तो	तो	DET	_	Deixis=Remt|Gender=Masc|Number=Sing|PronType=Dem	5	det	_	Translit=to|LTranslit=to
+5	मेला	मेला	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	SpaceAfter=No|Translit=melā|LTranslit=melā
+6	!	!	PUNCT	_	_	2	punct	_	Translit=!|LTranslit=!
+
+# sent_id = 422
+# text = "तो आपला सत्यानाश केल्यावाचून राहणार नाही!" तो म्हणाला.
+# translit = "to āpalā satyānāśa kelyāvācūna rāhaṇāra nāhī!" to mhaṇālā.
+1	"	"	PUNCT	_	_	8	punct	_	SpaceAfter=No|Translit="|LTranslit="
+2	तो	तो	PRON	_	Case=Nom|Deixis=Remt|Gender=Masc|Number=Sing|Person=3|PronType=Dem	8	nsubj	_	Translit=to|LTranslit=to
+3-4	आपला	_	_	_	_	_	_	_	Translit=āpalā
+3	आपल	मी	PRON	_	Clusivity=In|Number=Plur|Person=1|PronType=Prs	5	nmod:poss	_	Translit=āpala|LTranslit=mī
+4	चा	चा	ADP	_	Gender=Masc|Number=Sing	3	case	_	Translit=cā|LTranslit=cā
+5	सत्यानाश	सत्यानाश	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	6	obj	_	Translit=satyānāśa|LTranslit=satyānāśa
+6-7	केल्यावाचून	_	_	_	_	_	_	_	Translit=kelyāvācūna
+6	केल्या	करणे	VERB	_	Aspect=Perf|Case=Abs|VerbForm=Fin	8	advcl	_	Translit=kelyā|LTranslit=karaṇe
+7	वाचून	वाचून	ADP	_	_	6	case	_	Translit=vācūna|LTranslit=vācūna
+8	राहणार	रहाणे	VERB	_	Aspect=Prosp|VerbForm=Fin	0	root	_	Translit=rāhaṇāra|LTranslit=rahāṇe
+9	नाही	असणे	AUX	_	Number=Sing|Person=3|Polarity=Neg|VerbForm=Fin	8	cop	_	SpaceAfter=No|Translit=nāhī|LTranslit=asaṇe
+10	!	!	PUNCT	_	_	8	punct	_	SpaceAfter=No|Translit=!|LTranslit=!
+11	"	"	PUNCT	_	_	8	punct	_	Translit="|LTranslit="
+12	तो	तो	PRON	_	Case=Nom|Deixis=Remt|Gender=Masc|Number=Sing|Person=3|PronType=Dem	13	nsubj	_	Translit=to|LTranslit=to
+13	म्हणाला	म्हणणे	VERB	_	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|VerbForm=Fin	8	parataxis	_	SpaceAfter=No|Translit=mhaṇālā|LTranslit=mhaṇaṇe
+14	.	.	PUNCT	_	_	13	punct	_	Translit=.|LTranslit=.
+
+# sent_id = 424
+# text = " त्यांच्या बाबतीत देव मेला, तसा आपल्या बाबतीतही मरायचा!"
+# translit = " tyāṁcyā bābatīta deva melā, tasā āpalyā bābatītahī marāyacā!"
+1	"	"	PUNCT	_	_	13	punct	_	Translit="|LTranslit="
+2-3	त्यांच्या	_	_	_	_	_	_	_	Translit=tyāṁcyā
+2	त्यां	तो	PRON	_	Case=Abs|Deixis=Remt|Gender=Masc|Number=Plur|Person=3|PronType=Dem	4	nmod:poss	_	Translit=tyāṁ|LTranslit=to
+3	च्या	चा	ADP	_	Case=Abs	2	case	_	Translit=cyā|LTranslit=cā
+4	बाबतीत	बाबत	NOUN	_	Case=Loc|Gender=Fem|Number=Sing	5	obl	_	Translit=bābatīta|LTranslit=bābata
+5	देव	देव	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	6	nsubj	_	Translit=deva|LTranslit=deva
+6	मेला	मरणे	VERB	_	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|VerbForm=Fin	13	advcl	_	SpaceAfter=No|Translit=melā|LTranslit=maraṇe
+7	,	,	PUNCT	_	_	8	punct	_	Translit=,|LTranslit=,
+8	तसा	तसा	SCONJ	_	_	6	mark	_	Translit=tasā|LTranslit=tasā
+9-10	आपल्या	_	_	_	_	_	_	_	Translit=āpalyā
+9	आपल	आपण	PRON	_	PronType=Prs	11	nmod:poss	_	Translit=āpala|LTranslit=āpaṇa
+10	च्या	चा	ADP	_	Case=Abs	9	case	_	Translit=cyā|LTranslit=cā
+11-12	बाबतीतही	_	_	_	_	_	_	_	Translit=bābatītahī
+11	बाबतीत	बाबत	NOUN	_	Case=Loc|Gender=Fem|Number=Sing	13	obl	_	Translit=bābatīta|LTranslit=bābata
+12	ही	ही	PART	_	_	11	discourse	_	Translit=hī|LTranslit=hī
+13	मरायचा	मरणे	VERB	_	Aspect=Hab|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	SpaceAfter=No|Translit=marāyacā|LTranslit=maraṇe
+14	!	!	PUNCT	_	_	13	punct	_	SpaceAfter=No|Translit=!|LTranslit=!
+15	"	"	PUNCT	_	_	13	punct	_	Translit="|LTranslit="
+
+# sent_id = 425
+# text = "त्यांनी हिंमत सोडली म्हणून त्यांचा देव मेला!"
+# translit = "tyāṁnī hiṁmata soḍalī mhaṇūna tyāṁcā deva melā!"
+1	"	"	PUNCT	_	_	9	punct	_	SpaceAfter=No|Translit="|LTranslit="
+2	त्यांनी	तो	PRON	_	Case=Erg|Deixis=Remt|Gender=Masc|Number=Plur|Person=3|PronType=Dem	4	nsubj	_	Translit=tyāṁnī|LTranslit=to
+3	हिंमत	हिंमत	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	4	obj	_	Translit=hiṁmata|LTranslit=hiṁmata
+4	सोडली	सोडणे	VERB	_	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|VerbForm=Fin	9	advcl	_	Translit=soḍalī|LTranslit=soḍaṇe
+5	म्हणून	म्हणून	SCONJ	_	_	4	mark	_	Translit=mhaṇūna|LTranslit=mhaṇūna
+6-7	त्यांचा	_	_	_	_	_	_	_	Translit=tyāṁcā
+6	त्यां	तो	PRON	_	Deixis=Remt|Gender=Masc|Number=Plur|Person=3|PronType=Dem	8	nmod:poss	_	Translit=tyāṁ|LTranslit=to
+7	चा	चा	ADP	_	Gender=Masc|Number=Sing	6	case	_	Translit=cā|LTranslit=cā
+8	देव	देव	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	9	nsubj	_	Translit=deva|LTranslit=deva
+9	मेला	मरणे	VERB	_	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|VerbForm=Fin	0	root	_	SpaceAfter=No|Translit=melā|LTranslit=maraṇe
+10	!	!	PUNCT	_	_	9	punct	_	SpaceAfter=No|Translit=!|LTranslit=!
+11	"	"	PUNCT	_	_	9	punct	_	Translit="|LTranslit="
+
+# sent_id = 426
+# text = जो सत्यासाठी उभा राहतो त्याचा देव मरत नाही.
+# translit = jo satyāsāṭhī ubhā rāhato tyācā deva marata nāhī.
+1	जो	जो	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	5	nsubj	_	Translit=jo|LTranslit=jo
+2-3	सत्यासाठी	_	_	_	_	_	_	_	Translit=satyāsāṭhī
+2	सत्या	सत्य	NOUN	_	Case=Abs|Gender=Masc|Number=Sing	5	obl	_	Translit=satyā|LTranslit=satya
+3	साठी	साठी	ADP	_	_	2	case	_	Translit=sāṭhī|LTranslit=sāṭhī
+4	उभा	उभा	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	5	compound:lvc	_	Translit=ubhā|LTranslit=ubhā
+5	राहतो	रहाणे	VERB	_	Aspect=Imp|Gender=Masc|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	acl:relcl	_	Translit=rāhato|LTranslit=rahāṇe
+6-7	त्याचा	_	_	_	_	_	_	_	Translit=tyācā
+6	त्या	तो	PRON	_	Deixis=Remt|Gender=Masc|Number=Sing|Person=3|PronType=Dem	8	nmod:poss	_	Translit=tyā|LTranslit=to
+7	चा	चा	ADP	_	Gender=Masc|Number=Sing	6	case	_	Translit=cā|LTranslit=cā
+8	देव	देव	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	9	nsubj	_	Translit=deva|LTranslit=deva
+9	मरत	मरणे	VERB	_	Aspect=Imp|VerbForm=Part	0	root	_	Translit=marata|LTranslit=maraṇe
+10	नाही	असणे	AUX	_	Number=Sing|Person=3|Polarity=Neg|VerbForm=Fin	9	aux	_	SpaceAfter=No|Translit=nāhī|LTranslit=asaṇe
+11	.	.	PUNCT	_	_	9	punct	_	Translit=.|LTranslit=.
+
+# sent_id = 427
+# text = समजलीस?
+# translit = samajalīsa?
+1	समजलीस	समजणे	VERB	_	Aspect=Perf|Gender=Fem|Number=Sing|Person=2|VerbForm=Fin	0	root	_	SpaceAfter=No|Translit=samajalīsa|LTranslit=samajaṇe
+2	?	?	PUNCT	_	_	1	punct	_	Translit=?|LTranslit=?
+
+# sent_id = 428
+# text = काही दिवस गेले.
+# translit = kāhī divasa gele.
+1	काही	काही	ADJ	_	Case=Nom	2	amod	_	Translit=kāhī|LTranslit=kāhī
+2	दिवस	दिवस	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	3	nsubj	_	Translit=divasa|LTranslit=divasa
+3	गेले	जाणे	VERB	_	Aspect=Perf|Gender=Masc|Number=Plur|Person=3|VerbForm=Fin	0	root	_	SpaceAfter=No|Translit=gele|LTranslit=jāṇe
+4	.	.	PUNCT	_	_	3	punct	_	Translit=.|LTranslit=.
+
+# sent_id = 429
+# text = केशवचंद्राने न्यायालयात फिर्याद केली.
+# translit = keśavacaṁdrāne nyāyālayāta phiryāda kelī.
+1	केशवचंद्राने	केशवचंद्र	PROPN	_	Case=Erg|Gender=Masc|Number=Sing	4	nsubj	_	Translit=keśavacaṁdrāne|LTranslit=keśavacaṁdra
+2	न्यायालयात	न्यायालय	NOUN	_	Case=Loc|Gender=Masc|Number=Sing	4	obl	_	Translit=nyāyālayāta|LTranslit=nyāyālaya
+3	फिर्याद	फिर्याद	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	4	obj	_	Translit=phiryāda|LTranslit=phiryāda
+4	केली	करणे	VERB	_	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|VerbForm=Fin	0	root	_	SpaceAfter=No|Translit=kelī|LTranslit=karaṇe
+5	.	.	PUNCT	_	_	4	punct	_	Translit=.|LTranslit=.
+
+# sent_id = 430
+# text = भीमाकडे असलेली जमीन वास्तविक आपली आहे.
+# translit = bhīmākaḍe asalelī jamīna vāstavika āpalī āhe.
+1-2	भीमाकडे	_	_	_	_	_	_	_	Translit=bhīmākaḍe
+1	भीमा	भीम	PROPN	_	Case=Abs|Gender=Masc|Number=Sing	4	nsubj	_	Translit=bhīmā|LTranslit=bhīma
+2	कडे	कडे	ADP	_	_	1	case	_	Translit=kaḍe|LTranslit=kaḍe
+3	असलेली	असणे	AUX	_	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Polarity=Pos|VerbForm=Part	4	cop:own	_	Translit=asalelī|LTranslit=asaṇe
+4	जमीन	जमीन	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	0	root	_	Translit=jamīna|LTranslit=jamīna
+5	वास्तविक	वास्तविक	ADV	_	_	4	advmod	_	Translit=vāstavika|LTranslit=vāstavika
+6-7	आपली	_	_	_	_	_	_	_	Translit=āpalī
+6	आपल	मी	PRON	_	Clusivity=In|Number=Plur|Person=1|PronType=Prs	4	nmod:poss	_	Translit=āpala|LTranslit=mī
+7	ची	चा	ADP	_	Gender=Fem|Number=Sing	6	case	_	Translit=cī|LTranslit=cā
+8	आहे	असणे	AUX	_	Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	4	cop	_	SpaceAfter=No|Translit=āhe|LTranslit=asaṇe
+9	.	.	PUNCT	_	_	4	punct	_	Translit=.|LTranslit=.
+
+# sent_id = 431
+# text = जुने कागदपत्र सापडले आहेत त्यावरून हे सिद्ध होत आहे, वगैरे त्याचे म्हणणे.
+# translit = june kāgadapatra sāpaḍale āheta tyāvarūna he siddha hota āhe, vagaire tyāce mhaṇaṇe.
+1	जुने	जुना	ADJ	_	Case=Nom|Gender=Masc|Number=Plur	2	amod	_	Translit=june|LTranslit=junā
+2	कागदपत्र	कागदपत्र	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	5	dislocated	_	Translit=kāgadapatra|LTranslit=kāgadapatra
+3	सापडले	सापडणे	VERB	_	Aspect=Perf|Gender=Masc|Number=Plur|Person=3|VerbForm=Fin	2	acl:relcl	_	Translit=sāpaḍale|LTranslit=sāpaḍaṇe
+4	आहेत	असणे	AUX	_	Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	3	cop	_	Translit=āheta|LTranslit=asaṇe
+5-6	त्यावरून	_	_	_	_	_	_	_	Translit=tyāvarūna
+5	त्या	तो	PRON	_	Case=Abs|Deixis=Remt|Gender=Neut|Number=Sing|Person=3|PronType=Dem	9	obl	_	Translit=tyā|LTranslit=to
+6	वरून	वरून	ADP	_	_	5	case	_	Translit=varūna|LTranslit=varūna
+7	हे	हा	PRON	_	Case=Nom|Deixis=Prox|Gender=Neut|Number=Sing|Person=3|PronType=Dem	9	nsubj	_	Translit=he|LTranslit=hā
+8	सिद्ध	सिद्ध	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	9	compound:lvc	_	Translit=siddha|LTranslit=siddha
+9	होत	होणे	VERB	_	Aspect=Imp|VerbForm=Part	0	root	_	Translit=hota|LTranslit=hoṇe
+10	आहे	असणे	AUX	_	Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	9	cop	_	SpaceAfter=No|Translit=āhe|LTranslit=asaṇe
+11	,	,	PUNCT	_	_	15	punct	_	Translit=,|LTranslit=,
+12	वगैरे	वगैरे	ADV	_	_	15	advmod	_	Translit=vagaire|LTranslit=vagaire
+13-14	त्याचे	_	_	_	_	_	_	_	Translit=tyāce
+13	त्या	तो	PRON	_	Deixis=Remt|Gender=Masc|Number=Sing|Person=3|PronType=Dem	15	nmod:poss	_	Translit=tyā|LTranslit=to
+14	चे	चा	ADP	_	Gender=Neut|Number=Sing	13	case	_	Translit=ce|LTranslit=cā
+15	म्हणणे	म्हणणे	VERB	_	Case=Nom|InfForm=Dict|VerbForm=Inf	9	parataxis	_	SpaceAfter=No|Translit=mhaṇaṇe|LTranslit=mhaṇaṇe
+16	.	.	PUNCT	_	_	9	punct	_	Translit=.|LTranslit=.
+
+# sent_id = 432
+# text = न्यायाधीश केशवचंद्रांच्या मुठीतले .
+# translit = nyāyādhīśa keśavacaṁdrāṁcyā muṭhītale .
+1	न्यायाधीश	न्यायाधीश	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	4	nsubj	_	Translit=nyāyādhīśa|LTranslit=nyāyādhīśa
+2-3	केशवचंद्रांच्या	_	_	_	_	_	_	_	Translit=keśavacaṁdrāṁcyā
+2	केशवचंद्रां	केशवचंद्र	PROPN	_	Case=Abs|Gender=Masc|Number=Sing	4	nmod:poss	_	Translit=keśavacaṁdrāṁ|LTranslit=keśavacaṁdra
+3	च्या	चा	ADP	_	Case=Abs	2	case	_	Translit=cyā|LTranslit=cā
+4-5	मुठीतले	_	_	_	_	_	_	_	Translit=muṭhītale
+4	मुठी	मुठ	NOUN	_	Case=Abs|Gender=Fem|Number=Sing	0	root	_	Translit=muṭhī|LTranslit=muṭha
+5	तले	तील	ADP	_	_	4	case	_	Translit=tale|LTranslit=tīla
+6	.	.	PUNCT	_	_	4	punct	_	Translit=.|LTranslit=.
+
+# sent_id = 433
+# text = पैशाने कोण वश होत नाही!
+# translit = paiśāne koṇa vaśa hota nāhī!
+1	पैशाने	पैशे	NOUN	_	Case=Ins|Gender=Masc|Number=Sing	4	obl	_	Translit=paiśāne|LTranslit=paiśe
+2	कोण	कोण	PRON	_	Case=Nom|PronType=Int	4	nsubj	_	Translit=koṇa|LTranslit=koṇa
+3	वश	वश	ADJ	_	Case=Nom	4	compound:lvc	_	Translit=vaśa|LTranslit=vaśa
+4	होत	होणे	VERB	_	Aspect=Imp|VerbForm=Part	0	root	_	Translit=hota|LTranslit=hoṇe
+5	नाही	असणे	AUX	_	Number=Sing|Person=3|Polarity=Neg|VerbForm=Fin	4	aux	_	SpaceAfter=No|Translit=nāhī|LTranslit=asaṇe
+6	!	!	PUNCT	_	_	4	punct	_	Translit=!|LTranslit=!
+
+# sent_id = 434
+# text = भीमाला न्यायालयात बोलावण्यात आले.
+# translit = bhīmālā nyāyālayāta bolāvaṇyāta āle.
+1	भीमाला	भीम	PROPN	_	Case=Dat|Gender=Masc|Number=Sing	3	nsubj:pass	_	Translit=bhīmālā|LTranslit=bhīma
+2	न्यायालयात	न्यायालय	NOUN	_	Case=Loc|Gender=Masc|Number=Sing	3	obl	_	Translit=nyāyālayāta|LTranslit=nyāyālaya
+3	बोलावण्यात	बोलावणे	VERB	_	Case=Loc|InfForm=Dict|VerbForm=Inf	0	root	_	Translit=bolāvaṇyāta|LTranslit=bolāvaṇe
+4	आले	येणे	AUX	_	Aspect=Perf|Gender=Neut|Number=Sing|Person=3|VerbForm=Fin	3	aux:pass	_	SpaceAfter=No|Translit=āle|LTranslit=yeṇe
+5	.	.	PUNCT	_	_	3	punct	_	Translit=.|LTranslit=.
+
+# sent_id = 435
+# text = केशवचंद्राने म्हातारे शेतकरी पैशाने विकत घेऊन साक्षीदार म्हणून आणले होते.
+# translit = keśavacaṁdrāne mhātāre śetakarī paiśāne vikata gheūna sākṣīdāra mhaṇūna āṇale hote.
+1	केशवचंद्राने	केशवचंद्र	PROPN	_	Case=Erg|Gender=Masc|Number=Sing	9	nsubj	_	Translit=keśavacaṁdrāne|LTranslit=keśavacaṁdra
+2	म्हातारे	म्हातारा	ADJ	_	Case=Nom|Gender=Masc|Number=Plur	3	amod	_	Translit=mhātāre|LTranslit=mhātārā
+3	शेतकरी	शेतकरी	NOUN	_	Case=Abs|Gender=Masc|Number=Plur	6	obj	_	Translit=śetakarī|LTranslit=śetakarī
+4	पैशाने	पैशे	NOUN	_	Case=Ins|Gender=Masc|Number=Sing	6	obl	_	Translit=paiśāne|LTranslit=paiśe
+5	विकत	विकत	ADV	_	_	6	compound:lvc	_	Translit=vikata|LTranslit=vikata
+6	घेऊन	घेणे	VERB	_	Aspect=Perf|VerbForm=Conv	8	advcl	_	Translit=gheūna|LTranslit=gheṇe
+7	साक्षीदार	साक्षीदार	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	8	obj	_	Translit=sākṣīdāra|LTranslit=sākṣīdāra
+8	म्हणून	म्हणणे	VERB	_	Aspect=Perf|VerbForm=Conv	9	xcomp	_	Translit=mhaṇūna|LTranslit=mhaṇaṇe
+9	आणले	आणणे	VERB	_	Aspect=Perf|Gender=Neut|Number=Sing|Person=3|VerbForm=Fin	0	root	_	Translit=āṇale|LTranslit=āṇaṇe
+10	होते	असणे	AUX	_	Gender=Neut|Number=Sing|Person=3|Polarity=Pos|Tense=Past|VerbForm=Fin	9	aux	_	SpaceAfter=No|Translit=hote|LTranslit=asaṇe
+11	.	.	PUNCT	_	_	9	punct	_	Translit=.|LTranslit=.
+
+# sent_id = 436
+# text = त्याने आपली बाजू मांडण्यासाठी कायदेपंडितही आणला होता.
+# translit = tyāne āpalī bājū māṁḍaṇyāsāṭhī kāyadepaṁḍitahī āṇalā hotā.
+1	त्याने	तो	PRON	_	Case=Erg|Deixis=Remt|Gender=Masc|Number=Sing|Person=3|PronType=Dem	9	nsubj	_	Translit=tyāne|LTranslit=to
+2-3	आपली	_	_	_	_	_	_	_	Translit=āpalī
+2	आपल	मी	PRON	_	Clusivity=In|Number=Plur|Person=1|PronType=Prs	4	nmod:poss	_	Translit=āpala|LTranslit=mī
+3	ची	चा	ADP	_	Gender=Fem|Number=Sing	2	case	_	Translit=cī|LTranslit=cā
+4	बाजू	बाजू	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	5	nsubj	_	Translit=bājū|LTranslit=bājū
+5-6	मांडण्यासाठी	_	_	_	_	_	_	_	Translit=māṁḍaṇyāsāṭhī
+5	मांडण्या	मांडणे	VERB	_	Case=Abs|InfForm=Dict|VerbForm=Inf	9	advcl	_	Translit=māṁḍaṇyā|LTranslit=māṁḍaṇe
+6	साठी	साठी	ADP	_	_	5	case	_	Translit=sāṭhī|LTranslit=sāṭhī
+7-8	कायदेपंडितही	_	_	_	_	_	_	_	Translit=kāyadepaṁḍitahī
+7	कायदेपंडित	कायदेपंडित	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	9	obj	_	Translit=kāyadepaṁḍita|LTranslit=kāyadepaṁḍita
+8	ही	ही	PART	_	_	7	discourse	_	Translit=hī|LTranslit=hī
+9	आणला	आणणे	VERB	_	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|VerbForm=Fin	0	root	_	Translit=āṇalā|LTranslit=āṇaṇe
+10	होता	असणे	AUX	_	Gender=Masc|Number=Sing|Person=3|Polarity=Pos|Tense=Past|VerbForm=Fin	9	aux	_	SpaceAfter=No|Translit=hotā|LTranslit=asaṇe
+11	.	.	PUNCT	_	_	10	punct	_	Translit=.|LTranslit=.
+
+# sent_id = 437
+# text = भीमाची बाजू कोण मांडणार?
+# translit = bhīmācī bājū koṇa māṁḍaṇāra?
+1-2	भीमाची	_	_	_	_	_	_	_	Translit=bhīmācī
+1	भीमा	भीम	PROPN	_	Case=Abs|Gender=Masc|Number=Sing	3	nmod:poss	_	Translit=bhīmā|LTranslit=bhīma
+2	ची	चा	ADP	_	Gender=Fem|Number=Sing	1	case	_	Translit=cī|LTranslit=cā
+3	बाजू	बाजू	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	5	obj	_	Translit=bājū|LTranslit=bājū
+4	कोण	कोण	PRON	_	Case=Nom|PronType=Int	5	nsubj	_	Translit=koṇa|LTranslit=koṇa
+5	मांडणार	मांडणे	VERB	_	Aspect=Prosp|VerbForm=Fin	0	root	_	SpaceAfter=No|Translit=māṁḍaṇāra|LTranslit=māṁḍaṇe
+6	?	?	PUNCT	_	_	5	punct	_	Translit=?|LTranslit=?
+
+# sent_id = 438
+# text = तो न्यायाधीशास एवढेच म्हणाला, "महाराज, देवाधर्माला स्मरून मी सांगतो की ही माझी जमीन आहे.
+# translit = to nyāyādhīśāsa evaḍheca mhaṇālā, "mahārāja, devādharmālā smarūna mī sāṁgato kī hī mājhī jamīna āhe.
+1	तो	तो	PRON	_	Deixis=Remt|Gender=Masc|Number=Sing|Person=3|PronType=Dem	5	nsubj	_	Translit=to|LTranslit=to
+2	न्यायाधीशास	न्यायाधीश	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	5	iobj	_	Translit=nyāyādhīśāsa|LTranslit=nyāyādhīśa
+3-4	एवढेच	_	_	_	_	_	_	_	Translit=evaḍheca
+3	एवढे	एवढा	PRON	_	Number=Plur|Person=3|PronType=Dem	5	obj	_	Translit=evaḍhe|LTranslit=evaḍhā
+4	च	च	PART	_	_	3	discourse	_	Translit=ca|LTranslit=ca
+5	म्हणाला	म्हणणे	VERB	_	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|VerbForm=Fin	0	root	_	SpaceAfter=No|Translit=mhaṇālā|LTranslit=mhaṇaṇe
+6	,	,	PUNCT	_	_	13	punct	_	Translit=,|LTranslit=,
+7	"	"	PUNCT	_	_	13	punct	_	SpaceAfter=No|Translit="|LTranslit="
+8	महाराज	महाराज	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	13	vocative	_	SpaceAfter=No|Translit=mahārāja|LTranslit=mahārāja
+9	,	,	PUNCT	_	_	8	punct	_	Translit=,|LTranslit=,
+10	देवाधर्माला	देवाधर्म	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	11	obj	_	Translit=devādharmālā|LTranslit=devādharma
+11	स्मरून	स्मरणे	VERB	_	Aspect=Perf|VerbForm=Conv	13	advcl	_	Translit=smarūna|LTranslit=smaraṇe
+12	मी	मी	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	13	nsubj	_	Translit=mī|LTranslit=mī
+13	सांगतो	सांगणे	VERB	_	Aspect=Imp|Gender=Masc|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	5	parataxis	_	Translit=sāṁgato|LTranslit=sāṁgaṇe
+14	की	की	SCONJ	_	_	8	mark	_	Translit=kī|LTranslit=kī
+15	ही	हा	PRON	_	Case=Nom|Deixis=Prox|Gender=Fem|Number=Sing|Person=3|PronType=Dem	18	nsubj	_	Translit=hī|LTranslit=hā
+16-17	माझी	_	_	_	_	_	_	_	Translit=mājhī
+16	माझ	मी	PRON	_	Number=Sing|Person=1|PronType=Prs	18	nmod:poss	_	Translit=mājha|LTranslit=mī
+17	ची	चा	ADP	_	Gender=Fem|Number=Sing	16	case	_	Translit=cī|LTranslit=cā
+18	जमीन	जमीन	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	13	ccomp	_	Translit=jamīna|LTranslit=jamīna
+19	आहे	असणे	AUX	_	Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	18	aux	_	SpaceAfter=No|Translit=āhe|LTranslit=asaṇe
+20	.	.	PUNCT	_	_	18	punct	_	Translit=.|LTranslit=.
+
+# sent_id = 439
+# text = वाडवडिलांपासून ही चालत आली आहे.
+# translit = vāḍavaḍilāṁpāsūna hī cālata ālī āhe.
+1-2	वाडवडिलांपासून	_	_	_	_	_	_	_	Translit=vāḍavaḍilāṁpāsūna
+1	वाडवडिलां	वाडवडिल	NOUN	_	Case=Abs|Gender=Masc|Number=Plur	5	obl	_	Translit=vāḍavaḍilāṁ|LTranslit=vāḍavaḍila
+2	पासून	पासून	ADP	_	_	1	case	_	Translit=pāsūna|LTranslit=pāsūna
+3	ही	हा	PRON	_	Case=Nom|Deixis=Prox|Gender=Fem|Number=Sing|Person=3|PronType=Dem	5	nsubj	_	Translit=hī|LTranslit=hā
+4	चालत	चालणे	VERB	_	Aspect=Imp|VerbForm=Part	5	advcl	_	Translit=cālata|LTranslit=cālaṇe
+5	आली	येणे	VERB	_	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|VerbForm=Fin	0	root	_	Translit=ālī|LTranslit=yeṇe
+6	आहे	असणे	AUX	_	Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	5	aux	_	SpaceAfter=No|Translit=āhe|LTranslit=asaṇe
+7	.	.	PUNCT	_	_	5	punct	_	Translit=.|LTranslit=.
+
+# sent_id = 440
+# text = सावकाराला बघवत नाही.
+# translit = sāvakārālā baghavata nāhī.
+1	सावकाराला	सावकार	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	2	nsubj	_	Translit=sāvakārālā|LTranslit=sāvakāra
+2	बघवत	बघणे	VERB	_	Aspect=Imp|VerbForm=Part|Voice=Cau	0	root	_	Translit=baghavata|LTranslit=baghaṇe
+3	नाही	असणे	AUX	_	Number=Sing|Person=3|Polarity=Neg|VerbForm=Fin	2	aux	_	SpaceAfter=No|Translit=nāhī|LTranslit=asaṇe
+4	.	.	PUNCT	_	_	2	punct	_	Translit=.|LTranslit=.
+
+# sent_id = 441
+# text = हजार रुपये द्यायला तयार झाला होता ."
+# translit = hajāra rupaye dyāyalā tayāra jhālā hotā ."
+1	हजार	हजार	NUM	_	_	2	nummod	_	Translit=hajāra|LTranslit=hajāra
+2	रुपये	रुपय	NOUN	_	Case=Acc|Gender=Neut|Number=Plur	3	obj	_	Translit=rupaye|LTranslit=rupaya
+3	द्यायला	देणे	VERB	_	VerbForm=Sup	5	ccomp	_	Translit=dyāyalā|LTranslit=deṇe
+4	तयार	तयार	ADV	_	_	5	compound:lvc	_	Translit=tayāra|LTranslit=tayāra
+5	झाला	होणे	VERB	_	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|VerbForm=Fin	0	root	_	Translit=jhālā|LTranslit=hoṇe
+6	होता	असणे	AUX	_	Gender=Masc|Number=Sing|Person=3|Polarity=Pos|Tense=Past|VerbForm=Fin	5	aux	_	Translit=hotā|LTranslit=asaṇe
+7	.	.	PUNCT	_	_	5	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
+8	"	"	PUNCT	_	_	5	punct	_	Translit="|LTranslit="
+
+# sent_id = 442
+# text = "हजार रुपये ?"
+# translit = "hajāra rupaye ?"
+1	"	"	PUNCT	_	_	3	punct	_	SpaceAfter=No|Translit="|LTranslit="
+2	हजार	हजार	NUM	_	_	3	nummod	_	Translit=hajāra|LTranslit=hajāra
+3	रुपये	रुपय	NOUN	_	Case=Nom|Gender=Neut|Number=Plur	0	root	_	Translit=rupaye|LTranslit=rupaya
+4	?	?	PUNCT	_	_	3	punct	_	SpaceAfter=No|Translit=?|LTranslit=?
+5	"	"	PUNCT	_	_	3	punct	_	Translit="|LTranslit="
+
