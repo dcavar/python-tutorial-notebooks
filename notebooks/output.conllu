@@ -1,14 +1,2 @@
-# text = John loves to read books and Mary newspapers.
-# sent_id = 0
-# constituency = (ROOT (S (NP (NNP John)) (VP (VBZ loves) (S (VP (TO to) (VP (VB read) (NP (NP (NNS books)) (CC and) (NP (NNP Mary) (NNS newspapers))))))) (. .)))
-# sentiment = 1
-1	John	John	PROPN	NNP	Number=Sing	2	nsubj	_	start_char=0|end_char=4|ner=S-PERSON
-2	loves	love	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=5|end_char=10|ner=O
-3	to	to	PART	TO	_	4	mark	_	start_char=11|end_char=13|ner=O
-4	read	read	VERB	VB	VerbForm=Inf	2	xcomp	_	start_char=14|end_char=18|ner=O
-5	books	book	NOUN	NNS	Number=Plur	4	obj	_	start_char=19|end_char=24|ner=O
-6	and	and	CCONJ	CC	_	7	cc	_	start_char=25|end_char=28|ner=O
-7	Mary	Mary	PROPN	NNP	Number=Sing	5	conj	_	start_char=29|end_char=33|ner=S-PERSON
-8	newspapers	newspaper	NOUN	NNS	Number=Plur	5	conj	_	start_char=34|end_char=44|ner=O
-9	.	.	PUNCT	.	_	2	punct	_	start_char=44|end_char=45|ner=O
+
 
