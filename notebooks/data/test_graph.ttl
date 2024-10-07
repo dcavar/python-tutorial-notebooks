@@ -1,783 +1,791 @@
 @prefix ns1: <http://www.linkedmodel.org/schema/vaem#> .
-@prefix ns2: <http://www.indiana.edu/nlplab/bioterminology#> .
 @prefix owl: <http://www.w3.org/2002/07/owl#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 
 <http://www.indiana.edu/nlplab/bioterminology#+> rdfs:label "+" .
 
-ns2:14 rdfs:label "14" .
+<http://www.indiana.edu/nlplab/bioterminology#9> rdfs:label "9" .
 
-ns2:9 rdfs:label "9" .
+<http://www.indiana.edu/nlplab/bioterminology#9Sets> rdfs:label "9 sets" .
 
-ns2:9Sets rdfs:label "9 sets" .
+<http://www.indiana.edu/nlplab/bioterminology#:JohnSmith> rdfs:label ": John Smith" .
 
-ns2:ABit rdfs:label "a bit" .
+<http://www.indiana.edu/nlplab/bioterminology#ABit> rdfs:label "a bit" .
 
-ns2:ACellPlate rdfs:label "a cell plate" .
+<http://www.indiana.edu/nlplab/bioterminology#ACellPlate> rdfs:label "a cell plate" .
 
-ns2:ACellRegion rdfs:label "a cell region" .
+<http://www.indiana.edu/nlplab/bioterminology#ACellRegion> rdfs:label "a cell region" .
 
-ns2:ACellWall rdfs:label "a cell wall" .
+<http://www.indiana.edu/nlplab/bioterminology#ACellWall> rdfs:label "a cell wall" .
 
-ns2:AChloroplast rdfs:label "a chloroplast" .
+<http://www.indiana.edu/nlplab/bioterminology#AChloroplast> rdfs:label "a chloroplast" .
 
-ns2:AContractileProtein rdfs:label "a contractile protein" .
+<http://www.indiana.edu/nlplab/bioterminology#AContractileProtein> rdfs:label "a contractile protein" .
 
-ns2:ACounterpart rdfs:label "a counterpart" .
+<http://www.indiana.edu/nlplab/bioterminology#ACounterpart> rdfs:label "a counterpart" .
 
-ns2:ADevelopingNuclearEnvelope rdfs:label "a developing nuclear envelope" .
+<http://www.indiana.edu/nlplab/bioterminology#ADevelopingNuclearEnvelope> rdfs:label "a developing nuclear envelope" .
 
-ns2:AFilamentousNetwork rdfs:label "a filamentous network" .
+<http://www.indiana.edu/nlplab/bioterminology#AFilamentousNetwork> rdfs:label "a filamentous network" .
 
-ns2:AFilamentousRegion rdfs:label "a filamentous region" .
+<http://www.indiana.edu/nlplab/bioterminology#AFilamentousRegion> rdfs:label "a filamentous region" .
 
-ns2:AFluid rdfs:label "a fluid" .
+<http://www.indiana.edu/nlplab/bioterminology#AFluid> rdfs:label "a fluid" .
 
-ns2:ALittleHighwayInfrastructure rdfs:label "a little highway infrastructure" .
+<http://www.indiana.edu/nlplab/bioterminology#ALittleHighwayInfrastructure> rdfs:label "a little highway infrastructure" .
 
-ns2:AMatrix rdfs:label "a matrix" .
+<http://www.indiana.edu/nlplab/bioterminology#AMatrix> rdfs:label "a matrix" .
 
-ns2:AMatureCell rdfs:label "a mature cell" .
+<http://www.indiana.edu/nlplab/bioterminology#AMatureCell> rdfs:label "a mature cell" .
 
-ns2:AMembranousSac rdfs:label "a membranous sac" .
+<http://www.indiana.edu/nlplab/bioterminology#AMembranousSac> rdfs:label "a membranous sac" .
 
-ns2:ANetwork rdfs:label "a network" .
+<http://www.indiana.edu/nlplab/bioterminology#ANetwork> rdfs:label "a network" .
 
-ns2:ANuclearEnvelope rdfs:label "a nuclear envelope" .
+<http://www.indiana.edu/nlplab/bioterminology#ANuclearEnvelope> rdfs:label "a nuclear envelope" .
 
-ns2:ANucleus rdfs:label "a nucleus" .
+<http://www.indiana.edu/nlplab/bioterminology#ANucleus> rdfs:label "a nucleus" .
 
-ns2:ANumber rdfs:label "a number" .
+<http://www.indiana.edu/nlplab/bioterminology#ANumber> rdfs:label "a number" .
 
-ns2:APecticMiddleLamella rdfs:label "a pectic middle lamella" .
+<http://www.indiana.edu/nlplab/bioterminology#APecticMiddleLamella> rdfs:label "a pectic middle lamella" .
 
-ns2:APlantCell rdfs:label "A plant cell",
+<http://www.indiana.edu/nlplab/bioterminology#APlantCell> rdfs:label "A plant cell",
         "a plant cell" .
 
-ns2:AProcess rdfs:label "a process" .
+<http://www.indiana.edu/nlplab/bioterminology#AProcess> rdfs:label "a process" .
 
-ns2:AProtein rdfs:label "a protein" .
+<http://www.indiana.edu/nlplab/bioterminology#AProtein> rdfs:label "a protein" .
 
 <http://www.indiana.edu/nlplab/bioterminology#ARough,OrGranularAppearance> rdfs:label "a rough, or granular appearance" .
 
 <http://www.indiana.edu/nlplab/bioterminology#ASandwich-Like,FlexiblePlasmaMembrane> rdfs:label "a sandwich-like, flexible plasma membrane" .
 
-ns2:ASecondaryCellWall rdfs:label "a secondary cell wall" .
+<http://www.indiana.edu/nlplab/bioterminology#ASecondaryCellWall> rdfs:label "a secondary cell wall" .
 
-ns2:ASelectiveNuclearEnvelope rdfs:label "a selective nuclear envelope" .
+<http://www.indiana.edu/nlplab/bioterminology#ASelectiveNuclearEnvelope> rdfs:label "a selective nuclear envelope" .
 
-ns2:ASingleLargeVacuole rdfs:label "a single large vacuole" .
+<http://www.indiana.edu/nlplab/bioterminology#ASingleLargeVacuole> rdfs:label "a single large vacuole" .
 
-ns2:ASingleMembrane rdfs:label "a single membrane" .
+<http://www.indiana.edu/nlplab/bioterminology#ASingleMembrane> rdfs:label "a single membrane" .
 
-ns2:ASingularContinuousSpace rdfs:label "a singular continuous space" .
+<http://www.indiana.edu/nlplab/bioterminology#ASingularContinuousSpace> rdfs:label "a singular continuous space" .
 
-ns2:ASite rdfs:label "a site" .
+<http://www.indiana.edu/nlplab/bioterminology#ASite> rdfs:label "a site" .
 
-ns2:ASpecialMembrane rdfs:label "a special membrane" .
+<http://www.indiana.edu/nlplab/bioterminology#ASpecialMembrane> rdfs:label "a special membrane" .
 
-ns2:ASpindle rdfs:label "A spindle" .
+<http://www.indiana.edu/nlplab/bioterminology#ASpindle> rdfs:label "A spindle" .
 
-ns2:AWallForms rdfs:label "A wall forms" .
+<http://www.indiana.edu/nlplab/bioterminology#AWall> rdfs:label "A wall" .
 
-ns2:Actin rdfs:label "actin" .
+<http://www.indiana.edu/nlplab/bioterminology#Actin> rdfs:label "actin" .
 
-ns2:ActiveCellDivision rdfs:label "active cell division" .
+<http://www.indiana.edu/nlplab/bioterminology#ActiveCellDivision> rdfs:label "active cell division" .
 
-ns2:Addition rdfs:label "addition" .
+<http://www.indiana.edu/nlplab/bioterminology#Addition> rdfs:label "addition" .
 
-ns2:AdenosineTriphosphate rdfs:label "adenosine triphosphate" .
+<http://www.indiana.edu/nlplab/bioterminology#AdenosineTriphosphate> rdfs:label "adenosine triphosphate" .
 
-ns2:AdjacentPlantCells rdfs:label "adjacent plant cells" .
+<http://www.indiana.edu/nlplab/bioterminology#AdjacentPlantCells> rdfs:label "adjacent plant cells" .
 
-ns2:All rdfs:label "All" .
+<http://www.indiana.edu/nlplab/bioterminology#All> rdfs:label "All" .
 
-ns2:AminoAcids rdfs:label "amino acids" .
+<http://www.indiana.edu/nlplab/bioterminology#AminoAcids> rdfs:label "amino acids" .
 
-ns2:AnAnimalCell rdfs:label "an animal cell" .
+<http://www.indiana.edu/nlplab/bioterminology#AnAnimalCell> rdfs:label "an animal cell" .
 
-ns2:AnEndResult rdfs:label "an end result" .
+<http://www.indiana.edu/nlplab/bioterminology#AnEndResult> rdfs:label "an end result" .
 
-ns2:AnEnergy-DependentProcess rdfs:label "an energy-dependent process" .
+<http://www.indiana.edu/nlplab/bioterminology#AnEnergy-DependentProcess> rdfs:label "an energy-dependent process" .
 
-ns2:AnImportantRole rdfs:label "an important role" .
+<http://www.indiana.edu/nlplab/bioterminology#AnImportantRole> rdfs:label "an important role" .
 
-ns2:Anaphase rdfs:label "Anaphase" .
+<http://www.indiana.edu/nlplab/bioterminology#Anaphase> rdfs:label "Anaphase" .
 
-ns2:AnimalAndBacteriaCells rdfs:label "animal and bacteria cells" .
+<http://www.indiana.edu/nlplab/bioterminology#AnimalAndBacteriaCells> rdfs:label "animal and bacteria cells" .
 
-ns2:AnimalCell rdfs:label "animal cell" .
+<http://www.indiana.edu/nlplab/bioterminology#AnimalCell> rdfs:label "animal cell" .
 
-ns2:AnimalCells rdfs:label "Animal Cells",
+<http://www.indiana.edu/nlplab/bioterminology#AnimalCells> rdfs:label "Animal Cells",
         "Animal cells",
         "animal cells" .
 
-ns2:AnimalTissues rdfs:label "Animal tissues" .
+<http://www.indiana.edu/nlplab/bioterminology#AnimalTissues> rdfs:label "Animal tissues" .
 
-ns2:Any rdfs:label "any" .
+<http://www.indiana.edu/nlplab/bioterminology#Any> rdfs:label "any" .
 
-ns2:AtLeastOne rdfs:label "at least one" .
+<http://www.indiana.edu/nlplab/bioterminology#AtLeastOne> rdfs:label "at least one" .
 
-ns2:AtLeastOneGolgiApparatus rdfs:label "at least one Golgi apparatus" .
+<http://www.indiana.edu/nlplab/bioterminology#AtLeastOneGolgiApparatus> rdfs:label "at least one Golgi apparatus" .
 
-ns2:Atp rdfs:label "ATP" .
+<http://www.indiana.edu/nlplab/bioterminology#Atp> rdfs:label "ATP" .
 
-ns2:Bacteria rdfs:label "bacteria" .
+<http://www.indiana.edu/nlplab/bioterminology#Author> rdfs:label "Author" .
 
-ns2:BothCellTypes rdfs:label "Both cell types" .
+<http://www.indiana.edu/nlplab/bioterminology#Bacteria> rdfs:label "bacteria" .
 
-ns2:BothWalls rdfs:label "Both walls" .
+<http://www.indiana.edu/nlplab/bioterminology#BothCellTypes> rdfs:label "Both cell types" .
 
-ns2:Ca2 rdfs:label "Ca2" .
+<http://www.indiana.edu/nlplab/bioterminology#BothWalls> rdfs:label "Both walls" .
 
-ns2:CellDebris rdfs:label "cell debris" .
+<http://www.indiana.edu/nlplab/bioterminology#Ca2> rdfs:label "Ca2" .
 
-ns2:CellDivision rdfs:label "Cell division",
+<http://www.indiana.edu/nlplab/bioterminology#CalciumIons> rdfs:label "calcium ions" .
+
+<http://www.indiana.edu/nlplab/bioterminology#CellDebris> rdfs:label "cell debris" .
+
+<http://www.indiana.edu/nlplab/bioterminology#CellDivision> rdfs:label """
+    Cell division""",
         "cell division" .
 
-ns2:CellMembrane rdfs:label "cell membrane" .
+<http://www.indiana.edu/nlplab/bioterminology#CellMembrane> rdfs:label "cell membrane" .
 
-ns2:CellMovements rdfs:label "cell movements" .
+<http://www.indiana.edu/nlplab/bioterminology#CellMovements> rdfs:label "cell movements" .
 
-ns2:CellSap rdfs:label "cell sap" .
+<http://www.indiana.edu/nlplab/bioterminology#CellOrganelles> rdfs:label "cell organelles" .
 
-ns2:CellShape rdfs:label "cell shape" .
+<http://www.indiana.edu/nlplab/bioterminology#CellSap> rdfs:label "cell sap" .
 
-ns2:CellShapes rdfs:label "cell shapes" .
+<http://www.indiana.edu/nlplab/bioterminology#CellShape> rdfs:label "cell shape" .
 
-ns2:Cells rdfs:label "Cells",
+<http://www.indiana.edu/nlplab/bioterminology#CellShapes> rdfs:label "cell shapes" .
+
+<http://www.indiana.edu/nlplab/bioterminology#CellWall> rdfs:label "Cell wall" .
+
+<http://www.indiana.edu/nlplab/bioterminology#Cells> rdfs:label "Cells",
         "cells" .
 
-ns2:Cellulose rdfs:label "cellulose" .
+<http://www.indiana.edu/nlplab/bioterminology#Cellulose> rdfs:label "cellulose" .
 
-ns2:CentralControlCenter rdfs:label "central control center" .
+<http://www.indiana.edu/nlplab/bioterminology#CentralControlCenter> rdfs:label "central control center" .
 
-ns2:Centrioles rdfs:label "Centrioles" .
+<http://www.indiana.edu/nlplab/bioterminology#Centrioles> rdfs:label "Centrioles" .
 
-ns2:Chlorophyll rdfs:label "chlorophyll" .
+<http://www.indiana.edu/nlplab/bioterminology#Chlorophyll> rdfs:label "chlorophyll" .
 
-ns2:Chloroplasts rdfs:label "Chloroplasts",
+<http://www.indiana.edu/nlplab/bioterminology#Chloroplasts> rdfs:label "Chloroplasts",
         "chloroplasts" .
 
-ns2:Cholesterol rdfs:label "cholesterol" .
+<http://www.indiana.edu/nlplab/bioterminology#Cholesterol> rdfs:label "Cholesterol",
+        "cholesterol" .
 
-ns2:Chromoplasts rdfs:label "chromoplasts" .
+<http://www.indiana.edu/nlplab/bioterminology#Chromatin> rdfs:label "chromatin" .
 
-ns2:ChromosomeNumber rdfs:label "chromosome number" .
+<http://www.indiana.edu/nlplab/bioterminology#Chromoplasts> rdfs:label "chromoplasts" .
 
-ns2:ChromosomeSeparation rdfs:label "chromosome separation" .
+<http://www.indiana.edu/nlplab/bioterminology#ChromosomeNumber> rdfs:label "chromosome number" .
 
-ns2:Chromosomes rdfs:label "chromosomes" .
+<http://www.indiana.edu/nlplab/bioterminology#ChromosomeSeparation> rdfs:label "chromosome separation" .
 
-ns2:CircularOpenings rdfs:label "circular openings" .
+<http://www.indiana.edu/nlplab/bioterminology#Chromosomes> rdfs:label "chromosomes" .
 
-ns2:Coin-ShapedDiscs rdfs:label "coin-shaped discs" .
+<http://www.indiana.edu/nlplab/bioterminology#CircularOpenings> rdfs:label "circular openings" .
 
-ns2:ContentsPlantCells rdfs:label """Contents
-Plant Cells""" .
+<http://www.indiana.edu/nlplab/bioterminology#Coin-ShapedDiscs> rdfs:label "coin-shaped discs" .
 
-ns2:ContractileProteins rdfs:label "contractile proteins" .
+<http://www.indiana.edu/nlplab/bioterminology#Contents> rdfs:label "Contents" .
 
-ns2:Credit rdfs:label "Credit" .
+<http://www.indiana.edu/nlplab/bioterminology#ContractileProteins> rdfs:label "contractile proteins" .
 
-<http://www.indiana.edu/nlplab/bioterminology#Credit:NeuralAcademy> rdfs:label "Credit: Neural Academy" .
+<http://www.indiana.edu/nlplab/bioterminology#Credit> rdfs:label "Credit" .
 
-ns2:Cyclosis rdfs:label "cyclosis" .
+<http://www.indiana.edu/nlplab/bioterminology#Cristae> rdfs:label "cristae" .
 
-ns2:Cytoplasm rdfs:label "cytoplasm" .
+<http://www.indiana.edu/nlplab/bioterminology#Cyclosis> rdfs:label "cyclosis" .
 
-ns2:CytoplasmicStreaming rdfs:label "cytoplasmic streaming" .
+<http://www.indiana.edu/nlplab/bioterminology#Cytoplasm> rdfs:label "cytoplasm" .
 
-ns2:Daughter rdfs:label "daughter" .
+<http://www.indiana.edu/nlplab/bioterminology#CytoplasmicStreaming> rdfs:label "cytoplasmic streaming" .
 
-ns2:DaughterChromosomes rdfs:label "daughter chromosomes" .
+<http://www.indiana.edu/nlplab/bioterminology#DaughterChromosomes> rdfs:label "daughter chromosomes" .
 
-ns2:Diameter rdfs:label "diameter" .
+<http://www.indiana.edu/nlplab/bioterminology#Diameter> rdfs:label "diameter" .
 
-ns2:DissolvedSubstances rdfs:label "dissolved substances" .
+<http://www.indiana.edu/nlplab/bioterminology#DigestingEnzymes> rdfs:label "digesting enzymes" .
 
-ns2:Distribution rdfs:label "distribution" .
+<http://www.indiana.edu/nlplab/bioterminology#Disassembly> rdfs:label "disassembly" .
 
-ns2:Divisions rdfs:label "divisions" .
+<http://www.indiana.edu/nlplab/bioterminology#DissolvedSubstances> rdfs:label "dissolved substances" .
 
-ns2:Dna rdfs:label "DNA" .
+<http://www.indiana.edu/nlplab/bioterminology#Distribution> rdfs:label "distribution" .
 
-ns2:DnaExpression rdfs:label "DNA expression" .
+<http://www.indiana.edu/nlplab/bioterminology#Divisions> rdfs:label "divisions" .
 
-ns2:Droplets rdfs:label "droplets" .
+<http://www.indiana.edu/nlplab/bioterminology#Dna> rdfs:label "DNA" .
 
-ns2:EachChromosome rdfs:label "each chromosome" .
+<http://www.indiana.edu/nlplab/bioterminology#DnaExpression> rdfs:label "DNA expression" .
 
-ns2:EachGroup rdfs:label "each group" .
+<http://www.indiana.edu/nlplab/bioterminology#Droplets> rdfs:label "droplets" .
 
-ns2:EachMitochondrion rdfs:label "Each mitochondrion" .
+<http://www.indiana.edu/nlplab/bioterminology#EachChromosome> rdfs:label "each chromosome" .
 
-ns2:EitherExternalOrInternalSupport rdfs:label "either external or internal support" .
+<http://www.indiana.edu/nlplab/bioterminology#EachGroup> rdfs:label "each group" .
 
-ns2:EndoplasmicReticulum rdfs:label "endoplasmic reticulum" ;
+<http://www.indiana.edu/nlplab/bioterminology#EachMitochondrion> rdfs:label "Each mitochondrion" .
+
+<http://www.indiana.edu/nlplab/bioterminology#EitherExternalOrInternalSupport> rdfs:label "either external or internal support" .
+
+<http://www.indiana.edu/nlplab/bioterminology#EndoplasmicReticulum> rdfs:label "endoplasmic reticulum" ;
     ns1:acronym "ER" .
 
-ns2:Endosomes rdfs:label "Endosomes" .
+<http://www.indiana.edu/nlplab/bioterminology#Endosomes> rdfs:label "Endosomes" .
 
-ns2:Energy-ProducingMitochondria rdfs:label "energy-producing mitochondria" .
+<http://www.indiana.edu/nlplab/bioterminology#Energy-ProducingMitochondria> rdfs:label "energy-producing mitochondria" .
 
-ns2:EnergyPackets rdfs:label "energy packets" .
+<http://www.indiana.edu/nlplab/bioterminology#EnergyPackets> rdfs:label "energy packets" .
 
-ns2:Enzymes rdfs:label "Enzymes",
-        "enzymes" .
+<http://www.indiana.edu/nlplab/bioterminology#Enzymes> rdfs:label "Enzymes" .
 
-ns2:Er rdfs:label "ER" .
+<http://www.indiana.edu/nlplab/bioterminology#Er> rdfs:label "ER" .
 
-ns2:Fertilization rdfs:label "fertilization" .
+<http://www.indiana.edu/nlplab/bioterminology#Fertilization> rdfs:label "fertilization" .
 
-ns2:Filaments rdfs:label "filaments" .
+<http://www.indiana.edu/nlplab/bioterminology#Filaments> rdfs:label "filaments" .
 
-ns2:Four rdfs:label "four" .
+<http://www.indiana.edu/nlplab/bioterminology#Four> rdfs:label "four" .
 
-ns2:FourPhases rdfs:label "four phases" .
+<http://www.indiana.edu/nlplab/bioterminology#FourPhases> rdfs:label "four phases" .
 
-ns2:Frameworks rdfs:label "Frameworks" .
+<http://www.indiana.edu/nlplab/bioterminology#Frameworks> rdfs:label "Frameworks" .
 
-ns2:FreeRibosomes rdfs:label "free ribosomes" .
+<http://www.indiana.edu/nlplab/bioterminology#FreeRibosomes> rdfs:label "free ribosomes" .
 
-ns2:Fruits rdfs:label "fruits" .
+<http://www.indiana.edu/nlplab/bioterminology#Fruits> rdfs:label "fruits" .
 
-ns2:FusedMicrotubules rdfs:label "fused microtubules" .
+<http://www.indiana.edu/nlplab/bioterminology#Function> rdfs:label "function" .
 
-ns2:GeneticInformation rdfs:label "genetic information" .
+<http://www.indiana.edu/nlplab/bioterminology#FusedMicrotubules> rdfs:label "fused microtubules" .
 
-ns2:Golgi rdfs:label "Golgi" .
+<http://www.indiana.edu/nlplab/bioterminology#GeneticInformation> rdfs:label "genetic information" .
 
-ns2:GolgiBodies rdfs:label "Golgi bodies" .
+<http://www.indiana.edu/nlplab/bioterminology#GolgiBodies> rdfs:label "Golgi bodies" .
 
-ns2:Grana rdfs:label "grana" .
+<http://www.indiana.edu/nlplab/bioterminology#Grana> rdfs:label "grana" .
 
-<http://www.indiana.edu/nlplab/bioterminology#Grana—Stacks> rdfs:label "grana—stacks" .
+<http://www.indiana.edu/nlplab/bioterminology#GranularEndoplasmicReticulum> rdfs:label "granular endoplasmic reticulum" .
 
-ns2:GranularEndoplasmicReticulum rdfs:label "granular endoplasmic reticulum" .
+<http://www.indiana.edu/nlplab/bioterminology#GreaterActivity> rdfs:label "greater activity" .
 
-ns2:GreaterActivity rdfs:label "greater activity" .
+<http://www.indiana.edu/nlplab/bioterminology#GreaterDetail> rdfs:label "greater detail" .
 
-ns2:GreaterDetail rdfs:label "greater detail" .
+<http://www.indiana.edu/nlplab/bioterminology#GreenPigment> rdfs:label "green pigment" .
 
-ns2:GreenPigment rdfs:label "green pigment" .
+<http://www.indiana.edu/nlplab/bioterminology#GreenPlantCells> rdfs:label "green plant cells" .
 
-ns2:HigherPlantCells rdfs:label "higher plant cells" .
+<http://www.indiana.edu/nlplab/bioterminology#HigherPlantCells> rdfs:label "higher plant cells" .
 
-ns2:HigherPlants rdfs:label "higher plants" .
+<http://www.indiana.edu/nlplab/bioterminology#HigherPlants> rdfs:label "higher plants" .
 
-ns2:HighlyAcidicFluid rdfs:label "highly acidic fluid" .
+<http://www.indiana.edu/nlplab/bioterminology#HighlyAcidicFluid> rdfs:label "highly acidic fluid" .
 
-ns2:HollowTubes rdfs:label "hollow tubes" .
+<http://www.indiana.edu/nlplab/bioterminology#HollowTubes> rdfs:label "hollow tubes" .
 
-ns2:HugeVacuoles rdfs:label "huge vacuoles" .
+<http://www.indiana.edu/nlplab/bioterminology#HugeVacuoles> rdfs:label "huge vacuoles" .
 
-ns2:Hydrogen rdfs:label "hydrogen" .
+<http://www.indiana.edu/nlplab/bioterminology#Hydrogen> rdfs:label "hydrogen" .
 
-ns2:HydrogenPeroxide rdfs:label "hydrogen peroxide" .
+<http://www.indiana.edu/nlplab/bioterminology#HydrogenPeroxide> rdfs:label "hydrogen peroxide" .
 
-ns2:IntenseActivity rdfs:label "intense activity" .
+<http://www.indiana.edu/nlplab/bioterminology#IntenseActivity> rdfs:label "intense activity" .
 
-ns2:IntermediateFilaments rdfs:label "Intermediate filaments" .
+<http://www.indiana.edu/nlplab/bioterminology#IntermediateFilaments> rdfs:label "Intermediate filaments" .
 
-ns2:Interphase rdfs:label "interphase" .
+<http://www.indiana.edu/nlplab/bioterminology#Interphase> rdfs:label "interphase" .
 
-ns2:It rdfs:label "It",
+<http://www.indiana.edu/nlplab/bioterminology#It> rdfs:label "It",
         "it" .
 
-ns2:ItsDivision rdfs:label "its division" .
+<http://www.indiana.edu/nlplab/bioterminology#ItsDivision> rdfs:label "its division" .
 
-ns2:JohnSmith a ns2:Person ;
+<http://www.indiana.edu/nlplab/bioterminology#JohnSmith> a <http://www.indiana.edu/nlplab/bioterminology#Person> ;
     rdfs:label "John Smith" .
 
-ns2:JustARegion rdfs:label "just a region" .
+<http://www.indiana.edu/nlplab/bioterminology#LessNeed> rdfs:label "less need" .
 
-ns2:LessNeed rdfs:label "less need" .
+<http://www.indiana.edu/nlplab/bioterminology#Leucoplasts> rdfs:label "leucoplasts" .
 
-ns2:Leucoplasts rdfs:label "leucoplasts" .
+<http://www.indiana.edu/nlplab/bioterminology#Lignin> rdfs:label "lignin" .
 
-ns2:Lignin rdfs:label "lignin" .
+<http://www.indiana.edu/nlplab/bioterminology#LikewiseTheFunction> rdfs:label "likewise the function" .
 
-ns2:LipidSynthesis rdfs:label "lipid synthesis" .
+<http://www.indiana.edu/nlplab/bioterminology#LipidSynthesis> rdfs:label "lipid synthesis" .
 
-ns2:LongDendriteProjections rdfs:label "long dendrite projections" .
+<http://www.indiana.edu/nlplab/bioterminology#LongDendriteProjections> rdfs:label "long dendrite projections" .
 
-ns2:Lysosomes rdfs:label "Lysosomes" .
+<http://www.indiana.edu/nlplab/bioterminology#Lysosomes> rdfs:label "Lysosomes" .
 
-ns2:Membrane-BoundTubularAndVesicularStructures rdfs:label "membrane-bound tubular and vesicular structures" .
+<http://www.indiana.edu/nlplab/bioterminology#Membrane-BoundOrganelles> rdfs:label "membrane-bound organelles" .
 
-ns2:Membranes rdfs:label "membranes" .
+<http://www.indiana.edu/nlplab/bioterminology#Membrane-BoundTubularAndVesicularStructures> rdfs:label "membrane-bound tubular and vesicular structures" .
 
-ns2:Meristems rdfs:label "Meristems",
+<http://www.indiana.edu/nlplab/bioterminology#Membranes> rdfs:label "membranes" .
+
+<http://www.indiana.edu/nlplab/bioterminology#Meristems> rdfs:label "Meristems",
         "meristems" .
 
-ns2:Microfilaments rdfs:label "Microfilaments" .
+<http://www.indiana.edu/nlplab/bioterminology#Metaphase> rdfs:label "Metaphase" .
 
-ns2:Microscopes rdfs:label "microscopes" .
+<http://www.indiana.edu/nlplab/bioterminology#Microfilaments> rdfs:label "Microfilaments" .
 
-ns2:Microtubules rdfs:label "Microtubules" .
+<http://www.indiana.edu/nlplab/bioterminology#Microscopes> rdfs:label "microscopes" .
 
-ns2:Migrates rdfs:label "migrates" .
+<http://www.indiana.edu/nlplab/bioterminology#Microtubules> rdfs:label "Microtubules" .
 
-ns2:Mitochondria rdfs:label "Mitochondria",
+<http://www.indiana.edu/nlplab/bioterminology#Mitochondria> rdfs:label "Mitochondria",
         "mitochondria" .
 
-ns2:Mitosis rdfs:label "Mitosis",
+<http://www.indiana.edu/nlplab/bioterminology#Mitosis> rdfs:label "Mitosis",
         "mitosis" .
 
-ns2:MoreMitochondria rdfs:label "more mitochondria" .
+<http://www.indiana.edu/nlplab/bioterminology#MoreMitochondria> rdfs:label "more mitochondria" .
 
-ns2:MostCells rdfs:label "Most cells",
+<http://www.indiana.edu/nlplab/bioterminology#MostCells> rdfs:label "Most cells",
         "most cells" .
 
-ns2:Movements rdfs:label "movements" .
+<http://www.indiana.edu/nlplab/bioterminology#Movements> rdfs:label "movements" .
 
-ns2:MultipleNuclei rdfs:label "multiple nuclei" .
+<http://www.indiana.edu/nlplab/bioterminology#MultipleNuclei> rdfs:label "multiple nuclei" .
 
-ns2:Need rdfs:label "need" .
+<http://www.indiana.edu/nlplab/bioterminology#Need> rdfs:label "need" .
 
-ns2:NerveCells rdfs:label "nerve cells" .
+<http://www.indiana.edu/nlplab/bioterminology#NerveCells> rdfs:label "nerve cells" .
 
-ns2:NeuralAcademy a ns2:Organization ;
+<http://www.indiana.edu/nlplab/bioterminology#NeuralAcademy> a <http://www.indiana.edu/nlplab/bioterminology#Organization> ;
     rdfs:label "Neural Academy" .
 
-ns2:NoCellPlate rdfs:label "no cell plate" .
+<http://www.indiana.edu/nlplab/bioterminology#NoCellPlate> rdfs:label "no cell plate" .
 
-ns2:NuclearPores rdfs:label "nuclear pores" .
+<http://www.indiana.edu/nlplab/bioterminology#NuclearPores> rdfs:label "nuclear pores" .
 
-ns2:Nucleus rdfs:label "nucleus" .
+<http://www.indiana.edu/nlplab/bioterminology#Nucleus> rdfs:label "nucleus" .
 
-ns2:OlderSections rdfs:label "older sections" .
+<http://www.indiana.edu/nlplab/bioterminology#OlderSections> rdfs:label "older sections" .
 
-ns2:One-Half rdfs:label "one-half" .
+<http://www.indiana.edu/nlplab/bioterminology#One> rdfs:label "one" .
 
-ns2:One-HalfTheNumber rdfs:label "one-half the number" .
+<http://www.indiana.edu/nlplab/bioterminology#One-Half> rdfs:label "one-half" .
 
-ns2:OpenSpace rdfs:label "open space" .
+<http://www.indiana.edu/nlplab/bioterminology#One-HalfTheNumber> rdfs:label "one-half the number" .
 
-ns2:OrganelleStructure rdfs:label "organelle structure" .
+<http://www.indiana.edu/nlplab/bioterminology#OpenSpace> rdfs:label "open space" .
 
-ns2:OtherCellOrganelles rdfs:label "other cell organelles" .
+<http://www.indiana.edu/nlplab/bioterminology#OtherCellOrganelles> rdfs:label "other cell organelles" .
 
-ns2:OtherOrganelles rdfs:label "other organelles" .
+<http://www.indiana.edu/nlplab/bioterminology#OtherOrganelles> rdfs:label "other organelles" .
 
-ns2:OtherSubstances rdfs:label "other substances" .
+<http://www.indiana.edu/nlplab/bioterminology#OtherSubstances> rdfs:label "other substances" .
 
-ns2:Others rdfs:label "others" .
+<http://www.indiana.edu/nlplab/bioterminology#Others> rdfs:label "others" .
 
-ns2:Oxygen rdfs:label "oxygen" .
+<http://www.indiana.edu/nlplab/bioterminology#Oxygen> rdfs:label "oxygen" .
 
-ns2:PackagingProteins rdfs:label "packaging proteins" .
+<http://www.indiana.edu/nlplab/bioterminology#Pectin> rdfs:label "pectin" .
 
-ns2:Pectin rdfs:label "pectin" .
+<http://www.indiana.edu/nlplab/bioterminology#Peroxisomes> rdfs:label "Peroxisomes" .
 
-ns2:PectinMerge rdfs:label "pectin merge" .
-
-ns2:Peroxisomes rdfs:label "Peroxisomes" .
-
-ns2:Photosynthesis rdfs:label "Photosynthesis",
+<http://www.indiana.edu/nlplab/bioterminology#Photosynthesis> rdfs:label "Photosynthesis",
         "photosynthesis" .
 
-ns2:Pigments rdfs:label "pigments" .
+<http://www.indiana.edu/nlplab/bioterminology#Pigments> rdfs:label "pigments" .
 
-ns2:Place rdfs:label "place" .
+<http://www.indiana.edu/nlplab/bioterminology#Place> rdfs:label "place" .
 
-ns2:Plant rdfs:label "plant" .
+<http://www.indiana.edu/nlplab/bioterminology#Plant> rdfs:label "plant" .
 
-ns2:PlantCell rdfs:label "plant cell" .
+<http://www.indiana.edu/nlplab/bioterminology#PlantCell> rdfs:label "plant cell" .
 
-ns2:PlantCellOrganelles rdfs:label "Plant cell organelles" .
+<http://www.indiana.edu/nlplab/bioterminology#PlantCellOrganelles> rdfs:label "Plant cell organelles" .
 
-ns2:PlantCellParts rdfs:label "Plant cell parts" .
+<http://www.indiana.edu/nlplab/bioterminology#PlantCellParts> rdfs:label """
 
-ns2:PlantCells rdfs:label "Plant Cells",
+Plant cell parts""" .
+
+<http://www.indiana.edu/nlplab/bioterminology#PlantCells> rdfs:label """
+Plant Cells""",
+        "Plant Cells",
         "Plant cells",
         "plant cells" .
 
-ns2:PlantCellsCompared rdfs:label "Plant Cells Compared" .
+<http://www.indiana.edu/nlplab/bioterminology#Plants> rdfs:label "plants" .
 
-ns2:Plants rdfs:label "plants" .
+<http://www.indiana.edu/nlplab/bioterminology#Plasmodesmata> rdfs:label "Plasmodesmata" .
 
-ns2:Plasmodesmata rdfs:label "Plasmodesmata" .
-
-ns2:Plastids rdfs:label "Plastids",
+<http://www.indiana.edu/nlplab/bioterminology#Plastids> rdfs:label "Plastids",
         "plastids" .
 
-ns2:Pores rdfs:label "pores" .
+<http://www.indiana.edu/nlplab/bioterminology#Pores> rdfs:label "pores" .
 
-ns2:ProteinComponents rdfs:label "protein components" .
+<http://www.indiana.edu/nlplab/bioterminology#Prophase> rdfs:label "Prophase" .
 
-ns2:ProteinMolecules rdfs:label "protein molecules" .
+<http://www.indiana.edu/nlplab/bioterminology#ProteinMolecules> rdfs:label "protein molecules" .
 
-ns2:Proteins rdfs:label "proteins" .
+<http://www.indiana.edu/nlplab/bioterminology#Proteins> rdfs:label "proteins" .
 
-ns2:RapidAssembly rdfs:label "rapid assembly" .
+<http://www.indiana.edu/nlplab/bioterminology#RapidAssembly> rdfs:label "rapid assembly" .
 
-ns2:RapidDisassembly rdfs:label "rapid disassembly" .
+<http://www.indiana.edu/nlplab/bioterminology#RapidDisassembly> rdfs:label "rapid disassembly" .
 
-ns2:Reactions rdfs:label "reactions" .
+<http://www.indiana.edu/nlplab/bioterminology#Reactions> rdfs:label "reactions" .
 
-ns2:RedBloodCells rdfs:label "red blood cells" .
+<http://www.indiana.edu/nlplab/bioterminology#RedBloodCells> rdfs:label "red blood cells" .
 
-ns2:Regions rdfs:label "regions" .
+<http://www.indiana.edu/nlplab/bioterminology#Regions> rdfs:label "regions" .
 
-ns2:RegularIntervals rdfs:label "regular intervals" .
+<http://www.indiana.edu/nlplab/bioterminology#RegularIntervals> rdfs:label "regular intervals" .
 
-ns2:Response rdfs:label "response" .
+<http://www.indiana.edu/nlplab/bioterminology#Response> rdfs:label "response" .
 
-ns2:Ribosomes rdfs:label "Ribosomes",
+<http://www.indiana.edu/nlplab/bioterminology#Ribosomes> rdfs:label "Ribosomes",
         "ribosomes" .
 
-ns2:RigidCelluloseFibrils rdfs:label "rigid cellulose fibrils" .
+<http://www.indiana.edu/nlplab/bioterminology#RigidCelluloseFibrils> rdfs:label "rigid cellulose fibrils" .
 
-ns2:Rna rdfs:label "RNA" .
+<http://www.indiana.edu/nlplab/bioterminology#Rna> rdfs:label "RNA" .
 
-ns2:RnaMolecules rdfs:label "RNA molecules" .
+<http://www.indiana.edu/nlplab/bioterminology#RnaMolecules> rdfs:label "RNA molecules" .
 
-ns2:RoughEr rdfs:label "rough ER" .
+<http://www.indiana.edu/nlplab/bioterminology#RoughEr> rdfs:label "rough ER" .
 
-ns2:Secretion rdfs:label "secretion" .
+<http://www.indiana.edu/nlplab/bioterminology#Secretion> rdfs:label "secretion" .
 
 <http://www.indiana.edu/nlplab/bioterminology#Secretory/TransportVesicles> rdfs:label "secretory/transport vesicles" .
 
-ns2:Semi-AutonomousOrganelles rdfs:label "semi-autonomous organelles" .
+<http://www.indiana.edu/nlplab/bioterminology#Semi-AutonomousOrganelles> rdfs:label "semi-autonomous organelles" .
 
-ns2:SeparateLengthwise rdfs:label "separate lengthwise" .
+<http://www.indiana.edu/nlplab/bioterminology#SeveralVacuoles> rdfs:label "several vacuoles" .
 
-ns2:SeveralVacuoles rdfs:label "several vacuoles" .
+<http://www.indiana.edu/nlplab/bioterminology#SexCells> rdfs:label "sex cells" .
 
-ns2:SexCells rdfs:label "sex cells" .
+<http://www.indiana.edu/nlplab/bioterminology#Signals> rdfs:label "signals" .
 
-ns2:Signals rdfs:label "signals" .
+<http://www.indiana.edu/nlplab/bioterminology#SkeletalMuscle> rdfs:label "skeletal muscle" .
 
-ns2:SkeletalMuscle rdfs:label "skeletal muscle" .
+<http://www.indiana.edu/nlplab/bioterminology#Skeleton> rdfs:label "skeleton" .
 
-ns2:Skeleton rdfs:label "skeleton" .
+<http://www.indiana.edu/nlplab/bioterminology#SmallAmounts> rdfs:label "small amounts" .
 
-ns2:SmallAmounts rdfs:label "small amounts" .
+<http://www.indiana.edu/nlplab/bioterminology#Some> rdfs:label "some" .
 
-ns2:Some rdfs:label "some" .
+<http://www.indiana.edu/nlplab/bioterminology#SomeCells> rdfs:label "Some cells" .
 
-ns2:SomeCells rdfs:label "Some cells" .
+<http://www.indiana.edu/nlplab/bioterminology#SomeKind> rdfs:label "some kind" .
 
-ns2:SomeKind rdfs:label "some kind" .
+<http://www.indiana.edu/nlplab/bioterminology#SomeMitochondrialProteins> rdfs:label "some mitochondrial proteins" .
 
-ns2:SomeMitochondrialProteins rdfs:label "some mitochondrial proteins" .
+<http://www.indiana.edu/nlplab/bioterminology#SomeRibosomes> rdfs:label "Some ribosomes" .
 
-ns2:SomeRibosomes rdfs:label "Some ribosomes" .
+<http://www.indiana.edu/nlplab/bioterminology#SpecificInterest> rdfs:label "specific interest" .
 
-ns2:SpecificInterest rdfs:label "specific interest" .
+<http://www.indiana.edu/nlplab/bioterminology#SpindleFibers> rdfs:label "spindle fibers" .
 
-ns2:SpindleFibers rdfs:label "spindle fibers" .
+<http://www.indiana.edu/nlplab/bioterminology#Stacks> rdfs:label "stacks" .
 
-ns2:Stress rdfs:label "stress" .
+<http://www.indiana.edu/nlplab/bioterminology#Stress> rdfs:label "stress" .
 
-ns2:Stroma rdfs:label "stroma" .
+<http://www.indiana.edu/nlplab/bioterminology#Structures> rdfs:label "structures" .
 
-ns2:Structures rdfs:label "structures" .
+<http://www.indiana.edu/nlplab/bioterminology#Substances> rdfs:label "substances" .
 
-ns2:Substances rdfs:label "substances" .
+<http://www.indiana.edu/nlplab/bioterminology#Table> rdfs:label "Table" .
 
-ns2:Table rdfs:label "Table" .
+<http://www.indiana.edu/nlplab/bioterminology#Telophase> rdfs:label "Telophase" .
 
-ns2:Telophase rdfs:label "Telophase" .
+<http://www.indiana.edu/nlplab/bioterminology#That> rdfs:label "that" .
 
-ns2:That rdfs:label "that" .
+<http://www.indiana.edu/nlplab/bioterminology#TheAgranular,OrSmooth,Er> rdfs:label "The agranular, or smooth, ER" .
 
-ns2:TheAgranular rdfs:label "The agranular" .
+<http://www.indiana.edu/nlplab/bioterminology#TheAgranularEr> rdfs:label "the agranular ER" .
 
-ns2:TheAnimalCellModel rdfs:label "the animal cell model" .
+<http://www.indiana.edu/nlplab/bioterminology#TheAnimalCellModel> rdfs:label "the animal cell model" .
 
-ns2:TheApparatus rdfs:label "The apparatus" .
+<http://www.indiana.edu/nlplab/bioterminology#TheApparatus> rdfs:label "The apparatus" .
 
-ns2:TheAxons rdfs:label "the axons" .
+<http://www.indiana.edu/nlplab/bioterminology#TheAxons> rdfs:label "the axons" .
 
-ns2:TheCell rdfs:label "the cell" .
+<http://www.indiana.edu/nlplab/bioterminology#TheCell> rdfs:label "the cell" .
 
-ns2:TheCellCycle rdfs:label "The cell cycle",
+<http://www.indiana.edu/nlplab/bioterminology#TheCellCycle> rdfs:label "The cell cycle",
         "the cell cycle" .
 
-ns2:TheCellPinches rdfs:label "the cell pinches" .
+<http://www.indiana.edu/nlplab/bioterminology#TheCellOrOrganelleStructure> rdfs:label "the cell or organelle structure" .
 
-ns2:TheCellWall rdfs:label "the cell wall" .
+<http://www.indiana.edu/nlplab/bioterminology#TheCellWall> rdfs:label "the cell wall" .
 
-ns2:TheCellWalls rdfs:label "the cell walls" .
+<http://www.indiana.edu/nlplab/bioterminology#TheCellWalls> rdfs:label "the cell walls" .
 
-ns2:TheCells rdfs:label "the cells" .
+<http://www.indiana.edu/nlplab/bioterminology#TheCells> rdfs:label "the cells" .
 
-ns2:TheCenter rdfs:label "the center" .
+<http://www.indiana.edu/nlplab/bioterminology#TheCenter> rdfs:label "the center" .
 
-ns2:TheCentrosome rdfs:label "the centrosome" .
+<http://www.indiana.edu/nlplab/bioterminology#TheCentrosome> rdfs:label "the centrosome" .
 
-ns2:TheChemicalBalances rdfs:label "the chemical balances" .
+<http://www.indiana.edu/nlplab/bioterminology#TheChemicalBalances> rdfs:label "the chemical balances" .
 
-ns2:TheChromatin rdfs:label "The chromatin" .
+<http://www.indiana.edu/nlplab/bioterminology#TheChromatin> rdfs:label "The chromatin" .
 
-ns2:TheChromosomes rdfs:label "the chromosomes" .
+<http://www.indiana.edu/nlplab/bioterminology#TheChromosomes> rdfs:label "the chromosomes" .
 
-ns2:TheColor rdfs:label "the color" .
+<http://www.indiana.edu/nlplab/bioterminology#TheColor> rdfs:label "the color" .
 
-ns2:TheCytoplasm rdfs:label "The cytoplasm",
+<http://www.indiana.edu/nlplab/bioterminology#TheCytoplasm> rdfs:label "The cytoplasm",
         "the cytoplasm" .
 
-ns2:TheCytoskeleton rdfs:label "The cytoskeleton",
+<http://www.indiana.edu/nlplab/bioterminology#TheCytoskeleton> rdfs:label "The cytoskeleton",
         "the cytoskeleton" .
 
-ns2:TheCytoskeletonProteins rdfs:label "the cytoskeleton proteins" .
+<http://www.indiana.edu/nlplab/bioterminology#TheCytoskeletonProteins> rdfs:label "the cytoskeleton proteins" .
 
-ns2:TheCytosol rdfs:label "the cytosol" .
+<http://www.indiana.edu/nlplab/bioterminology#TheCytosol> rdfs:label "the cytosol" .
 
-ns2:TheDiameter rdfs:label "the diameter" .
+<http://www.indiana.edu/nlplab/bioterminology#TheDaughterChromosomes> rdfs:label "the daughter chromosomes" .
 
-ns2:TheDivision rdfs:label "The division",
+<http://www.indiana.edu/nlplab/bioterminology#TheDiameter> rdfs:label "the diameter" .
+
+<http://www.indiana.edu/nlplab/bioterminology#TheDivision> rdfs:label "The division",
         "the division" .
 
-ns2:TheDna rdfs:label "The DNA" .
+<http://www.indiana.edu/nlplab/bioterminology#TheDna> rdfs:label "The DNA" .
 
-ns2:TheEndoplasmicReticulum rdfs:label "The endoplasmic reticulum" .
+<http://www.indiana.edu/nlplab/bioterminology#TheEndoplasmicReticulum> rdfs:label "The endoplasmic reticulum" .
 
-ns2:TheEnmeshedDna rdfs:label "the enmeshed DNA" .
+<http://www.indiana.edu/nlplab/bioterminology#TheEnmeshedDna> rdfs:label "the enmeshed DNA" .
 
-ns2:TheEquator rdfs:label "the equator" .
+<http://www.indiana.edu/nlplab/bioterminology#TheEquator> rdfs:label "the equator" .
 
-ns2:TheExteriorSurface rdfs:label "the exterior surface" .
+<http://www.indiana.edu/nlplab/bioterminology#TheExteriorSurface> rdfs:label "the exterior surface" .
 
-ns2:TheFeatures rdfs:label "the features" .
+<http://www.indiana.edu/nlplab/bioterminology#TheFeatures> rdfs:label "the features" .
 
-ns2:TheFilaments rdfs:label "the filaments" .
+<http://www.indiana.edu/nlplab/bioterminology#TheFilaments> rdfs:label "the filaments" .
 
-ns2:TheForm rdfs:label "the form" .
+<http://www.indiana.edu/nlplab/bioterminology#TheFluid> rdfs:label "The fluid" .
 
-ns2:TheGenes rdfs:label "the genes" .
+<http://www.indiana.edu/nlplab/bioterminology#TheForm> rdfs:label "the form" .
 
-ns2:TheGolgiApparatus rdfs:label "The Golgi apparatus",
+<http://www.indiana.edu/nlplab/bioterminology#TheGenes> rdfs:label "the genes" .
+
+<http://www.indiana.edu/nlplab/bioterminology#TheGolgiApparatus> rdfs:label "The Golgi apparatus",
         "the Golgi apparatus" .
 
-ns2:TheGranularEndoplasmicReticulum rdfs:label "the granular endoplasmic reticulum" .
+<http://www.indiana.edu/nlplab/bioterminology#TheGranularEndoplasmicReticulum> rdfs:label "the granular endoplasmic reticulum" .
 
-ns2:TheGranularEr rdfs:label "The granular ER" .
+<http://www.indiana.edu/nlplab/bioterminology#TheGranularEr> rdfs:label "The granular ER" .
 
-ns2:TheGroups rdfs:label "the groups" .
+<http://www.indiana.edu/nlplab/bioterminology#TheGroups> rdfs:label "the groups" .
 
-ns2:TheImmuneSystem rdfs:label "the immune system" .
+<http://www.indiana.edu/nlplab/bioterminology#TheImmuneSystem> rdfs:label "the immune system" .
 
-ns2:TheInnerOne rdfs:label "the inner one" .
+<http://www.indiana.edu/nlplab/bioterminology#TheInside> rdfs:label "the inside" .
 
-ns2:TheInside rdfs:label "the inside" .
+<http://www.indiana.edu/nlplab/bioterminology#TheLargestMembrane-BoundOrganelle> rdfs:label "the largest membrane-bound organelle" .
 
-ns2:TheLargestMembrane-BoundOrganelle rdfs:label "the largest membrane-bound organelle" .
+<http://www.indiana.edu/nlplab/bioterminology#TheLivingPortion> rdfs:label "the living portion" .
 
-ns2:TheLivingPortion rdfs:label "the living portion" .
+<http://www.indiana.edu/nlplab/bioterminology#TheLumen> rdfs:label "the lumen" .
 
-ns2:TheLumen rdfs:label "the lumen" .
+<http://www.indiana.edu/nlplab/bioterminology#TheMainDifferences> rdfs:label "The main differences" .
 
-ns2:TheMainDifferences rdfs:label "The main differences" .
+<http://www.indiana.edu/nlplab/bioterminology#TheMicrotubularSpindleFibers> rdfs:label "the microtubular spindle fibers" .
 
-ns2:TheMicrotubularSpindleFibers rdfs:label "the microtubular spindle fibers" .
+<http://www.indiana.edu/nlplab/bioterminology#TheMiddleLamella> rdfs:label "the middle lamella" .
 
-ns2:TheMiddleLamella rdfs:label "the middle lamella" .
+<http://www.indiana.edu/nlplab/bioterminology#TheMostImportantStructures> rdfs:label "the most important structures" .
 
-ns2:TheMostImportantStructures rdfs:label "the most important structures" .
+<http://www.indiana.edu/nlplab/bioterminology#TheMother> rdfs:label "the mother" .
 
-ns2:TheMother rdfs:label "the mother" .
+<http://www.indiana.edu/nlplab/bioterminology#TheMovement> rdfs:label "the movement" .
 
-ns2:TheMovement rdfs:label "the movement" .
+<http://www.indiana.edu/nlplab/bioterminology#TheNakedEye> rdfs:label "the naked eye" .
 
-ns2:TheNakedEye rdfs:label "the naked eye" .
+<http://www.indiana.edu/nlplab/bioterminology#TheNeeds> rdfs:label "the needs" .
 
-ns2:TheNeeds rdfs:label "the needs" .
+<http://www.indiana.edu/nlplab/bioterminology#TheNewCellWall> rdfs:label "the new cell wall" .
 
-ns2:TheNewCellWall rdfs:label "the new cell wall" .
-
-ns2:TheNuclearEnvelope rdfs:label "The nuclear envelope",
+<http://www.indiana.edu/nlplab/bioterminology#TheNuclearEnvelope> rdfs:label "The nuclear envelope",
         "the nuclear envelope" .
 
-ns2:TheNucleolus rdfs:label "The nucleolus",
+<http://www.indiana.edu/nlplab/bioterminology#TheNucleolus> rdfs:label "The nucleolus",
         "the nucleolus" .
 
-ns2:TheNucleus rdfs:label "The nucleus",
+<http://www.indiana.edu/nlplab/bioterminology#TheNucleus> rdfs:label "The nucleus",
         "the nucleus" .
 
-ns2:TheNumber rdfs:label "The number" .
+<http://www.indiana.edu/nlplab/bioterminology#TheNumber> rdfs:label "The number" .
 
-ns2:TheOppositeEnds rdfs:label "the opposite ends" .
+<http://www.indiana.edu/nlplab/bioterminology#TheOppositeEnds> rdfs:label "the opposite ends" .
 
-ns2:TheOrganism rdfs:label "the organism" .
+<http://www.indiana.edu/nlplab/bioterminology#TheOrganism> rdfs:label "the organism" .
 
-ns2:TheOtherOrganelles rdfs:label "the other organelles" .
+<http://www.indiana.edu/nlplab/bioterminology#TheOtherOrganelles> rdfs:label "the other organelles" .
 
-ns2:TheOuterBoundary rdfs:label "The outer boundary",
+<http://www.indiana.edu/nlplab/bioterminology#TheOuterBoundary> rdfs:label "The outer boundary",
         "the outer boundary" .
 
-ns2:TheOuterMembrane rdfs:label "The outer membrane" .
+<http://www.indiana.edu/nlplab/bioterminology#TheOuterMembrane> rdfs:label "The outer membrane" .
 
-ns2:TheParticularFunction rdfs:label "The particular function" .
+<http://www.indiana.edu/nlplab/bioterminology#TheParticularFunction> rdfs:label "The particular function" .
 
-ns2:ThePlantCell rdfs:label "the plant cell" .
+<http://www.indiana.edu/nlplab/bioterminology#ThePlantCell> rdfs:label "the plant cell" .
 
-ns2:ThePlantMetabolismTutorial rdfs:label "the Plant Metabolism tutorial" .
+<http://www.indiana.edu/nlplab/bioterminology#ThePlantMetabolismTutorial> rdfs:label "the Plant Metabolism tutorial" .
 
-ns2:ThePlantTissueTutorial rdfs:label "the plant tissue tutorial" .
+<http://www.indiana.edu/nlplab/bioterminology#ThePlantTissueTutorial> rdfs:label "the plant tissue tutorial" .
 
-ns2:ThePlasmaMembrane rdfs:label "the plasma membrane" .
+<http://www.indiana.edu/nlplab/bioterminology#ThePlasmaMembrane> rdfs:label "the plasma membrane" .
 
-ns2:ThePores rdfs:label "The pores",
+<http://www.indiana.edu/nlplab/bioterminology#ThePores> rdfs:label "The pores",
         "the pores" .
 
-ns2:ThePresence rdfs:label "The presence" .
+<http://www.indiana.edu/nlplab/bioterminology#ThePresence> rdfs:label "The presence" .
 
-ns2:ThePrimaryCellWalls rdfs:label "the primary cell walls" .
+<http://www.indiana.edu/nlplab/bioterminology#ThePrimaryCellWalls> rdfs:label "the primary cell walls" .
 
-ns2:ThePrimaryWall rdfs:label "the primary wall" .
+<http://www.indiana.edu/nlplab/bioterminology#ThePrimaryWall> rdfs:label "the primary wall" .
 
-ns2:TheProcess rdfs:label "the process" .
+<http://www.indiana.edu/nlplab/bioterminology#TheProcess> rdfs:label "the process" .
 
-ns2:TheProcesses rdfs:label "the processes" .
+<http://www.indiana.edu/nlplab/bioterminology#TheProcesses> rdfs:label "the processes" .
 
-ns2:TheProteins rdfs:label "The proteins" .
+<http://www.indiana.edu/nlplab/bioterminology#TheProteins> rdfs:label "The proteins" .
 
-ns2:TheProtoplasm rdfs:label "the protoplasm" .
+<http://www.indiana.edu/nlplab/bioterminology#TheProtoplasm> rdfs:label "the protoplasm" .
 
-ns2:TheProtoplasts rdfs:label "the protoplasts" .
+<http://www.indiana.edu/nlplab/bioterminology#TheProtoplasts> rdfs:label "the protoplasts" .
 
-ns2:TheRest rdfs:label "the rest" .
+<http://www.indiana.edu/nlplab/bioterminology#TheRest> rdfs:label "the rest" .
 
-ns2:TheRna rdfs:label "the RNA" .
+<http://www.indiana.edu/nlplab/bioterminology#TheRnaAndProteinComponents> rdfs:label "the RNA and protein components" .
 
-ns2:TheRodlikeChromosomes rdfs:label "the rodlike chromosomes" .
+<http://www.indiana.edu/nlplab/bioterminology#TheRodlikeChromosomes> rdfs:label "the rodlike chromosomes" .
 
-ns2:TheSecondaryCellWall rdfs:label "the secondary cell wall" .
+<http://www.indiana.edu/nlplab/bioterminology#TheSecondaryCellWall> rdfs:label "the secondary cell wall" .
 
-ns2:TheSelectionProcess rdfs:label "The selection process" .
+<http://www.indiana.edu/nlplab/bioterminology#TheSelectionProcess> rdfs:label "The selection process" .
 
-ns2:TheSisterChromatids rdfs:label "the sister chromatids" .
+<http://www.indiana.edu/nlplab/bioterminology#TheSisterChromatids> rdfs:label "the sister chromatids" .
 
-ns2:TheSite rdfs:label "the site" .
+<http://www.indiana.edu/nlplab/bioterminology#TheSite> rdfs:label "the site" .
 
-ns2:TheSites rdfs:label "the sites" .
+<http://www.indiana.edu/nlplab/bioterminology#TheSites> rdfs:label "the sites" .
 
-ns2:TheStroma rdfs:label "the stroma" .
+<http://www.indiana.edu/nlplab/bioterminology#TheStroma> rdfs:label "the stroma" .
 
-ns2:TheSynthesis rdfs:label "the synthesis" .
+<http://www.indiana.edu/nlplab/bioterminology#TheSynthesis> rdfs:label "the synthesis" .
 
-ns2:TheTelophase rdfs:label "the telophase" .
+<http://www.indiana.edu/nlplab/bioterminology#TheTelophase> rdfs:label "the telophase" .
 
-ns2:TheThylakoids rdfs:label "the thylakoids" .
+<http://www.indiana.edu/nlplab/bioterminology#TheThylakoids> rdfs:label "the thylakoids" .
 
-ns2:TheTime rdfs:label "the time" .
+<http://www.indiana.edu/nlplab/bioterminology#TheTime> rdfs:label "the time" .
 
-ns2:TheTonoplast rdfs:label "the tonoplast" .
+<http://www.indiana.edu/nlplab/bioterminology#TheTonoplast> rdfs:label "the tonoplast" .
 
-ns2:TheTwoSets rdfs:label "the two sets" .
+<http://www.indiana.edu/nlplab/bioterminology#TheTwoSets> rdfs:label "the two sets" .
 
-ns2:TheVacuole rdfs:label "The vacuole" .
+<http://www.indiana.edu/nlplab/bioterminology#TheVacuole> rdfs:label "The vacuole" .
 
-ns2:TheVesicles rdfs:label "The vesicles" .
+<http://www.indiana.edu/nlplab/bioterminology#TheVesicles> rdfs:label "The vesicles" .
 
-ns2:TheVolume rdfs:label "the volume" .
+<http://www.indiana.edu/nlplab/bioterminology#TheVolume> rdfs:label "the volume" .
 
-ns2:TheWalls rdfs:label "the walls" .
+<http://www.indiana.edu/nlplab/bioterminology#TheWalls> rdfs:label "the walls" .
 
-ns2:TheirCellMembrane rdfs:label "their cell membrane" .
+<http://www.indiana.edu/nlplab/bioterminology#TheirCellMembrane> rdfs:label "their cell membrane" .
 
-ns2:TheirCentromere rdfs:label "their centromere" .
+<http://www.indiana.edu/nlplab/bioterminology#TheirCentromere> rdfs:label "their centromere" .
 
-ns2:TheirOwnDna rdfs:label "their own DNA" .
+<http://www.indiana.edu/nlplab/bioterminology#TheirOwnDna> rdfs:label "their own DNA" .
 
-ns2:TheirUsualTwo-StrandedNature rdfs:label "their usual two-stranded nature" .
+<http://www.indiana.edu/nlplab/bioterminology#TheirUsualTwo-StrandedNature> rdfs:label "their usual two-stranded nature" .
 
-ns2:TheirVariousSurfaces rdfs:label "their various surfaces" .
+<http://www.indiana.edu/nlplab/bioterminology#TheirVariousSurfaces> rdfs:label "their various surfaces" .
 
-ns2:Them rdfs:label "them" .
+<http://www.indiana.edu/nlplab/bioterminology#Them> rdfs:label "them" .
 
-ns2:These rdfs:label "These" .
+<http://www.indiana.edu/nlplab/bioterminology#These> rdfs:label "These" .
 
-ns2:TheseFilaments rdfs:label "these filaments" .
+<http://www.indiana.edu/nlplab/bioterminology#TheseFilaments> rdfs:label "these filaments" .
 
-ns2:TheseOrganelles rdfs:label "these organelles" .
+<http://www.indiana.edu/nlplab/bioterminology#TheseOrganelles> rdfs:label "these organelles" .
 
-ns2:They rdfs:label "They",
+<http://www.indiana.edu/nlplab/bioterminology#They> rdfs:label "They",
         "they" .
 
-ns2:This rdfs:label "This" .
+<http://www.indiana.edu/nlplab/bioterminology#This> rdfs:label "This" .
 
-ns2:ThisMembrane rdfs:label "This membrane" .
+<http://www.indiana.edu/nlplab/bioterminology#ThisMembrane> rdfs:label "This membrane" .
 
-ns2:ThisProcess rdfs:label "this process" .
+<http://www.indiana.edu/nlplab/bioterminology#ThisProcess> rdfs:label "this process" .
 
-ns2:ThisTutorial rdfs:label "this tutorial" .
+<http://www.indiana.edu/nlplab/bioterminology#ThisTutorial> rdfs:label "this tutorial" .
 
-ns2:Those rdfs:label "those" .
+<http://www.indiana.edu/nlplab/bioterminology#Those> rdfs:label "those" .
 
-ns2:ThoseStudyingPlants rdfs:label "those studying plants" .
+<http://www.indiana.edu/nlplab/bioterminology#Threads> rdfs:label "threads" .
 
-ns2:Threads rdfs:label "threads" .
-
-ns2:Three rdfs:label "Three",
+<http://www.indiana.edu/nlplab/bioterminology#Three> rdfs:label "Three",
         "three" .
 
-ns2:ThreeDistinctPeriods rdfs:label "three distinct periods" .
+<http://www.indiana.edu/nlplab/bioterminology#ThreeDistinctPeriods> rdfs:label "three distinct periods" .
 
-ns2:ThreeTypes rdfs:label "Three types" .
+<http://www.indiana.edu/nlplab/bioterminology#ThreeTypes> rdfs:label "Three types" .
 
-ns2:Thylakoids rdfs:label "thylakoids" .
+<http://www.indiana.edu/nlplab/bioterminology#Thylakoids> rdfs:label "thylakoids" .
 
-ns2:Tracks rdfs:label "tracks" .
+<http://www.indiana.edu/nlplab/bioterminology#Tracks> rdfs:label "tracks" .
 
-ns2:TubuleStructures rdfs:label "tubule structures" .
+<http://www.indiana.edu/nlplab/bioterminology#TubuleStructures> rdfs:label "tubule structures" .
 
-ns2:Tubulin rdfs:label "tubulin" .
+<http://www.indiana.edu/nlplab/bioterminology#Tubulin> rdfs:label "tubulin" .
 
-ns2:Two rdfs:label "two" .
+<http://www.indiana.edu/nlplab/bioterminology#Two> rdfs:label "two" .
 
-ns2:TwoCells rdfs:label "two cells" .
+<http://www.indiana.edu/nlplab/bioterminology#TwoCells> rdfs:label "two cells" .
 
-ns2:TwoCentrioles rdfs:label "two centrioles" .
+<http://www.indiana.edu/nlplab/bioterminology#TwoCentrioles> rdfs:label "two centrioles" .
 
-ns2:TwoDaughterCells rdfs:label "two daughter cells" .
+<http://www.indiana.edu/nlplab/bioterminology#TwoDaughterCells> rdfs:label "two daughter cells" .
 
-ns2:TwoMembranes rdfs:label "two membranes" .
+<http://www.indiana.edu/nlplab/bioterminology#TwoMembranes> rdfs:label "two membranes" .
 
-ns2:TwoPortions rdfs:label "two portions" .
+<http://www.indiana.edu/nlplab/bioterminology#TwoPortions> rdfs:label "two portions" .
 
-ns2:UpTo14Sides rdfs:label "up to 14 sides" .
+<http://www.indiana.edu/nlplab/bioterminology#UpTo14> rdfs:label "up to 14" .
 
-ns2:UpTo90% rdfs:label "Up to 90%" .
+<http://www.indiana.edu/nlplab/bioterminology#UpTo14Sides> rdfs:label "up to 14 sides" .
 
-ns2:Vacuole rdfs:label "Vacuole" .
+<http://www.indiana.edu/nlplab/bioterminology#UpTo90%> rdfs:label "Up to 90%" .
 
-ns2:Vacuoles rdfs:label "vacuoles" .
+<http://www.indiana.edu/nlplab/bioterminology#VacuoleType> rdfs:label """
+    Vacuole type""" .
 
-ns2:VacuolesPlantCells rdfs:label """Vacuoles
-    Plant cells""" .
+<http://www.indiana.edu/nlplab/bioterminology#Vacuoles> rdfs:label "Vacuoles",
+        "vacuoles" .
 
-ns2:VariousChemicalProcesses rdfs:label "various chemical processes" .
+<http://www.indiana.edu/nlplab/bioterminology#VariousChemicalProcesses> rdfs:label "various chemical processes" .
 
-ns2:VariousMolecules rdfs:label "various molecules" .
+<http://www.indiana.edu/nlplab/bioterminology#VariousMolecules> rdfs:label "various molecules" .
 
-ns2:VariousTypes rdfs:label "various types" .
+<http://www.indiana.edu/nlplab/bioterminology#VariousTypes> rdfs:label "various types" .
 
-ns2:Vesicles rdfs:label "vesicles" .
+<http://www.indiana.edu/nlplab/bioterminology#Vesicles> rdfs:label "vesicles" .
 
-ns2:VesicularTraffic rdfs:label "vesicular traffic" .
+<http://www.indiana.edu/nlplab/bioterminology#VesicularTraffic> rdfs:label "vesicular traffic" .
 
-ns2:We rdfs:label "we" .
+<http://www.indiana.edu/nlplab/bioterminology#We> rdfs:label "we" .
 
-ns2:What rdfs:label "what" .
+<http://www.indiana.edu/nlplab/bioterminology#What> rdfs:label "what" .
 
-ns2:Which rdfs:label "which" .
+<http://www.indiana.edu/nlplab/bioterminology#Which> rdfs:label "which" .
 
-ns2:WhichMembrane-BoundOrganelles rdfs:label "which membrane-bound organelles" .
+<http://www.indiana.edu/nlplab/bioterminology#Whole-CellMovement> rdfs:label "whole-cell movement" .
 
-ns2:Whole-CellMovement rdfs:label "whole-cell movement" .
+<http://www.indiana.edu/nlplab/bioterminology#You> rdfs:label "you" .
 
-ns2:You rdfs:label "you" .
+<http://www.indiana.edu/nlplab/bioterminology#YoungParts> rdfs:label "young parts" .
 
-ns2:YoungParts rdfs:label "young parts" .
+<http://www.indiana.edu/nlplab/bioterminology#Organization> a owl:Class .
 
-ns2:Organization a owl:Class ;
-    ns2:isA owl:Class .
-
-ns2:Person a owl:Class ;
-    ns2:isA owl:Class .
+<http://www.indiana.edu/nlplab/bioterminology#Person> a owl:Class .
 
