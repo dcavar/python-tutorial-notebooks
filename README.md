@@ -12,6 +12,7 @@
 - [BERT Embeddings](notebooks/BERT_vectors.ipynb)
 - [Claude 3 Interaction using the Anthropic API](notebooks/claude3_test.ipynb)
 - [GPT-4 interaction using the OpenAI API](notebooks/gpt4_test.ipynb)
+- [Neo4j interaction](notebooks/neo4j_query.ipynb)
 - [Simple Transformer-based Text Classification](notebooks/Transformers_example_simple_text_classification.ipynb)
 - [Stanza Tutorial](notebooks/Stanza_tutorial.ipynb)
 - [Converting SEC CIKs to a Knowledge Graph](notebooks/CIK_to_Graph.ipynb)
