@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MarkdownSettings">
+    <option name="customStylesheetText" value="body {&#10;   font-size: 120% !important;&#10;}" />
+    <option name="useCustomStylesheetText" value="true" />
+  </component>
+</project>
