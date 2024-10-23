@@ -1,5 +1,4 @@
-Relational ID System			Content Taxonomy v3.0 Tiered Categories				Extension
-Unique ID	Parent	Name	Tier 1	Tier 2	Tier 3	Tier 4	
+Unique ID	Parent	Name	Tier 1	Tier 2	Tier 3	Tier 4	Extension
 150	150	Attractions	Attractions				
 151	150	Amusement and Theme Parks	Attractions	Amusement and Theme Parks			
 179	150	Bars & Restaurants	Attractions	Bars & Restaurants			
