@@ -65,6 +65,8 @@
 
 - [spaCy Tutorial](https://github.com/dcavar/python-tutorial-notebooks/blob/master/notebooks/spaCy%20Tutorial.ipynb)
 - [spaCy 3.x Tutorial: Transformers Spanish](https://github.com/dcavar/python-tutorial-notebooks/blob/master/notebooks/spaCy%203.x%20Tutorial%20Transformers%20Spanish.ipynb)
+- [spaCy Model from CoNLL Data](https://github.com/dcavar/python-tutorial-notebooks/blob/master/notebooks/spaCy_CoNLL_Training.ipynb)
+- [Train spaCy Model for Marathi (mr)](https://github.com/dcavar/python-tutorial-notebooks/blob/master/notebooks/Marathi/train_model.ipynb)
 - [Linear Algebra and Embeddings - spaCy](https://github.com/dcavar/python-tutorial-notebooks/blob/master/notebooks/Embeddings_and_Vectors.ipynb)
 
 
