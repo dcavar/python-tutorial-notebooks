@@ -4,6 +4,7 @@ __pycache__/
 *$py.class
 *.pt
 **/models/
+**/models_ner/
 Class_9_7_20.ipynb
 jupyterhub.sqlite
 jupyterhub_cookie_secret
