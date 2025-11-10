@@ -1,0 +1,22 @@
+LG-NuSegHop: A Local-to-Global Self-Supervised Pipeline For Nuclei Instance Segmentation
+Authors: Vasileios Magoulianitis, Catherine A. Alexander, Jiaxin Yang, C. -C. Jay Kuo
+Summary: Nuclei segmentation is the cornerstone task in histology image reading,
+shedding light on the underlying molecular patterns and leading to disease or
+cancer diagnosis. Yet, it is a laborious task that requires expertise from
+trained physicians. The large nuclei variability across different organ tissues
+and acquisition processes challenges the automation of this task. On the other
+hand, data annotations are expensive to obtain, and thus, Deep Learning (DL)
+models are challenged to generalize to unseen organs or different domains. This
+work proposes Local-to-Global NuSegHop (LG-NuSegHop), a self-supervised
+pipeline developed on prior knowledge of the problem and molecular biology.
+There are three distinct modules: (1) a set of local processing operations to
+generate a pseudolabel, (2) NuSegHop a novel data-driven feature extraction
+model and (3) a set of global operations to post-process the predictions of
+NuSegHop. Notably, even though the proposed pipeline uses { no manually
+annotated training data} or domain adaptation, it maintains a good
+generalization performance on other datasets. Experiments in three publicly
+available datasets show that our method outperforms other self-supervised and
+weakly supervised methods while having a competitive standing among fully
+supervised methods. Remarkably, every module within LG-NuSegHop is transparent
+and explainable to physicians.
+PDF URL: http://arxiv.org/pdf/2511.04892v1

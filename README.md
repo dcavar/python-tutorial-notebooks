@@ -1,47 +1,66 @@
 # Python Tutorials for NLP, ML, AI
 
-(C) 2016-2024 by [Damir Cavar]
+(C) 2016-2025 by [Damir Cavar]
 
 [NLP-Lab](https://nlp-lab.org/) at [Indiana University].
 
 
 ## Notebooks
 
+### Large Language Models, Generative AI, and Embeddings
+
 - [Anthropic / VoyageAI Embeddings](notebooks/anthropic_vectors.ipynb)
 - [OpenAI Embeddings](notebooks/openai_vectors.ipynb)
 - [BERT Embeddings](notebooks/BERT_vectors.ipynb)
 - [Claude 3 Interaction using the Anthropic API](notebooks/claude3_test.ipynb)
+- [Claude 4 Interaction using the Anthropic API](notebooks/claude4_test.ipynb)
 - [GPT-4 interaction using the OpenAI API](notebooks/gpt4_test.ipynb)
+- [Gemini Communication via API](https://github.com/dcavar/python-tutorial-notebooks/blob/master/notebooks/gemini_test.ipynb)
+- [N-gram Model for Text Generation](https://github.com/dcavar/python-tutorial-notebooks/blob/master/notebooks/N-gram%20Models%20for%20Language%20Models.ipynb)
+
+
+### Graph Databases and Knowledge Graphs
+
 - [Neo4j interaction](notebooks/neo4j_query.ipynb)
-- [Simple Transformer-based Text Classification](notebooks/Transformers_example_simple_text_classification.ipynb)
-- [Stanza Tutorial](notebooks/Stanza_tutorial.ipynb)
-- [Converting SEC CIKs to a Knowledge Graph](notebooks/CIK_to_Graph.ipynb)
 - [Allegro Graph example](https://github.com/dcavar/python-tutorial-notebooks/blob/master/notebooks/AllegroGraph_example.ipynb)
-- [Extracting Abbreviations](https://github.com/dcavar/python-tutorial-notebooks/blob/master/notebooks/Abbreviations_extraction.ipynb)
-- [Bayesian Classification for Machine Learning for Computational Linguistics](https://github.com/dcavar/python-tutorial-notebooks/blob/master/notebooks/Bayesian%20Classifier.ipynb)
-- [Python Tutorial 1: Part-of-Speech Tagging 1](notebooks/Python%20Tutorial%20PoS%20Tagging.ipynb)
-- [Lexical Clustering](https://github.com/dcavar/python-tutorial-notebooks/blob/master/notebooks/Lexical%20Clustering.ipynb)
-- [Linear Algebra](https://github.com/dcavar/python-tutorial-notebooks/blob/master/notebooks/Linear%20Algebra.ipynb)
-- [Neural Network Example with Keras](https://github.com/dcavar/python-tutorial-notebooks/blob/master/notebooks/Neural%20Network%20Example%20with%20Keras.ipynb)
-- [Computing Finite State Automata](https://github.com/dcavar/python-tutorial-notebooks/blob/master/notebooks/Non-Deterministic%20Automaton%20Computing.ipynb)
-- [Parallel Processing on Multiple Threads](https://github.com/dcavar/python-tutorial-notebooks/blob/master/notebooks/Parallelization_Example.ipynb)
-- [Perceptron Learning in Python](https://github.com/dcavar/python-tutorial-notebooks/blob/master/notebooks/Perceptron%20Learning%20in%20Python.ipynb)
-- [Clustering with Scikit-learn](https://github.com/dcavar/python-tutorial-notebooks/blob/master/notebooks/Python%20Clustering%20with%20Scikit-learn.ipynb)
-- [Simple Language ID with N-grams](https://github.com/dcavar/python-tutorial-notebooks/blob/master/notebooks/Python%20Language%20ID.ipynb)
-- [Support Vector Machine (SVM) Classifier Example](https://github.com/dcavar/python-tutorial-notebooks/blob/master/notebooks/Python%20SVM%20Classifier%20Example.ipynb)
-- [Scikit-Learn for Computational Linguists](https://github.com/dcavar/python-tutorial-notebooks/blob/master/notebooks/Python%20Scikit-Learn%20for%20Computational%20Linguists.ipynb)
-- [Tutorial: Tokens and N-grams](https://github.com/dcavar/python-tutorial-notebooks/blob/master/notebooks/Python%20Tokens%20and%20N-grams.ipynb)
-- [Tutorial 1: Part-of-Speech Tagging 1](https://github.com/dcavar/python-tutorial-notebooks/blob/master/notebooks/Python%20Tutorial%20PoS%20Tagging.ipynb)
-- [Tutorial 2: Hidden Markov Models](https://github.com/dcavar/python-tutorial-notebooks/blob/master/notebooks/Python%20Tutorial%20HMM.ipynb)
-- [Word Sense Disambiguation](https://github.com/dcavar/python-tutorial-notebooks/blob/master/notebooks/Python%20Word%20Sense%20Disambiguation.ipynb)
-- [Python examples and notes for Machine Learning for Computational Linguistics](https://github.com/dcavar/python-tutorial-notebooks/blob/master/notebooks/Python%20examples%20and%20notes%20for%20Machine%20Learning%20for%20Computational%20Linguistics.ipynb)
 - [RDFlib Graphs](https://github.com/dcavar/python-tutorial-notebooks/blob/master/notebooks/RDFlib_example.ipynb)
-- [Scikit-learn Logistic Regression](https://github.com/dcavar/python-tutorial-notebooks/blob/master/notebooks/Scikitlearn_logistic_regression.ipynb)
+- [YAGO Knowledge Graph Endpoint](https://github.com/dcavar/python-tutorial-notebooks/blob/master/notebooks/query_YAGO.ipynb)
+- [Virtuoso Graph Server Endpoint](https://github.com/dcavar/python-tutorial-notebooks/blob/master/notebooks/virtuoso_server.ipynb)
+- [Processing IAB Taxonomies](https://github.com/dcavar/python-tutorial-notebooks/blob/master/notebooks/Process_IAB_Taxonomies.ipynb)
+- [Converting SEC CIKs to a Knowledge Graph](notebooks/CIK_to_Graph.ipynb)
+
+
+### Collecting Data
+
+- [Pulling papers and meta-information from Arxiv](https://github.com/dcavar/python-tutorial-notebooks/blob/master/notebooks/arxiv_api_example.ipynb)
 - [Convert the Stanford Sentiment Treebank Data to CSV](https://github.com/dcavar/python-tutorial-notebooks/blob/master/notebooks/Stanford_Sentiment_Treebank_Converter.ipynb)
-- [TextRank Example](https://github.com/dcavar/python-tutorial-notebooks/blob/master/notebooks/textrank_example.ipynb)
 
 
-### NLTK Notebooks
+### Text Classification
+
+- [Simple Transformer-based Text Classification](notebooks/Transformers_example_simple_text_classification.ipynb)
+- [Bayesian Classification for Machine Learning for Computational Linguistics](https://github.com/dcavar/python-tutorial-notebooks/blob/master/notebooks/Bayesian%20Classifier.ipynb)
+- [Scikit-learn Logistic Regression 1](https://github.com/dcavar/python-tutorial-notebooks/blob/master/notebooks/Scikitlearn_logistic_regression.ipynb)
+- [Scikit-learn Logistic Regression 2](https://github.com/dcavar/python-tutorial-notebooks/blob/master/notebooks/Scikitlearn_logistic_regression_2.ipynb)
+- [Simple Feed Forward Network 1](https://github.com/dcavar/python-tutorial-notebooks/blob/master/notebooks/SimpleFeedForwardNetwork.ipynb)
+- [Simple Feed Forward Network 2](https://github.com/dcavar/python-tutorial-notebooks/blob/master/notebooks/SimpleFeedForwardNetwork_2.ipynb)
+
+
+### NLP Pipelines
+
+- [Stanza Tutorial](notebooks/Stanza_tutorial.ipynb)
+
+#### spaCy Notebooks
+
+- [spaCy Tutorial](https://github.com/dcavar/python-tutorial-notebooks/blob/master/notebooks/spaCy%20Tutorial.ipynb)
+- [spaCy 3.x Tutorial: Transformers Spanish](https://github.com/dcavar/python-tutorial-notebooks/blob/master/notebooks/spaCy%203.x%20Tutorial%20Transformers%20Spanish.ipynb)
+- [spaCy Named Entity Recognition Bootstrapping Model](https://github.com/dcavar/python-tutorial-notebooks/blob/master/notebooks/spaCy_NER_training.ipynb)
+- [spaCy Model from CoNLL Data](https://github.com/dcavar/python-tutorial-notebooks/blob/master/notebooks/spaCy_CoNLL_Training.ipynb)
+- [Train spaCy Model for Marathi (mr)](https://github.com/dcavar/python-tutorial-notebooks/blob/master/notebooks/Marathi/train_model.ipynb)
+- [Linear Algebra and Embeddings - spaCy](https://github.com/dcavar/python-tutorial-notebooks/blob/master/notebooks/Embeddings_and_Vectors.ipynb)
+
+
+#### NLTK Notebooks
 
 - [NLTK: Texts and Frequencies - N-gram models and frequency profiles](https://github.com/dcavar/python-tutorial-notebooks/blob/master/notebooks/Python%20NLTK%20-%20Texts%20and%20Frequencies.ipynb)
 - [Parsing with NLTK](https://github.com/dcavar/python-tutorial-notebooks/blob/master/notebooks/Python%20Parsing%20with%20NLTK.ipynb)
@@ -61,13 +80,33 @@
 
 
 
-### spaCy Notebooks
+### NLP Tools
 
-- [spaCy Tutorial](https://github.com/dcavar/python-tutorial-notebooks/blob/master/notebooks/spaCy%20Tutorial.ipynb)
-- [spaCy 3.x Tutorial: Transformers Spanish](https://github.com/dcavar/python-tutorial-notebooks/blob/master/notebooks/spaCy%203.x%20Tutorial%20Transformers%20Spanish.ipynb)
-- [spaCy Model from CoNLL Data](https://github.com/dcavar/python-tutorial-notebooks/blob/master/notebooks/spaCy_CoNLL_Training.ipynb)
-- [Train spaCy Model for Marathi (mr)](https://github.com/dcavar/python-tutorial-notebooks/blob/master/notebooks/Marathi/train_model.ipynb)
-- [Linear Algebra and Embeddings - spaCy](https://github.com/dcavar/python-tutorial-notebooks/blob/master/notebooks/Embeddings_and_Vectors.ipynb)
+- [Extracting Abbreviations](https://github.com/dcavar/python-tutorial-notebooks/blob/master/notebooks/Abbreviations_extraction.ipynb)
+- [TextRank Example](https://github.com/dcavar/python-tutorial-notebooks/blob/master/notebooks/textrank_example.ipynb)
+
+
+### Generic Notebooks
+
+- [Python Tutorial 1: Part-of-Speech Tagging 1](notebooks/Python%20Tutorial%20PoS%20Tagging.ipynb)
+- [Lexical Clustering](https://github.com/dcavar/python-tutorial-notebooks/blob/master/notebooks/Lexical%20Clustering.ipynb)
+- [Linear Algebra](https://github.com/dcavar/python-tutorial-notebooks/blob/master/notebooks/Linear%20Algebra.ipynb)
+- [Neural Network Example with Keras](https://github.com/dcavar/python-tutorial-notebooks/blob/master/notebooks/Neural%20Network%20Example%20with%20Keras.ipynb)
+- [Computing Finite State Automata](https://github.com/dcavar/python-tutorial-notebooks/blob/master/notebooks/Non-Deterministic%20Automaton%20Computing.ipynb)
+- [Parallel Processing on Multiple Threads](https://github.com/dcavar/python-tutorial-notebooks/blob/master/notebooks/Parallelization_Example.ipynb)
+- [Perceptron Learning in Python](https://github.com/dcavar/python-tutorial-notebooks/blob/master/notebooks/Perceptron%20Learning%20in%20Python.ipynb)
+- [Clustering with Scikit-learn](https://github.com/dcavar/python-tutorial-notebooks/blob/master/notebooks/Python%20Clustering%20with%20Scikit-learn.ipynb)
+- [Simple Language ID with N-grams](https://github.com/dcavar/python-tutorial-notebooks/blob/master/notebooks/Python%20Language%20ID.ipynb)
+- [Support Vector Machine (SVM) Classifier Example](https://github.com/dcavar/python-tutorial-notebooks/blob/master/notebooks/Python%20SVM%20Classifier%20Example.ipynb)
+- [Scikit-Learn for Computational Linguists](https://github.com/dcavar/python-tutorial-notebooks/blob/master/notebooks/Python%20Scikit-Learn%20for%20Computational%20Linguists.ipynb)
+- [Tutorial: Tokens and N-grams](https://github.com/dcavar/python-tutorial-notebooks/blob/master/notebooks/Python%20Tokens%20and%20N-grams.ipynb)
+- [Tutorial 1: Part-of-Speech Tagging 1](https://github.com/dcavar/python-tutorial-notebooks/blob/master/notebooks/Python%20Tutorial%20PoS%20Tagging.ipynb)
+- [Tutorial 2: Hidden Markov Models](https://github.com/dcavar/python-tutorial-notebooks/blob/master/notebooks/Python%20Tutorial%20HMM.ipynb)
+- [Word Sense Disambiguation](https://github.com/dcavar/python-tutorial-notebooks/blob/master/notebooks/Python%20Word%20Sense%20Disambiguation.ipynb)
+- [Python examples and notes for Machine Learning for Computational Linguistics](https://github.com/dcavar/python-tutorial-notebooks/blob/master/notebooks/Python%20examples%20and%20notes%20for%20Machine%20Learning%20for%20Computational%20Linguistics.ipynb)
+
+
+
 
 
 See the licensing details on the individual documents and in the [LICENSE] file in the code folder.

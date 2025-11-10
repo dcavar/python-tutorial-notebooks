@@ -1,0 +1,14 @@
+Dynamic causal discovery in Alzheimer's disease through latent pseudotime modelling
+Authors: Natalia Glazman, Jyoti Mangal, Pedro Borges, Sebastien Ourselin, M. Jorge Cardoso
+Summary: The application of causal discovery to diseases like Alzheimer's (AD) is
+limited by the static graph assumptions of most methods; such models cannot
+account for an evolving pathophysiology, modulated by a latent disease
+pseudotime. We propose to apply an existing latent variable model to real-world
+AD data, inferring a pseudotime that orders patients along a data-driven
+disease trajectory independent of chronological age, then learning how causal
+relationships evolve. Pseudotime outperformed age in predicting diagnosis (AUC
+0.82 vs 0.59). Incorporating minimal, disease-agnostic background knowledge
+substantially improved graph accuracy and orientation. Our framework reveals
+dynamic interactions between novel (NfL, GFAP) and established AD markers,
+enabling practical causal discovery despite violated assumptions.
+PDF URL: http://arxiv.org/pdf/2511.04619v1

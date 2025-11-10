@@ -1,0 +1,22 @@
+Dynamic Residual Encoding with Slide-Level Contrastive Learning for End-to-End Whole Slide Image Representation
+Authors: Jing Jin, Xu Liu, Te Gao, Zhihong Shi, Yixiong Liang, Ruiqing Zheng, Hulin Kuang, Min Zeng, Shichao Kan
+Summary: Whole Slide Image (WSI) representation is critical for cancer subtyping,
+cancer recognition and mutation prediction.Training an end-to-end WSI
+representation model poses significant challenges, as a standard gigapixel
+slide can contain tens of thousands of image tiles, making it difficult to
+compute gradients of all tiles in a single mini-batch due to current GPU
+limitations. To address this challenge, we propose a method of dynamic residual
+encoding with slide-level contrastive learning (DRE-SLCL) for end-to-end WSI
+representation. Our approach utilizes a memory bank to store the features of
+tiles across all WSIs in the dataset. During training, a mini-batch usually
+contains multiple WSIs. For each WSI in the batch, a subset of tiles is
+randomly sampled and their features are computed using a tile encoder. Then,
+additional tile features from the same WSI are selected from the memory bank.
+The representation of each individual WSI is generated using a residual
+encoding technique that incorporates both the sampled features and those
+retrieved from the memory bank. Finally, the slide-level contrastive loss is
+computed based on the representations and histopathology reports ofthe WSIs
+within the mini-batch. Experiments conducted over cancer subtyping, cancer
+recognition, and mutation prediction tasks proved the effectiveness of the
+proposed DRE-SLCL method.
+PDF URL: http://arxiv.org/pdf/2511.05034v1

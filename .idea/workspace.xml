@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d2c3b261-2807-42bb-bf87-e7a1d65ffb65" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/notebooks/Transformers_example_simple_text_classification.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/Transformers_example_simple_text_classification.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebooks/data/StanfordSentimentTreebank/README.txt" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/data/StanfordSentimentTreebank/README.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebooks/data/StanfordSentimentTreebank/SOStr.txt" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/data/StanfordSentimentTreebank/SOStr.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebooks/data/StanfordSentimentTreebank/STree.txt" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/data/StanfordSentimentTreebank/STree.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebooks/data/StanfordSentimentTreebank/datasetSentences.txt" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/data/StanfordSentimentTreebank/datasetSentences.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebooks/data/StanfordSentimentTreebank/datasetSplit.txt" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/data/StanfordSentimentTreebank/datasetSplit.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebooks/data/StanfordSentimentTreebank/dictionary.txt" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/data/StanfordSentimentTreebank/dictionary.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebooks/data/StanfordSentimentTreebank/original_rt_snippets.txt" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/data/StanfordSentimentTreebank/original_rt_snippets.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebooks/data/StanfordSentimentTreebank/sentiment_labels.txt" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/data/StanfordSentimentTreebank/sentiment_labels.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebooks/spaCy Tutorial.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/spaCy Tutorial.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebooks/spaCy_NER_training.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/spaCy_NER_training.ipynb" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 7
+}]]></component>
+  <component name="ProjectId" id="35FxjxhPZzcZn8D5vvEL5BA89F5" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-3aa1da707db6-JavaScript-PY-252.27397.106" />
+        <option value="bundled-python-sdk-4e2b1448bda8-9a97661f3031-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-252.27397.106" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d2c3b261-2807-42bb-bf87-e7a1d65ffb65" name="Changes" comment="" />
+      <created>1762719762611</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1762719762611</updated>
+      <workItem from="1762719764972" duration="84000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
