@@ -9,6 +9,7 @@
 
 ### Large Language Models, Generative AI, and Embeddings
 
+- [Ollama Communication from Jupyter Notebooks](notebooks/ollama_test.ipynb)
 - [Anthropic / VoyageAI Embeddings](notebooks/anthropic_vectors.ipynb)
 - [OpenAI Embeddings](notebooks/openai_vectors.ipynb)
 - [BERT Embeddings](notebooks/BERT_vectors.ipynb)
