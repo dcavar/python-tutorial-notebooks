@@ -1,10 +1,10 @@
 # Python Tutorials for NLP, ML, AI
 
-(C) 2016-2025 by [Damir Cavar]
+(C) 2016-2026 by [Damir Cavar]
 
 [NLP-Lab](https://nlp-lab.org/) at [Indiana University].
 
-The notebooks below are my personal course material used in classes since 2016 until now (2025). Feel free to use those notebooks in your classes and tutorials and share the information with [me](https://damir.cavar.me/), if you do.
+The notebooks below are my personal course material used in classes since 2016 until now (2026). Feel free to use those notebooks in your classes and tutorials and share the information with [me](https://damir.cavar.me/), if you do.
 
 
 
@@ -21,6 +21,7 @@ The notebooks below are my personal course material used in classes since 2016 u
 - [GPT-4 interaction using the OpenAI API](notebooks/gpt4_test.ipynb)
 - [Gemini Communication via API](notebooks/gemini_test.ipynb)
 - [N-gram Model for Text Generation](notebooks/N-gram%20Models%20for%20Language%20Models.ipynb)
+- [Tokenizers (Classical, WordPiece, BERT tokenizer, Byte Pair Encoding)](notebooks/tokenizers.ipynb)
 
 
 ### Graph Databases and Knowledge Graphs
