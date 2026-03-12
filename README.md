@@ -12,6 +12,7 @@ The notebooks below are my personal course material used in classes since 2016 u
 
 ### Large Language Models, Generative AI, and Embeddings
 
+- [Getting [MASK] probabilities from BERT (for Diffusion Models)](notebooks/BERT_Reading_Probabilities.ipynb)
 - [Ollama Communication from Jupyter Notebooks](notebooks/ollama_test.ipynb)
 - [Anthropic / VoyageAI Embeddings](notebooks/anthropic_vectors.ipynb)
 - [OpenAI Embeddings](notebooks/openai_vectors.ipynb)
@@ -30,7 +31,7 @@ The notebooks below are my personal course material used in classes since 2016 u
 - [Allegro Graph example](notebooks/AllegroGraph_example.ipynb)
 - [RDFlib Graphs](notebooks/RDFlib_example.ipynb)
 - [YAGO Knowledge Graph Endpoint](notebooks/query_YAGO.ipynb)
-- [Virtuoso Graph Server Endpoint](notebooks/virtuoso_server.ipynb)
+- [Virtuoso Graph Server Endpoint (triple store, SPARQL endpoint)](notebooks/virtuoso_server.ipynb)
 - [Processing IAB Taxonomies](notebooks/Process_IAB_Taxonomies.ipynb)
 - [Converting SEC CIKs to a Knowledge Graph](notebooks/CIK_to_Graph.ipynb)
 
