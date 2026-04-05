@@ -80,7 +80,6 @@ The notebooks below are my personal course material used in classes since 2016 u
 - [FrameNet Examples using NLTK](notebooks/FrameNet%20Examples%20using%20NLTK.ipynb)
 - [PropBank in NLTK](notebooks/NLTK_Propbank.ipynb)
 - [Machine Translation in Python 3 with NLTK](notebooks/Machine%20Translation%20in%20Python%203%20with%20NLTK.ipynb)
-- [N-gram Models from Text for Language Models](notebooks/N-gram%20Models%20for%20Language%20Models.ipynb)
 - [Probabilistic Context-free Grammar (PCFG) Parsing using NLTK](notebooks/PCFG%20Parsing%20with%20NLTK.ipynb)
 - [Python for Text Similarities 1](notebooks/Python%20for%20Text%20Similarities.ipynb)
 
@@ -94,7 +93,7 @@ The notebooks below are my personal course material used in classes since 2016 u
 
 ### Generic Notebooks
 
-- [Python Tutorial 1: Part-of-Speech Tagging 1](notebooks/Python%20Tutorial%20PoS%20Tagging.ipynb)
+- [Python Tutorial 1: Part-of-Speech Tagging](notebooks/Python%20Tutorial%20PoS%20Tagging.ipynb)
 - [Lexical Clustering](notebooks/Lexical%20Clustering.ipynb)
 - [Linear Algebra](notebooks/Linear%20Algebra.ipynb)
 - [Neural Network Example with Keras](notebooks/Neural%20Network%20Example%20with%20Keras.ipynb)
@@ -106,7 +105,6 @@ The notebooks below are my personal course material used in classes since 2016 u
 - [Support Vector Machine (SVM) Classifier Example](notebooks/Python%20SVM%20Classifier%20Example.ipynb)
 - [Scikit-Learn for Computational Linguists](notebooks/Python%20Scikit-Learn%20for%20Computational%20Linguists.ipynb)
 - [Tutorial: Tokens and N-grams](notebooks/Python%20Tokens%20and%20N-grams.ipynb)
-- [Tutorial 1: Part-of-Speech Tagging 1](notebooks/Python%20Tutorial%20PoS%20Tagging.ipynb)
 - [Tutorial 2: Hidden Markov Models](notebooks/Python%20Tutorial%20HMM.ipynb)
 - [Word Sense Disambiguation](notebooks/Python%20Word%20Sense%20Disambiguation.ipynb)
 - [Python examples and notes for Machine Learning for Computational Linguistics](notebooks/Python%20examples%20and%20notes%20for%20Machine%20Learning%20for%20Computational%20Linguistics.ipynb)
@@ -167,7 +165,7 @@ To configure and install all [BeakerX] components I run:
 
 	sudo -H beakerx install
 
-Some of the components I like to use require [Node.js]. On [Ubuntu] I usually add the newest [Node.js] as a PPA and not via [Ubuntu Snap]. Some instructions how to achieve that can be found [here](https://tecadmin.net/install-latest-nodejs-npm-on-ubuntu/). To install [Node.js] on [Ubuntu] simply run:
+Some of the components I like to use require [Node.js]. On [Ubuntu] I usually add the newest [Node.js] as a PPA and not via [Ubuntu Snap]. Some instructions on how to achieve that can be found [here](https://tecadmin.net/install-latest-nodejs-npm-on-ubuntu/). To install [Node.js] on [Ubuntu] simply run:
 
 	sudo apt install nodejs
 
@@ -206,7 +204,7 @@ Enjoy!
 [Computational Linguistics Program]: http://cl.indiana.edu/programs.html "IU Computational Linguistics"
 [Department of Linguistics]: http://www.indiana.edu/~lingdept/ "IU Department of Linguistics"
 [Indiana University]: https://www.indiana.edu/ "Indiana University"
-[Anaconda Python 3.x distribution]: https://www.continuum.io/downloads "Anaconda Python"
+[Anaconda Python 3.x distribution]: https://www.anaconda.com/download "Anaconda Python"
 [BeakerX]: http://beakerx.com/ "BeakerX"
 [Scala]: https://www.scala-lang.org/ "The Scala Programming Language"
 [Clojure]: https://clojure.org/ "Clojure"
