@@ -13,7 +13,8 @@ notebooks/Marathi/config.cfg
 notebooks/Marathi/dev.spacy/
 notebooks/Marathi/train.spacy/
 notebooks/Marathi/output/
-
+.claude/
+.idea/
 
 # C extensions
 *.so
